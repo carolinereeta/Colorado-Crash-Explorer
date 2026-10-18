@@ -1,4 +1,3 @@
-"""Pure descriptive metrics; avoids causal claims and missing-value assumptions."""
 from collections import Counter
 from datetime import datetime, timedelta
 
