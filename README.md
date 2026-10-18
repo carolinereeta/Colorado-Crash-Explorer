@@ -1,4 +1,4 @@
-# 🚦 Colorado Crash Explorer
+# Colorado Crash Explorer
 
 **What can five years of Colorado traffic crash records tell us about our communities?**
 
@@ -19,7 +19,6 @@ An open, reproducible Python data-storytelling project exploring **reported road
 - An *optional* AI feature that receives only aggregate numbers for drafting a cautious, editable plain-language interpretation. The dashboard works without an API key.
 - Tiny, GitHub-friendly **derived data** (< 2MB) and a reproducible transformer for the original Excel files.
 
-**New to Python/GitHub?** Follow the [step-by-step Windows setup and code guide](GETTING_STARTED_WINDOWS.md).
 
 ## Quick start
 
@@ -126,16 +125,6 @@ python scripts/build_pages.py
 
 The preview loads Plotly from a public CDN, so its charts need an internet connection. The included `app.py` is the more complete dashboard, including El Paso spatial bins and optional AI summaries.
 
-## Optional Power BI version
-
-The included CSVs can be imported into Power BI. See [POWER_BI_GUIDE.md](POWER_BI_GUIDE.md) for a report layout, DAX measures, and essential notes on time-of-day data quality. A `.pbix` dashboard is not included in this release.
-
-## Optional AI commentary
-
-The dashboard offers an optional text interpretation using the OpenAI API. It is **off by default**, never stores the entered key, and sends only selected aggregate counts (no coordinates, rows, names, or identifiers). Using it may incur API charges. AI-generated text should be treated as a draft, verified against the charts, and not passed off as original statistical inference.
-
-Do **not** put real keys in GitHub. You can instead set `OPENAI_API_KEY` in your terminal or enter a key only when you choose to generate a summary.
-
 ## How to expand it
 
 The best next step is adding a **school walkability audit** in Colorado Springs: verified school locations, crosswalk quality, sidewalk conditions and responsible street-level field observations. Then combine those new data with CDOT crash records while keeping the two evidence types clearly separate. See [CONTRIBUTING.md](CONTRIBUTING.md) for a scoped roadmap.
@@ -143,7 +132,3 @@ The best next step is adding a **school walkability audit** in Colorado Springs:
 ## Source and attribution
 
 Original annual tables and [2021–2026 data dictionary](https://www.codot.gov/safety/traffic-safety/data-analysis/crash-data): **Colorado Department of Transportation (CDOT), Statewide Crash Data Listings, 2021–2026**, accessed October 2026. CDOT maintains that all its crash listings, reports, and dashboards are protected under 23 U.S.C. § 407. This independent educational project is neither endorsed by nor affiliated with CDOT. It reports descriptive aggregates and should not be used alone for safety or engineering decisions.
-
-## Academic and résumé integrity
-
-If citing this project on a résumé or college application, describe the parts you *personally built, analyzed, maintained, or presented*. The repository is designed for contributors to improve and verify its methods; only claim results and code you understand and can reproduce.
