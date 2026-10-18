@@ -1,0 +1,11 @@
+# Public outputs (data/processed) ARE tracked; raw annual Excel files are not.
+raw_data/
+*.xlsx
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
