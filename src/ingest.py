@@ -1,8 +1,3 @@
-"""Stream large CDOT XLSX files into small, aggregated, versionable CSV outputs.
-
-No raw data files or API keys are needed in the published repository.
-The XLSX XML is streamed to avoid loading six ~50MB workbooks into RAM.
-"""
 from __future__ import annotations
 import argparse
 import csv
@@ -15,13 +10,9 @@ from lxml import etree
 from .metrics import date_from_excel, severity, valid_point, non_motorist_category
 
 NS = '{http://schemas.openxmlformats.org/spreadsheetml/2006/main}'
-FIELDS = {
- 0: 'cuid', 5: 'date_raw', 6: 'time', 8:'city', 9:'county',
- 10:'latitude', 11:'longitude', 15:'location', 16:'road_description',
- 22:'crash_type', 25:'killed', 26:'injured', 32:'vehicles',
- 35:'school_zone', 38:'road_condition', 39:'lighting', 40:'weather',
- 89:'nonmotorist_1', 90:'nonmotorist_2', 107:'record_status'
-}
+FIELDS = {0: 'cuid', 5: 'date_raw', 6: 'time', 8:'city', 9:'county', 10:'latitude', 11:'longitude', 15:'location', 16:'road_description',
+22:'crash_type', 25:'killed', 26:'injured', 32:'vehicles',35:'school_zone', 38:'road_condition', 39:'lighting', 40:'weather',
+89:'nonmotorist_1', 90:'nonmotorist_2', 107:'record_status'}
 FIELD_INDICES = set(FIELDS)
 
 def col_index(reference):
@@ -175,17 +166,11 @@ def run(input_dir: Path, out: Path):
     write_csv(out,'nonmotorist.csv',['year','area','type','severity','crashes'],[[*k,v] for k,v in sorted(nonmotorist.items())])
     write_csv(out,'el_paso_grid.csv',['year','latitude_bin','longitude_bin','severity','crashes'],[[*k,v] for k,v in sorted(geo.items())])
     write_csv(out,'data_quality.csv',['year','metric','value'],[[*k,v] for k,v in sorted(quality.items())])
-    summary={
-      'years': years,'rows_source':sum(quality[(y,'source_rows')] for y in years),
-      'crashes_retained':sum(counts[(y,'crashes')] for y in years),
-      'latest_dates':{str(y):str(maxdate[y]) for y in years if y in maxdate},
-      'annual':{str(y):{area:counts[(y,area,'crashes')] for area in area_names} for y in years},
+    summary={'years': years,'rows_source':sum(quality[(y,'source_rows')] for y in years),'crashes_retained':sum(counts[(y,'crashes')] for y in years),
+      'latest_dates':{str(y):str(maxdate[y]) for y in years if y in maxdate},'annual':{str(y):{area:counts[(y,area,'crashes')] for area in area_names} for y in years},
       'notes':['Counts reflect reported crashes in these supplied extracts, not exposure-adjusted risk.',
-       '2026 is partial and should not be compared directly with full years.',
-       'Severe crashes means at least one injury or fatality, not an injury severity grade.',
-       'Non-motorist categories rely on two selected NM Type fields and may be incomplete.',
-       'Missing or invalid dates are excluded from month breakdowns but included in annual filename-year totals.']
-    }
+       '2026 is partial and should not be compared directly with full years.','Severe crashes means at least one injury or fatality, not an injury severity grade.','Non-motorist categories rely on two selected NM Type fields and may be incomplete.',
+       'Missing or invalid dates are excluded from month breakdowns but included in annual filename-year totals.']}
     (out/'summary.json').write_text(json.dumps(summary,indent=2),encoding='utf-8')
     print(json.dumps(summary,indent=2),flush=True)
 
