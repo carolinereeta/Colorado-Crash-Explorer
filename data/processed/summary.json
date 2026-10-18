@@ -1,0 +1,59 @@
+{
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "rows_source": 561843,
+  "crashes_retained": 561843,
+  "latest_dates": {
+    "2021": "2021-12-31",
+    "2022": "2022-12-31",
+    "2023": "2023-12-31",
+    "2024": "2024-12-31",
+    "2025": "2025-12-31",
+    "2026": "2026-09-30"
+  },
+  "annual": {
+    "2021": {
+      "Colorado": 97788,
+      "El Paso County": 11000,
+      "Colorado Springs": 8290
+    },
+    "2022": {
+      "Colorado": 95380,
+      "El Paso County": 10222,
+      "Colorado Springs": 7628
+    },
+    "2023": {
+      "Colorado": 102768,
+      "El Paso County": 10339,
+      "Colorado Springs": 7197
+    },
+    "2024": {
+      "Colorado": 100680,
+      "El Paso County": 9704,
+      "Colorado Springs": 6451
+    },
+    "2025": {
+      "Colorado": 95696,
+      "El Paso County": 9940,
+      "Colorado Springs": 6962
+    },
+    "2026": {
+      "Colorado": 69531,
+      "El Paso County": 7472,
+      "Colorado Springs": 5192
+    }
+  },
+  "notes": [
+    "Counts reflect reported crashes in these supplied extracts, not exposure-adjusted risk.",
+    "2026 is partial and should not be compared directly with full years.",
+    "Severe crashes means at least one injury or fatality, not an injury severity grade.",
+    "Non-motorist categories rely on two selected NM Type fields and may be incomplete.",
+    "Missing or invalid dates are excluded from month breakdowns but included in annual filename-year totals."
+  ]
+}

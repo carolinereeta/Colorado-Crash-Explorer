@@ -1,0 +1,1927 @@
+year,area,crash_type,severity,crashes
+2021,Colorado,Approach Turn,Fatal,50
+2021,Colorado,Approach Turn,Injury,2913
+2021,Colorado,Approach Turn,No injury reported,4162
+2021,Colorado,Barricade,Injury,46
+2021,Colorado,Barricade,No injury reported,173
+2021,Colorado,Bicycle/Motorized Bicycle,Fatal,15
+2021,Colorado,Bicycle/Motorized Bicycle,Injury,753
+2021,Colorado,Bicycle/Motorized Bicycle,No injury reported,198
+2021,Colorado,Bridge Structure,Fatal,2
+2021,Colorado,Bridge Structure,Injury,4
+2021,Colorado,Bridge Structure,No injury reported,3
+2021,Colorado,Bridge Structure (Not Overhead),Injury,24
+2021,Colorado,Bridge Structure (Not Overhead),No injury reported,24
+2021,Colorado,Broadside,Fatal,65
+2021,Colorado,Broadside,Injury,4611
+2021,Colorado,Broadside,No injury reported,9176
+2021,Colorado,Cable Rail,Fatal,4
+2021,Colorado,Cable Rail,Injury,63
+2021,Colorado,Cable Rail,No injury reported,255
+2021,Colorado,Concrete Highway Barrier,Fatal,13
+2021,Colorado,Concrete Highway Barrier,Injury,381
+2021,Colorado,Concrete Highway Barrier,No injury reported,803
+2021,Colorado,Crash Cushion/Traffic Barrel,Injury,46
+2021,Colorado,Crash Cushion/Traffic Barrel,No injury reported,70
+2021,Colorado,Culvert or Headwall,Fatal,5
+2021,Colorado,Culvert or Headwall,Injury,52
+2021,Colorado,Culvert or Headwall,No injury reported,95
+2021,Colorado,Curb,Fatal,9
+2021,Colorado,Curb,Injury,412
+2021,Colorado,Curb,No injury reported,1474
+2021,Colorado,Delineator/Milepost,Injury,122
+2021,Colorado,Delineator/Milepost,No injury reported,278
+2021,Colorado,Ditch,Fatal,3
+2021,Colorado,Ditch,Injury,101
+2021,Colorado,Ditch,No injury reported,275
+2021,Colorado,Domestic Animal,Injury,38
+2021,Colorado,Domestic Animal,No injury reported,301
+2021,Colorado,Electrical/Utility Box,Fatal,1
+2021,Colorado,Electrical/Utility Box,Injury,20
+2021,Colorado,Electrical/Utility Box,No injury reported,119
+2021,Colorado,Embankment,Fatal,14
+2021,Colorado,Embankment,Injury,375
+2021,Colorado,Embankment,No injury reported,824
+2021,Colorado,Fell from Motor Vehicle,Injury,39
+2021,Colorado,Fell from Motor Vehicle,No injury reported,7
+2021,Colorado,Fence,Fatal,11
+2021,Colorado,Fence,Injury,261
+2021,Colorado,Fence,No injury reported,1255
+2021,Colorado,Ground,Fatal,2
+2021,Colorado,Ground,Injury,45
+2021,Colorado,Ground,No injury reported,65
+2021,Colorado,Guardrail End,Fatal,5
+2021,Colorado,Guardrail End,Injury,45
+2021,Colorado,Guardrail End,No injury reported,127
+2021,Colorado,Guardrail Face,Fatal,19
+2021,Colorado,Guardrail Face,Injury,294
+2021,Colorado,Guardrail Face,No injury reported,888
+2021,Colorado,Head-On,Fatal,65
+2021,Colorado,Head-On,Injury,544
+2021,Colorado,Head-On,No injury reported,531
+2021,Colorado,"Immersion, Full or Partial",Fatal,1
+2021,Colorado,"Immersion, Full or Partial",Injury,2
+2021,Colorado,"Immersion, Full or Partial",No injury reported,7
+2021,Colorado,Large Rocks or Boulder,Fatal,10
+2021,Colorado,Large Rocks or Boulder,Injury,118
+2021,Colorado,Large Rocks or Boulder,No injury reported,325
+2021,Colorado,Light Pole/Utility Pole,Fatal,10
+2021,Colorado,Light Pole/Utility Pole,Injury,257
+2021,Colorado,Light Pole/Utility Pole,No injury reported,973
+2021,Colorado,Mailbox,Fatal,2
+2021,Colorado,Mailbox,Injury,34
+2021,Colorado,Mailbox,No injury reported,169
+2021,Colorado,Other Fixed Object (Describe in Narrative),Fatal,1
+2021,Colorado,Other Fixed Object (Describe in Narrative),Injury,67
+2021,Colorado,Other Fixed Object (Describe in Narrative),No injury reported,390
+2021,Colorado,Other Non-Collision,Fatal,1
+2021,Colorado,Other Non-Collision,Injury,104
+2021,Colorado,Other Non-Collision,No injury reported,325
+2021,Colorado,Other Non-Fixed Object Describe in Narrative),Fatal,1
+2021,Colorado,Other Non-Fixed Object Describe in Narrative),Injury,84
+2021,Colorado,Other Non-Fixed Object Describe in Narrative),No injury reported,470
+2021,Colorado,Overhead Structure (Bridge),No injury reported,13
+2021,Colorado,Overhead Structure (Not Bridge),Injury,1
+2021,Colorado,Overhead Structure (Not Bridge),No injury reported,41
+2021,Colorado,Overtaking Turn,Fatal,5
+2021,Colorado,Overtaking Turn,Injury,510
+2021,Colorado,Overtaking Turn,No injury reported,2140
+2021,Colorado,Overturning/Rollover,Fatal,97
+2021,Colorado,Overturning/Rollover,Injury,1467
+2021,Colorado,Overturning/Rollover,No injury reported,1457
+2021,Colorado,Parked Motor Vehicle,Fatal,7
+2021,Colorado,Parked Motor Vehicle,Injury,728
+2021,Colorado,Parked Motor Vehicle,No injury reported,6850
+2021,Colorado,Pedestrian,Fatal,85
+2021,Colorado,Pedestrian,Injury,979
+2021,Colorado,Pedestrian,No injury reported,211
+2021,Colorado,Railroad Crossing Equipment,Injury,3
+2021,Colorado,Railroad Crossing Equipment,No injury reported,30
+2021,Colorado,Rear-End,Fatal,42
+2021,Colorado,Rear-End,Injury,7611
+2021,Colorado,Rear-End,No injury reported,21676
+2021,Colorado,School Age To/From School,Injury,18
+2021,Colorado,School Age To/From School,No injury reported,1
+2021,Colorado,Sideswipe Opposite Direction,Fatal,30
+2021,Colorado,Sideswipe Opposite Direction,Injury,291
+2021,Colorado,Sideswipe Opposite Direction,No injury reported,760
+2021,Colorado,Sideswipe Same Direction,Fatal,18
+2021,Colorado,Sideswipe Same Direction,Injury,1236
+2021,Colorado,Sideswipe Same Direction,No injury reported,9203
+2021,Colorado,Sign,Fatal,10
+2021,Colorado,Sign,Injury,194
+2021,Colorado,Sign,No injury reported,1135
+2021,Colorado,Traffic Signal Pole,Fatal,1
+2021,Colorado,Traffic Signal Pole,Injury,62
+2021,Colorado,Traffic Signal Pole,No injury reported,177
+2021,Colorado,Tree,Fatal,30
+2021,Colorado,Tree,Injury,329
+2021,Colorado,Tree,No injury reported,702
+2021,Colorado,Vehicle Debris or Cargo,Fatal,1
+2021,Colorado,Vehicle Debris or Cargo,Injury,58
+2021,Colorado,Vehicle Debris or Cargo,No injury reported,424
+2021,Colorado,Wall or Building,Fatal,1
+2021,Colorado,Wall or Building,Injury,64
+2021,Colorado,Wall or Building,No injury reported,202
+2021,Colorado,Wild Animal,Fatal,2
+2021,Colorado,Wild Animal,Injury,265
+2021,Colorado,Wild Animal,No injury reported,2695
+2021,Colorado Springs,Approach Turn,Fatal,12
+2021,Colorado Springs,Approach Turn,Injury,451
+2021,Colorado Springs,Approach Turn,No injury reported,436
+2021,Colorado Springs,Barricade,Injury,1
+2021,Colorado Springs,Barricade,No injury reported,6
+2021,Colorado Springs,Bicycle/Motorized Bicycle,Fatal,2
+2021,Colorado Springs,Bicycle/Motorized Bicycle,Injury,55
+2021,Colorado Springs,Bicycle/Motorized Bicycle,No injury reported,16
+2021,Colorado Springs,Bridge Structure,Injury,1
+2021,Colorado Springs,Bridge Structure (Not Overhead),Injury,1
+2021,Colorado Springs,Bridge Structure (Not Overhead),No injury reported,1
+2021,Colorado Springs,Broadside,Fatal,6
+2021,Colorado Springs,Broadside,Injury,539
+2021,Colorado Springs,Broadside,No injury reported,739
+2021,Colorado Springs,Cable Rail,Injury,1
+2021,Colorado Springs,Cable Rail,No injury reported,5
+2021,Colorado Springs,Concrete Highway Barrier,Fatal,1
+2021,Colorado Springs,Concrete Highway Barrier,Injury,15
+2021,Colorado Springs,Concrete Highway Barrier,No injury reported,39
+2021,Colorado Springs,Crash Cushion/Traffic Barrel,Injury,2
+2021,Colorado Springs,Crash Cushion/Traffic Barrel,No injury reported,2
+2021,Colorado Springs,Culvert or Headwall,Injury,3
+2021,Colorado Springs,Culvert or Headwall,No injury reported,2
+2021,Colorado Springs,Curb,Fatal,2
+2021,Colorado Springs,Curb,Injury,66
+2021,Colorado Springs,Curb,No injury reported,242
+2021,Colorado Springs,Delineator/Milepost,Injury,1
+2021,Colorado Springs,Delineator/Milepost,No injury reported,1
+2021,Colorado Springs,Ditch,Injury,4
+2021,Colorado Springs,Ditch,No injury reported,8
+2021,Colorado Springs,Electrical/Utility Box,Injury,3
+2021,Colorado Springs,Electrical/Utility Box,No injury reported,35
+2021,Colorado Springs,Embankment,Injury,10
+2021,Colorado Springs,Embankment,No injury reported,16
+2021,Colorado Springs,Fell from Motor Vehicle,Injury,10
+2021,Colorado Springs,Fence,Injury,7
+2021,Colorado Springs,Fence,No injury reported,31
+2021,Colorado Springs,Ground,Injury,5
+2021,Colorado Springs,Ground,No injury reported,7
+2021,Colorado Springs,Guardrail End,Fatal,1
+2021,Colorado Springs,Guardrail End,No injury reported,3
+2021,Colorado Springs,Guardrail Face,Fatal,1
+2021,Colorado Springs,Guardrail Face,Injury,25
+2021,Colorado Springs,Guardrail Face,No injury reported,75
+2021,Colorado Springs,Head-On,Fatal,1
+2021,Colorado Springs,Head-On,Injury,28
+2021,Colorado Springs,Head-On,No injury reported,24
+2021,Colorado Springs,"Immersion, Full or Partial",No injury reported,1
+2021,Colorado Springs,Large Rocks or Boulder,Injury,4
+2021,Colorado Springs,Large Rocks or Boulder,No injury reported,15
+2021,Colorado Springs,Light Pole/Utility Pole,Injury,28
+2021,Colorado Springs,Light Pole/Utility Pole,No injury reported,127
+2021,Colorado Springs,Mailbox,Injury,4
+2021,Colorado Springs,Mailbox,No injury reported,14
+2021,Colorado Springs,Other Fixed Object (Describe in Narrative),Injury,6
+2021,Colorado Springs,Other Fixed Object (Describe in Narrative),No injury reported,42
+2021,Colorado Springs,Other Non-Collision,Fatal,1
+2021,Colorado Springs,Other Non-Collision,Injury,14
+2021,Colorado Springs,Other Non-Collision,No injury reported,15
+2021,Colorado Springs,Other Non-Fixed Object Describe in Narrative),Injury,4
+2021,Colorado Springs,Other Non-Fixed Object Describe in Narrative),No injury reported,14
+2021,Colorado Springs,Overhead Structure (Bridge),No injury reported,2
+2021,Colorado Springs,Overhead Structure (Not Bridge),No injury reported,10
+2021,Colorado Springs,Overtaking Turn,Injury,41
+2021,Colorado Springs,Overtaking Turn,No injury reported,115
+2021,Colorado Springs,Overturning/Rollover,Fatal,2
+2021,Colorado Springs,Overturning/Rollover,Injury,66
+2021,Colorado Springs,Overturning/Rollover,No injury reported,36
+2021,Colorado Springs,Parked Motor Vehicle,Injury,73
+2021,Colorado Springs,Parked Motor Vehicle,No injury reported,469
+2021,Colorado Springs,Pedestrian,Fatal,12
+2021,Colorado Springs,Pedestrian,Injury,85
+2021,Colorado Springs,Pedestrian,No injury reported,25
+2021,Colorado Springs,Railroad Crossing Equipment,No injury reported,2
+2021,Colorado Springs,Rear-End,Fatal,2
+2021,Colorado Springs,Rear-End,Injury,936
+2021,Colorado Springs,Rear-End,No injury reported,1803
+2021,Colorado Springs,School Age To/From School,Injury,1
+2021,Colorado Springs,Sideswipe Opposite Direction,Fatal,1
+2021,Colorado Springs,Sideswipe Opposite Direction,Injury,19
+2021,Colorado Springs,Sideswipe Opposite Direction,No injury reported,51
+2021,Colorado Springs,Sideswipe Same Direction,Fatal,5
+2021,Colorado Springs,Sideswipe Same Direction,Injury,149
+2021,Colorado Springs,Sideswipe Same Direction,No injury reported,848
+2021,Colorado Springs,Sign,Injury,15
+2021,Colorado Springs,Sign,No injury reported,91
+2021,Colorado Springs,Traffic Signal Pole,Injury,3
+2021,Colorado Springs,Traffic Signal Pole,No injury reported,25
+2021,Colorado Springs,Tree,Injury,24
+2021,Colorado Springs,Tree,No injury reported,44
+2021,Colorado Springs,Vehicle Debris or Cargo,Injury,7
+2021,Colorado Springs,Vehicle Debris or Cargo,No injury reported,21
+2021,Colorado Springs,Wall or Building,Injury,8
+2021,Colorado Springs,Wall or Building,No injury reported,19
+2021,Colorado Springs,Wild Animal,Injury,10
+2021,Colorado Springs,Wild Animal,No injury reported,39
+2021,El Paso County,Approach Turn,Fatal,12
+2021,El Paso County,Approach Turn,Injury,557
+2021,El Paso County,Approach Turn,No injury reported,529
+2021,El Paso County,Barricade,Injury,6
+2021,El Paso County,Barricade,No injury reported,15
+2021,El Paso County,Bicycle/Motorized Bicycle,Fatal,3
+2021,El Paso County,Bicycle/Motorized Bicycle,Injury,64
+2021,El Paso County,Bicycle/Motorized Bicycle,No injury reported,17
+2021,El Paso County,Bridge Structure,Fatal,1
+2021,El Paso County,Bridge Structure,Injury,1
+2021,El Paso County,Bridge Structure (Not Overhead),Injury,1
+2021,El Paso County,Bridge Structure (Not Overhead),No injury reported,1
+2021,El Paso County,Broadside,Fatal,9
+2021,El Paso County,Broadside,Injury,681
+2021,El Paso County,Broadside,No injury reported,918
+2021,El Paso County,Cable Rail,Injury,5
+2021,El Paso County,Cable Rail,No injury reported,13
+2021,El Paso County,Concrete Highway Barrier,Fatal,1
+2021,El Paso County,Concrete Highway Barrier,Injury,23
+2021,El Paso County,Concrete Highway Barrier,No injury reported,56
+2021,El Paso County,Crash Cushion/Traffic Barrel,Injury,3
+2021,El Paso County,Crash Cushion/Traffic Barrel,No injury reported,3
+2021,El Paso County,Culvert or Headwall,Injury,8
+2021,El Paso County,Culvert or Headwall,No injury reported,4
+2021,El Paso County,Curb,Fatal,2
+2021,El Paso County,Curb,Injury,78
+2021,El Paso County,Curb,No injury reported,285
+2021,El Paso County,Delineator/Milepost,Injury,7
+2021,El Paso County,Delineator/Milepost,No injury reported,8
+2021,El Paso County,Ditch,Injury,6
+2021,El Paso County,Ditch,No injury reported,14
+2021,El Paso County,Domestic Animal,Injury,1
+2021,El Paso County,Domestic Animal,No injury reported,6
+2021,El Paso County,Electrical/Utility Box,Injury,3
+2021,El Paso County,Electrical/Utility Box,No injury reported,35
+2021,El Paso County,Embankment,Injury,23
+2021,El Paso County,Embankment,No injury reported,40
+2021,El Paso County,Fell from Motor Vehicle,Injury,12
+2021,El Paso County,Fence,Injury,28
+2021,El Paso County,Fence,No injury reported,73
+2021,El Paso County,Ground,Injury,7
+2021,El Paso County,Ground,No injury reported,8
+2021,El Paso County,Guardrail End,Fatal,2
+2021,El Paso County,Guardrail End,Injury,1
+2021,El Paso County,Guardrail End,No injury reported,9
+2021,El Paso County,Guardrail Face,Fatal,1
+2021,El Paso County,Guardrail Face,Injury,51
+2021,El Paso County,Guardrail Face,No injury reported,127
+2021,El Paso County,Head-On,Fatal,5
+2021,El Paso County,Head-On,Injury,45
+2021,El Paso County,Head-On,No injury reported,34
+2021,El Paso County,"Immersion, Full or Partial",No injury reported,1
+2021,El Paso County,Large Rocks or Boulder,Fatal,1
+2021,El Paso County,Large Rocks or Boulder,Injury,7
+2021,El Paso County,Large Rocks or Boulder,No injury reported,23
+2021,El Paso County,Light Pole/Utility Pole,Injury,37
+2021,El Paso County,Light Pole/Utility Pole,No injury reported,153
+2021,El Paso County,Mailbox,Fatal,1
+2021,El Paso County,Mailbox,Injury,9
+2021,El Paso County,Mailbox,No injury reported,22
+2021,El Paso County,Other Fixed Object (Describe in Narrative),Injury,8
+2021,El Paso County,Other Fixed Object (Describe in Narrative),No injury reported,47
+2021,El Paso County,Other Non-Collision,Fatal,1
+2021,El Paso County,Other Non-Collision,Injury,18
+2021,El Paso County,Other Non-Collision,No injury reported,23
+2021,El Paso County,Other Non-Fixed Object Describe in Narrative),Injury,13
+2021,El Paso County,Other Non-Fixed Object Describe in Narrative),No injury reported,29
+2021,El Paso County,Overhead Structure (Bridge),No injury reported,2
+2021,El Paso County,Overhead Structure (Not Bridge),No injury reported,12
+2021,El Paso County,Overtaking Turn,Injury,51
+2021,El Paso County,Overtaking Turn,No injury reported,154
+2021,El Paso County,Overturning/Rollover,Fatal,8
+2021,El Paso County,Overturning/Rollover,Injury,150
+2021,El Paso County,Overturning/Rollover,No injury reported,93
+2021,El Paso County,Parked Motor Vehicle,Injury,93
+2021,El Paso County,Parked Motor Vehicle,No injury reported,563
+2021,El Paso County,Pedestrian,Fatal,15
+2021,El Paso County,Pedestrian,Injury,97
+2021,El Paso County,Pedestrian,No injury reported,28
+2021,El Paso County,Railroad Crossing Equipment,No injury reported,4
+2021,El Paso County,Rear-End,Fatal,2
+2021,El Paso County,Rear-End,Injury,1237
+2021,El Paso County,Rear-End,No injury reported,2321
+2021,El Paso County,School Age To/From School,Injury,2
+2021,El Paso County,Sideswipe Opposite Direction,Fatal,3
+2021,El Paso County,Sideswipe Opposite Direction,Injury,29
+2021,El Paso County,Sideswipe Opposite Direction,No injury reported,73
+2021,El Paso County,Sideswipe Same Direction,Fatal,5
+2021,El Paso County,Sideswipe Same Direction,Injury,197
+2021,El Paso County,Sideswipe Same Direction,No injury reported,1089
+2021,El Paso County,Sign,Fatal,1
+2021,El Paso County,Sign,Injury,21
+2021,El Paso County,Sign,No injury reported,121
+2021,El Paso County,Traffic Signal Pole,Injury,4
+2021,El Paso County,Traffic Signal Pole,No injury reported,30
+2021,El Paso County,Tree,Injury,34
+2021,El Paso County,Tree,No injury reported,61
+2021,El Paso County,Vehicle Debris or Cargo,Injury,9
+2021,El Paso County,Vehicle Debris or Cargo,No injury reported,42
+2021,El Paso County,Wall or Building,Injury,9
+2021,El Paso County,Wall or Building,No injury reported,23
+2021,El Paso County,Wild Animal,Injury,26
+2021,El Paso County,Wild Animal,No injury reported,156
+2022,Colorado,Approach Turn,Fatal,60
+2022,Colorado,Approach Turn,Injury,2823
+2022,Colorado,Approach Turn,No injury reported,3947
+2022,Colorado,Barricade,Fatal,2
+2022,Colorado,Barricade,Injury,51
+2022,Colorado,Barricade,No injury reported,156
+2022,Colorado,Bicycle/Motorized Bicycle,Fatal,15
+2022,Colorado,Bicycle/Motorized Bicycle,Injury,686
+2022,Colorado,Bicycle/Motorized Bicycle,No injury reported,195
+2022,Colorado,Bridge Structure (Not Overhead),Injury,18
+2022,Colorado,Bridge Structure (Not Overhead),No injury reported,34
+2022,Colorado,Broadside,Fatal,74
+2022,Colorado,Broadside,Injury,4731
+2022,Colorado,Broadside,No injury reported,9598
+2022,Colorado,Cable Rail,Fatal,1
+2022,Colorado,Cable Rail,Injury,55
+2022,Colorado,Cable Rail,No injury reported,310
+2022,Colorado,Concrete Highway Barrier,Fatal,10
+2022,Colorado,Concrete Highway Barrier,Injury,435
+2022,Colorado,Concrete Highway Barrier,No injury reported,879
+2022,Colorado,Crash Cushion/Traffic Barrel,Injury,59
+2022,Colorado,Crash Cushion/Traffic Barrel,No injury reported,100
+2022,Colorado,Culvert or Headwall,Fatal,12
+2022,Colorado,Culvert or Headwall,Injury,73
+2022,Colorado,Culvert or Headwall,No injury reported,88
+2022,Colorado,Curb,Fatal,13
+2022,Colorado,Curb,Injury,373
+2022,Colorado,Curb,No injury reported,1280
+2022,Colorado,Delineator/Milepost,Fatal,4
+2022,Colorado,Delineator/Milepost,Injury,75
+2022,Colorado,Delineator/Milepost,No injury reported,244
+2022,Colorado,Ditch,Fatal,6
+2022,Colorado,Ditch,Injury,149
+2022,Colorado,Ditch,No injury reported,484
+2022,Colorado,Domestic Animal,Fatal,1
+2022,Colorado,Domestic Animal,Injury,40
+2022,Colorado,Domestic Animal,No injury reported,301
+2022,Colorado,Electrical/Utility Box,Fatal,2
+2022,Colorado,Electrical/Utility Box,Injury,26
+2022,Colorado,Electrical/Utility Box,No injury reported,170
+2022,Colorado,Embankment,Fatal,15
+2022,Colorado,Embankment,Injury,351
+2022,Colorado,Embankment,No injury reported,694
+2022,Colorado,Fell from Motor Vehicle,Fatal,2
+2022,Colorado,Fell from Motor Vehicle,Injury,23
+2022,Colorado,Fell from Motor Vehicle,No injury reported,6
+2022,Colorado,Fence,Fatal,12
+2022,Colorado,Fence,Injury,312
+2022,Colorado,Fence,No injury reported,1299
+2022,Colorado,Ground,Injury,51
+2022,Colorado,Ground,No injury reported,95
+2022,Colorado,Guardrail End,Fatal,10
+2022,Colorado,Guardrail End,Injury,96
+2022,Colorado,Guardrail End,No injury reported,222
+2022,Colorado,Guardrail Face,Fatal,14
+2022,Colorado,Guardrail Face,Injury,302
+2022,Colorado,Guardrail Face,No injury reported,772
+2022,Colorado,Head-On,Fatal,67
+2022,Colorado,Head-On,Injury,502
+2022,Colorado,Head-On,No injury reported,558
+2022,Colorado,"Immersion, Full or Partial",Fatal,1
+2022,Colorado,"Immersion, Full or Partial",Injury,5
+2022,Colorado,"Immersion, Full or Partial",No injury reported,9
+2022,Colorado,Large Rocks or Boulder,Fatal,4
+2022,Colorado,Large Rocks or Boulder,Injury,143
+2022,Colorado,Large Rocks or Boulder,No injury reported,342
+2022,Colorado,Light Pole/Utility Pole,Fatal,12
+2022,Colorado,Light Pole/Utility Pole,Injury,273
+2022,Colorado,Light Pole/Utility Pole,No injury reported,1048
+2022,Colorado,Mailbox,Injury,24
+2022,Colorado,Mailbox,No injury reported,223
+2022,Colorado,Other Fixed Object (Describe in Narrative),Fatal,1
+2022,Colorado,Other Fixed Object (Describe in Narrative),Injury,99
+2022,Colorado,Other Fixed Object (Describe in Narrative),No injury reported,502
+2022,Colorado,Other Non-Collision,Fatal,2
+2022,Colorado,Other Non-Collision,Injury,46
+2022,Colorado,Other Non-Collision,No injury reported,216
+2022,Colorado,Other Non-Fixed Object Describe in Narrative),Fatal,3
+2022,Colorado,Other Non-Fixed Object Describe in Narrative),Injury,74
+2022,Colorado,Other Non-Fixed Object Describe in Narrative),No injury reported,473
+2022,Colorado,Overhead Structure (Bridge),Fatal,1
+2022,Colorado,Overhead Structure (Bridge),Injury,1
+2022,Colorado,Overhead Structure (Bridge),No injury reported,15
+2022,Colorado,Overhead Structure (Not Bridge),Injury,1
+2022,Colorado,Overhead Structure (Not Bridge),No injury reported,35
+2022,Colorado,Overtaking Turn,Fatal,4
+2022,Colorado,Overtaking Turn,Injury,453
+2022,Colorado,Overtaking Turn,No injury reported,1830
+2022,Colorado,Overturning/Rollover,Fatal,107
+2022,Colorado,Overturning/Rollover,Injury,1426
+2022,Colorado,Overturning/Rollover,No injury reported,1336
+2022,Colorado,Parked Motor Vehicle,Fatal,8
+2022,Colorado,Parked Motor Vehicle,Injury,754
+2022,Colorado,Parked Motor Vehicle,No injury reported,6554
+2022,Colorado,Pedestrian,Fatal,105
+2022,Colorado,Pedestrian,Injury,1003
+2022,Colorado,Pedestrian,No injury reported,221
+2022,Colorado,Railroad Crossing Equipment,Injury,2
+2022,Colorado,Railroad Crossing Equipment,No injury reported,25
+2022,Colorado,Rear-End,Fatal,38
+2022,Colorado,Rear-End,Injury,6649
+2022,Colorado,Rear-End,No injury reported,19911
+2022,Colorado,School Age To/From School,Fatal,1
+2022,Colorado,School Age To/From School,Injury,14
+2022,Colorado,Sideswipe Opposite Direction,Fatal,22
+2022,Colorado,Sideswipe Opposite Direction,Injury,331
+2022,Colorado,Sideswipe Opposite Direction,No injury reported,806
+2022,Colorado,Sideswipe Same Direction,Fatal,18
+2022,Colorado,Sideswipe Same Direction,Injury,1274
+2022,Colorado,Sideswipe Same Direction,No injury reported,9309
+2022,Colorado,Sign,Fatal,10
+2022,Colorado,Sign,Injury,203
+2022,Colorado,Sign,No injury reported,1257
+2022,Colorado,Traffic Signal Pole,Fatal,5
+2022,Colorado,Traffic Signal Pole,Injury,53
+2022,Colorado,Traffic Signal Pole,No injury reported,176
+2022,Colorado,Tree,Fatal,31
+2022,Colorado,Tree,Injury,321
+2022,Colorado,Tree,No injury reported,664
+2022,Colorado,Vehicle Debris or Cargo,Fatal,1
+2022,Colorado,Vehicle Debris or Cargo,Injury,44
+2022,Colorado,Vehicle Debris or Cargo,No injury reported,410
+2022,Colorado,Wall or Building,Fatal,1
+2022,Colorado,Wall or Building,Injury,69
+2022,Colorado,Wall or Building,No injury reported,185
+2022,Colorado,Wild Animal,Fatal,4
+2022,Colorado,Wild Animal,Injury,290
+2022,Colorado,Wild Animal,No injury reported,2919
+2022,Colorado Springs,Approach Turn,Fatal,13
+2022,Colorado Springs,Approach Turn,Injury,407
+2022,Colorado Springs,Approach Turn,No injury reported,378
+2022,Colorado Springs,Barricade,Injury,2
+2022,Colorado Springs,Barricade,No injury reported,5
+2022,Colorado Springs,Bicycle/Motorized Bicycle,Fatal,2
+2022,Colorado Springs,Bicycle/Motorized Bicycle,Injury,46
+2022,Colorado Springs,Bicycle/Motorized Bicycle,No injury reported,12
+2022,Colorado Springs,Bridge Structure (Not Overhead),Injury,1
+2022,Colorado Springs,Bridge Structure (Not Overhead),No injury reported,3
+2022,Colorado Springs,Broadside,Fatal,9
+2022,Colorado Springs,Broadside,Injury,603
+2022,Colorado Springs,Broadside,No injury reported,728
+2022,Colorado Springs,Cable Rail,Injury,1
+2022,Colorado Springs,Cable Rail,No injury reported,5
+2022,Colorado Springs,Concrete Highway Barrier,Fatal,1
+2022,Colorado Springs,Concrete Highway Barrier,Injury,17
+2022,Colorado Springs,Concrete Highway Barrier,No injury reported,36
+2022,Colorado Springs,Crash Cushion/Traffic Barrel,Injury,1
+2022,Colorado Springs,Crash Cushion/Traffic Barrel,No injury reported,5
+2022,Colorado Springs,Culvert or Headwall,Fatal,1
+2022,Colorado Springs,Culvert or Headwall,Injury,2
+2022,Colorado Springs,Curb,Fatal,3
+2022,Colorado Springs,Curb,Injury,39
+2022,Colorado Springs,Curb,No injury reported,145
+2022,Colorado Springs,Delineator/Milepost,No injury reported,1
+2022,Colorado Springs,Ditch,Injury,3
+2022,Colorado Springs,Ditch,No injury reported,6
+2022,Colorado Springs,Domestic Animal,Injury,1
+2022,Colorado Springs,Domestic Animal,No injury reported,2
+2022,Colorado Springs,Electrical/Utility Box,Injury,5
+2022,Colorado Springs,Electrical/Utility Box,No injury reported,38
+2022,Colorado Springs,Embankment,Injury,4
+2022,Colorado Springs,Embankment,No injury reported,9
+2022,Colorado Springs,Fell from Motor Vehicle,Injury,2
+2022,Colorado Springs,Fell from Motor Vehicle,No injury reported,2
+2022,Colorado Springs,Fence,Fatal,1
+2022,Colorado Springs,Fence,Injury,8
+2022,Colorado Springs,Fence,No injury reported,41
+2022,Colorado Springs,Ground,Injury,4
+2022,Colorado Springs,Ground,No injury reported,6
+2022,Colorado Springs,Guardrail End,Injury,4
+2022,Colorado Springs,Guardrail End,No injury reported,8
+2022,Colorado Springs,Guardrail Face,Injury,30
+2022,Colorado Springs,Guardrail Face,No injury reported,44
+2022,Colorado Springs,Head-On,Fatal,4
+2022,Colorado Springs,Head-On,Injury,19
+2022,Colorado Springs,Head-On,No injury reported,22
+2022,Colorado Springs,"Immersion, Full or Partial",No injury reported,2
+2022,Colorado Springs,Large Rocks or Boulder,Injury,5
+2022,Colorado Springs,Large Rocks or Boulder,No injury reported,24
+2022,Colorado Springs,Light Pole/Utility Pole,Fatal,1
+2022,Colorado Springs,Light Pole/Utility Pole,Injury,29
+2022,Colorado Springs,Light Pole/Utility Pole,No injury reported,131
+2022,Colorado Springs,Mailbox,Injury,3
+2022,Colorado Springs,Mailbox,No injury reported,17
+2022,Colorado Springs,Other Fixed Object (Describe in Narrative),Injury,11
+2022,Colorado Springs,Other Fixed Object (Describe in Narrative),No injury reported,72
+2022,Colorado Springs,Other Non-Collision,Injury,1
+2022,Colorado Springs,Other Non-Collision,No injury reported,2
+2022,Colorado Springs,Other Non-Fixed Object Describe in Narrative),Injury,6
+2022,Colorado Springs,Other Non-Fixed Object Describe in Narrative),No injury reported,24
+2022,Colorado Springs,Overhead Structure (Not Bridge),No injury reported,7
+2022,Colorado Springs,Overtaking Turn,Injury,13
+2022,Colorado Springs,Overtaking Turn,No injury reported,31
+2022,Colorado Springs,Overturning/Rollover,Fatal,5
+2022,Colorado Springs,Overturning/Rollover,Injury,74
+2022,Colorado Springs,Overturning/Rollover,No injury reported,46
+2022,Colorado Springs,Parked Motor Vehicle,Injury,87
+2022,Colorado Springs,Parked Motor Vehicle,No injury reported,427
+2022,Colorado Springs,Pedestrian,Fatal,6
+2022,Colorado Springs,Pedestrian,Injury,113
+2022,Colorado Springs,Pedestrian,No injury reported,30
+2022,Colorado Springs,Rear-End,Fatal,1
+2022,Colorado Springs,Rear-End,Injury,739
+2022,Colorado Springs,Rear-End,No injury reported,1588
+2022,Colorado Springs,Sideswipe Opposite Direction,Fatal,2
+2022,Colorado Springs,Sideswipe Opposite Direction,Injury,36
+2022,Colorado Springs,Sideswipe Opposite Direction,No injury reported,47
+2022,Colorado Springs,Sideswipe Same Direction,Fatal,1
+2022,Colorado Springs,Sideswipe Same Direction,Injury,149
+2022,Colorado Springs,Sideswipe Same Direction,No injury reported,866
+2022,Colorado Springs,Sign,Injury,16
+2022,Colorado Springs,Sign,No injury reported,98
+2022,Colorado Springs,Traffic Signal Pole,Injury,4
+2022,Colorado Springs,Traffic Signal Pole,No injury reported,22
+2022,Colorado Springs,Tree,Fatal,2
+2022,Colorado Springs,Tree,Injury,26
+2022,Colorado Springs,Tree,No injury reported,49
+2022,Colorado Springs,Vehicle Debris or Cargo,Injury,8
+2022,Colorado Springs,Vehicle Debris or Cargo,No injury reported,20
+2022,Colorado Springs,Wall or Building,Injury,8
+2022,Colorado Springs,Wall or Building,No injury reported,16
+2022,Colorado Springs,Wild Animal,Injury,7
+2022,Colorado Springs,Wild Animal,No injury reported,27
+2022,El Paso County,Approach Turn,Fatal,14
+2022,El Paso County,Approach Turn,Injury,481
+2022,El Paso County,Approach Turn,No injury reported,454
+2022,El Paso County,Barricade,Injury,5
+2022,El Paso County,Barricade,No injury reported,20
+2022,El Paso County,Bicycle/Motorized Bicycle,Fatal,3
+2022,El Paso County,Bicycle/Motorized Bicycle,Injury,52
+2022,El Paso County,Bicycle/Motorized Bicycle,No injury reported,14
+2022,El Paso County,Bridge Structure (Not Overhead),Injury,2
+2022,El Paso County,Bridge Structure (Not Overhead),No injury reported,5
+2022,El Paso County,Broadside,Fatal,11
+2022,El Paso County,Broadside,Injury,710
+2022,El Paso County,Broadside,No injury reported,915
+2022,El Paso County,Cable Rail,Injury,3
+2022,El Paso County,Cable Rail,No injury reported,19
+2022,El Paso County,Concrete Highway Barrier,Fatal,1
+2022,El Paso County,Concrete Highway Barrier,Injury,32
+2022,El Paso County,Concrete Highway Barrier,No injury reported,69
+2022,El Paso County,Crash Cushion/Traffic Barrel,Injury,7
+2022,El Paso County,Crash Cushion/Traffic Barrel,No injury reported,16
+2022,El Paso County,Culvert or Headwall,Fatal,1
+2022,El Paso County,Culvert or Headwall,Injury,4
+2022,El Paso County,Culvert or Headwall,No injury reported,4
+2022,El Paso County,Curb,Fatal,5
+2022,El Paso County,Curb,Injury,54
+2022,El Paso County,Curb,No injury reported,183
+2022,El Paso County,Delineator/Milepost,Injury,5
+2022,El Paso County,Delineator/Milepost,No injury reported,6
+2022,El Paso County,Ditch,Injury,6
+2022,El Paso County,Ditch,No injury reported,14
+2022,El Paso County,Domestic Animal,Injury,3
+2022,El Paso County,Domestic Animal,No injury reported,10
+2022,El Paso County,Electrical/Utility Box,Injury,5
+2022,El Paso County,Electrical/Utility Box,No injury reported,46
+2022,El Paso County,Embankment,Fatal,1
+2022,El Paso County,Embankment,Injury,23
+2022,El Paso County,Embankment,No injury reported,40
+2022,El Paso County,Fell from Motor Vehicle,Injury,2
+2022,El Paso County,Fell from Motor Vehicle,No injury reported,2
+2022,El Paso County,Fence,Fatal,1
+2022,El Paso County,Fence,Injury,25
+2022,El Paso County,Fence,No injury reported,84
+2022,El Paso County,Ground,Injury,5
+2022,El Paso County,Ground,No injury reported,10
+2022,El Paso County,Guardrail End,Fatal,2
+2022,El Paso County,Guardrail End,Injury,11
+2022,El Paso County,Guardrail End,No injury reported,21
+2022,El Paso County,Guardrail Face,Injury,51
+2022,El Paso County,Guardrail Face,No injury reported,93
+2022,El Paso County,Head-On,Fatal,9
+2022,El Paso County,Head-On,Injury,37
+2022,El Paso County,Head-On,No injury reported,29
+2022,El Paso County,"Immersion, Full or Partial",No injury reported,2
+2022,El Paso County,Large Rocks or Boulder,Injury,6
+2022,El Paso County,Large Rocks or Boulder,No injury reported,31
+2022,El Paso County,Light Pole/Utility Pole,Fatal,2
+2022,El Paso County,Light Pole/Utility Pole,Injury,41
+2022,El Paso County,Light Pole/Utility Pole,No injury reported,154
+2022,El Paso County,Mailbox,Injury,3
+2022,El Paso County,Mailbox,No injury reported,33
+2022,El Paso County,Other Fixed Object (Describe in Narrative),Injury,13
+2022,El Paso County,Other Fixed Object (Describe in Narrative),No injury reported,82
+2022,El Paso County,Other Non-Collision,Fatal,1
+2022,El Paso County,Other Non-Collision,Injury,2
+2022,El Paso County,Other Non-Collision,No injury reported,4
+2022,El Paso County,Other Non-Fixed Object Describe in Narrative),Injury,10
+2022,El Paso County,Other Non-Fixed Object Describe in Narrative),No injury reported,37
+2022,El Paso County,Overhead Structure (Bridge),No injury reported,1
+2022,El Paso County,Overhead Structure (Not Bridge),No injury reported,8
+2022,El Paso County,Overtaking Turn,Injury,26
+2022,El Paso County,Overtaking Turn,No injury reported,68
+2022,El Paso County,Overturning/Rollover,Fatal,9
+2022,El Paso County,Overturning/Rollover,Injury,163
+2022,El Paso County,Overturning/Rollover,No injury reported,97
+2022,El Paso County,Parked Motor Vehicle,Fatal,1
+2022,El Paso County,Parked Motor Vehicle,Injury,104
+2022,El Paso County,Parked Motor Vehicle,No injury reported,526
+2022,El Paso County,Pedestrian,Fatal,9
+2022,El Paso County,Pedestrian,Injury,120
+2022,El Paso County,Pedestrian,No injury reported,32
+2022,El Paso County,Railroad Crossing Equipment,No injury reported,1
+2022,El Paso County,Rear-End,Fatal,2
+2022,El Paso County,Rear-End,Injury,987
+2022,El Paso County,Rear-End,No injury reported,2066
+2022,El Paso County,Sideswipe Opposite Direction,Fatal,2
+2022,El Paso County,Sideswipe Opposite Direction,Injury,52
+2022,El Paso County,Sideswipe Opposite Direction,No injury reported,63
+2022,El Paso County,Sideswipe Same Direction,Fatal,1
+2022,El Paso County,Sideswipe Same Direction,Injury,210
+2022,El Paso County,Sideswipe Same Direction,No injury reported,1107
+2022,El Paso County,Sign,Injury,24
+2022,El Paso County,Sign,No injury reported,137
+2022,El Paso County,Traffic Signal Pole,Fatal,1
+2022,El Paso County,Traffic Signal Pole,Injury,5
+2022,El Paso County,Traffic Signal Pole,No injury reported,23
+2022,El Paso County,Tree,Fatal,3
+2022,El Paso County,Tree,Injury,36
+2022,El Paso County,Tree,No injury reported,74
+2022,El Paso County,Vehicle Debris or Cargo,Injury,13
+2022,El Paso County,Vehicle Debris or Cargo,No injury reported,30
+2022,El Paso County,Wall or Building,Injury,9
+2022,El Paso County,Wall or Building,No injury reported,20
+2022,El Paso County,Wild Animal,Injury,23
+2022,El Paso County,Wild Animal,No injury reported,123
+2023,Colorado,Approach Turn,Fatal,59
+2023,Colorado,Approach Turn,Injury,3298
+2023,Colorado,Approach Turn,No injury reported,4493
+2023,Colorado,Barricade,Fatal,1
+2023,Colorado,Barricade,Injury,25
+2023,Colorado,Barricade,No injury reported,94
+2023,Colorado,Bicycle/Motorized Bicycle,Fatal,18
+2023,Colorado,Bicycle/Motorized Bicycle,Injury,870
+2023,Colorado,Bicycle/Motorized Bicycle,No injury reported,181
+2023,Colorado,Bridge Structure (Not Overhead),Injury,19
+2023,Colorado,Bridge Structure (Not Overhead),No injury reported,40
+2023,Colorado,Broadside,Fatal,79
+2023,Colorado,Broadside,Injury,5233
+2023,Colorado,Broadside,No injury reported,10267
+2023,Colorado,Cable Rail,Fatal,4
+2023,Colorado,Cable Rail,Injury,48
+2023,Colorado,Cable Rail,No injury reported,330
+2023,Colorado,Concrete Highway Barrier,Fatal,12
+2023,Colorado,Concrete Highway Barrier,Injury,466
+2023,Colorado,Concrete Highway Barrier,No injury reported,1010
+2023,Colorado,Crash Cushion/Traffic Barrel,Fatal,3
+2023,Colorado,Crash Cushion/Traffic Barrel,Injury,49
+2023,Colorado,Crash Cushion/Traffic Barrel,No injury reported,82
+2023,Colorado,Culvert or Headwall,Fatal,4
+2023,Colorado,Culvert or Headwall,Injury,63
+2023,Colorado,Culvert or Headwall,No injury reported,94
+2023,Colorado,Curb,Fatal,23
+2023,Colorado,Curb,Injury,278
+2023,Colorado,Curb,No injury reported,1065
+2023,Colorado,Delineator/Milepost,Fatal,7
+2023,Colorado,Delineator/Milepost,Injury,77
+2023,Colorado,Delineator/Milepost,No injury reported,277
+2023,Colorado,Ditch,Fatal,8
+2023,Colorado,Ditch,Injury,207
+2023,Colorado,Ditch,No injury reported,530
+2023,Colorado,Domestic Animal,Fatal,2
+2023,Colorado,Domestic Animal,Injury,44
+2023,Colorado,Domestic Animal,No injury reported,291
+2023,Colorado,Electrical/Utility Box,Injury,35
+2023,Colorado,Electrical/Utility Box,No injury reported,210
+2023,Colorado,Embankment,Fatal,7
+2023,Colorado,Embankment,Injury,312
+2023,Colorado,Embankment,No injury reported,707
+2023,Colorado,Fell from Motor Vehicle,Fatal,1
+2023,Colorado,Fell from Motor Vehicle,Injury,28
+2023,Colorado,Fell from Motor Vehicle,No injury reported,10
+2023,Colorado,Fence,Fatal,11
+2023,Colorado,Fence,Injury,336
+2023,Colorado,Fence,No injury reported,1244
+2023,Colorado,Ground,Fatal,2
+2023,Colorado,Ground,Injury,88
+2023,Colorado,Ground,No injury reported,134
+2023,Colorado,Guardrail End,Fatal,7
+2023,Colorado,Guardrail End,Injury,77
+2023,Colorado,Guardrail End,No injury reported,239
+2023,Colorado,Guardrail Face,Fatal,15
+2023,Colorado,Guardrail Face,Injury,310
+2023,Colorado,Guardrail Face,No injury reported,912
+2023,Colorado,Head-On,Fatal,58
+2023,Colorado,Head-On,Injury,527
+2023,Colorado,Head-On,No injury reported,519
+2023,Colorado,"Immersion, Full or Partial",Fatal,1
+2023,Colorado,"Immersion, Full or Partial",Injury,1
+2023,Colorado,"Immersion, Full or Partial",No injury reported,13
+2023,Colorado,Large Rocks or Boulder,Fatal,4
+2023,Colorado,Large Rocks or Boulder,Injury,140
+2023,Colorado,Large Rocks or Boulder,No injury reported,437
+2023,Colorado,Light Pole/Utility Pole,Fatal,8
+2023,Colorado,Light Pole/Utility Pole,Injury,303
+2023,Colorado,Light Pole/Utility Pole,No injury reported,1016
+2023,Colorado,Mailbox,Fatal,1
+2023,Colorado,Mailbox,Injury,22
+2023,Colorado,Mailbox,No injury reported,177
+2023,Colorado,Other Fixed Object (Describe in Narrative),Fatal,1
+2023,Colorado,Other Fixed Object (Describe in Narrative),Injury,93
+2023,Colorado,Other Fixed Object (Describe in Narrative),No injury reported,485
+2023,Colorado,Other Non-Collision,Fatal,1
+2023,Colorado,Other Non-Collision,Injury,49
+2023,Colorado,Other Non-Collision,No injury reported,288
+2023,Colorado,Other Non-Fixed Object Describe in Narrative),Fatal,1
+2023,Colorado,Other Non-Fixed Object Describe in Narrative),Injury,99
+2023,Colorado,Other Non-Fixed Object Describe in Narrative),No injury reported,602
+2023,Colorado,Overhead Structure (Bridge),Fatal,1
+2023,Colorado,Overhead Structure (Bridge),Injury,3
+2023,Colorado,Overhead Structure (Bridge),No injury reported,23
+2023,Colorado,Overhead Structure (Not Bridge),Injury,2
+2023,Colorado,Overhead Structure (Not Bridge),No injury reported,55
+2023,Colorado,Overtaking Turn,Fatal,7
+2023,Colorado,Overtaking Turn,Injury,497
+2023,Colorado,Overtaking Turn,No injury reported,2019
+2023,Colorado,Overturning/Rollover,Fatal,91
+2023,Colorado,Overturning/Rollover,Injury,1347
+2023,Colorado,Overturning/Rollover,No injury reported,1517
+2023,Colorado,Parked Motor Vehicle,Fatal,8
+2023,Colorado,Parked Motor Vehicle,Injury,734
+2023,Colorado,Parked Motor Vehicle,No injury reported,6531
+2023,Colorado,Pedestrian,Fatal,129
+2023,Colorado,Pedestrian,Injury,1249
+2023,Colorado,Pedestrian,No injury reported,203
+2023,Colorado,Railroad Crossing Equipment,Injury,9
+2023,Colorado,Railroad Crossing Equipment,No injury reported,32
+2023,Colorado,Rear-End,Fatal,40
+2023,Colorado,Rear-End,Injury,7075
+2023,Colorado,Rear-End,No injury reported,21373
+2023,Colorado,School Age To/From School,Injury,18
+2023,Colorado,School Age To/From School,No injury reported,3
+2023,Colorado,Sideswipe Opposite Direction,Fatal,20
+2023,Colorado,Sideswipe Opposite Direction,Injury,309
+2023,Colorado,Sideswipe Opposite Direction,No injury reported,929
+2023,Colorado,Sideswipe Same Direction,Fatal,10
+2023,Colorado,Sideswipe Same Direction,Injury,1445
+2023,Colorado,Sideswipe Same Direction,No injury reported,10804
+2023,Colorado,Sign,Fatal,8
+2023,Colorado,Sign,Injury,222
+2023,Colorado,Sign,No injury reported,1216
+2023,Colorado,Traffic Signal Pole,Fatal,1
+2023,Colorado,Traffic Signal Pole,Injury,61
+2023,Colorado,Traffic Signal Pole,No injury reported,185
+2023,Colorado,Tree,Fatal,11
+2023,Colorado,Tree,Injury,358
+2023,Colorado,Tree,No injury reported,688
+2023,Colorado,Vehicle Debris or Cargo,Injury,47
+2023,Colorado,Vehicle Debris or Cargo,No injury reported,506
+2023,Colorado,Wall or Building,Fatal,2
+2023,Colorado,Wall or Building,Injury,69
+2023,Colorado,Wall or Building,No injury reported,231
+2023,Colorado,Wild Animal,Injury,287
+2023,Colorado,Wild Animal,No injury reported,3211
+2023,Colorado Springs,Approach Turn,Fatal,5
+2023,Colorado Springs,Approach Turn,Injury,421
+2023,Colorado Springs,Approach Turn,No injury reported,374
+2023,Colorado Springs,Barricade,Injury,2
+2023,Colorado Springs,Barricade,No injury reported,6
+2023,Colorado Springs,Bicycle/Motorized Bicycle,Fatal,2
+2023,Colorado Springs,Bicycle/Motorized Bicycle,Injury,53
+2023,Colorado Springs,Bicycle/Motorized Bicycle,No injury reported,9
+2023,Colorado Springs,Bridge Structure (Not Overhead),Injury,2
+2023,Colorado Springs,Bridge Structure (Not Overhead),No injury reported,3
+2023,Colorado Springs,Broadside,Fatal,9
+2023,Colorado Springs,Broadside,Injury,564
+2023,Colorado Springs,Broadside,No injury reported,739
+2023,Colorado Springs,Concrete Highway Barrier,Fatal,1
+2023,Colorado Springs,Concrete Highway Barrier,Injury,16
+2023,Colorado Springs,Concrete Highway Barrier,No injury reported,29
+2023,Colorado Springs,Crash Cushion/Traffic Barrel,Injury,1
+2023,Colorado Springs,Culvert or Headwall,No injury reported,1
+2023,Colorado Springs,Curb,Fatal,6
+2023,Colorado Springs,Curb,Injury,42
+2023,Colorado Springs,Curb,No injury reported,167
+2023,Colorado Springs,Ditch,Fatal,1
+2023,Colorado Springs,Ditch,Injury,1
+2023,Colorado Springs,Ditch,No injury reported,8
+2023,Colorado Springs,Domestic Animal,No injury reported,1
+2023,Colorado Springs,Electrical/Utility Box,Injury,8
+2023,Colorado Springs,Electrical/Utility Box,No injury reported,45
+2023,Colorado Springs,Embankment,Injury,5
+2023,Colorado Springs,Embankment,No injury reported,8
+2023,Colorado Springs,Fell from Motor Vehicle,Injury,2
+2023,Colorado Springs,Fence,Injury,14
+2023,Colorado Springs,Fence,No injury reported,41
+2023,Colorado Springs,Ground,Fatal,1
+2023,Colorado Springs,Ground,Injury,5
+2023,Colorado Springs,Ground,No injury reported,5
+2023,Colorado Springs,Guardrail End,Injury,4
+2023,Colorado Springs,Guardrail End,No injury reported,12
+2023,Colorado Springs,Guardrail Face,Fatal,2
+2023,Colorado Springs,Guardrail Face,Injury,26
+2023,Colorado Springs,Guardrail Face,No injury reported,49
+2023,Colorado Springs,Head-On,Injury,17
+2023,Colorado Springs,Head-On,No injury reported,20
+2023,Colorado Springs,Large Rocks or Boulder,Injury,12
+2023,Colorado Springs,Large Rocks or Boulder,No injury reported,31
+2023,Colorado Springs,Light Pole/Utility Pole,Injury,29
+2023,Colorado Springs,Light Pole/Utility Pole,No injury reported,125
+2023,Colorado Springs,Mailbox,Injury,1
+2023,Colorado Springs,Mailbox,No injury reported,12
+2023,Colorado Springs,Other Fixed Object (Describe in Narrative),Injury,14
+2023,Colorado Springs,Other Fixed Object (Describe in Narrative),No injury reported,36
+2023,Colorado Springs,Other Non-Collision,Injury,3
+2023,Colorado Springs,Other Non-Collision,No injury reported,7
+2023,Colorado Springs,Other Non-Fixed Object Describe in Narrative),Injury,6
+2023,Colorado Springs,Other Non-Fixed Object Describe in Narrative),No injury reported,21
+2023,Colorado Springs,Overhead Structure (Bridge),No injury reported,2
+2023,Colorado Springs,Overhead Structure (Not Bridge),No injury reported,9
+2023,Colorado Springs,Overtaking Turn,Injury,28
+2023,Colorado Springs,Overtaking Turn,No injury reported,71
+2023,Colorado Springs,Overturning/Rollover,Fatal,4
+2023,Colorado Springs,Overturning/Rollover,Injury,61
+2023,Colorado Springs,Overturning/Rollover,No injury reported,38
+2023,Colorado Springs,Parked Motor Vehicle,Injury,57
+2023,Colorado Springs,Parked Motor Vehicle,No injury reported,337
+2023,Colorado Springs,Pedestrian,Fatal,10
+2023,Colorado Springs,Pedestrian,Injury,106
+2023,Colorado Springs,Pedestrian,No injury reported,11
+2023,Colorado Springs,Railroad Crossing Equipment,Injury,1
+2023,Colorado Springs,Rear-End,Fatal,3
+2023,Colorado Springs,Rear-End,Injury,705
+2023,Colorado Springs,Rear-End,No injury reported,1386
+2023,Colorado Springs,School Age To/From School,Injury,6
+2023,Colorado Springs,School Age To/From School,No injury reported,1
+2023,Colorado Springs,Sideswipe Opposite Direction,Injury,19
+2023,Colorado Springs,Sideswipe Opposite Direction,No injury reported,45
+2023,Colorado Springs,Sideswipe Same Direction,Fatal,1
+2023,Colorado Springs,Sideswipe Same Direction,Injury,169
+2023,Colorado Springs,Sideswipe Same Direction,No injury reported,830
+2023,Colorado Springs,Sign,Fatal,1
+2023,Colorado Springs,Sign,Injury,9
+2023,Colorado Springs,Sign,No injury reported,99
+2023,Colorado Springs,Traffic Signal Pole,Injury,7
+2023,Colorado Springs,Traffic Signal Pole,No injury reported,14
+2023,Colorado Springs,Tree,Fatal,2
+2023,Colorado Springs,Tree,Injury,27
+2023,Colorado Springs,Tree,No injury reported,40
+2023,Colorado Springs,Vehicle Debris or Cargo,Injury,2
+2023,Colorado Springs,Vehicle Debris or Cargo,No injury reported,16
+2023,Colorado Springs,Wall or Building,Injury,9
+2023,Colorado Springs,Wall or Building,No injury reported,26
+2023,Colorado Springs,Wild Animal,Injury,7
+2023,Colorado Springs,Wild Animal,No injury reported,14
+2023,El Paso County,Approach Turn,Fatal,8
+2023,El Paso County,Approach Turn,Injury,540
+2023,El Paso County,Approach Turn,No injury reported,458
+2023,El Paso County,Barricade,Injury,4
+2023,El Paso County,Barricade,No injury reported,18
+2023,El Paso County,Bicycle/Motorized Bicycle,Fatal,3
+2023,El Paso County,Bicycle/Motorized Bicycle,Injury,67
+2023,El Paso County,Bicycle/Motorized Bicycle,No injury reported,11
+2023,El Paso County,Bridge Structure (Not Overhead),Injury,4
+2023,El Paso County,Bridge Structure (Not Overhead),No injury reported,5
+2023,El Paso County,Broadside,Fatal,12
+2023,El Paso County,Broadside,Injury,717
+2023,El Paso County,Broadside,No injury reported,932
+2023,El Paso County,Cable Rail,Injury,3
+2023,El Paso County,Cable Rail,No injury reported,18
+2023,El Paso County,Concrete Highway Barrier,Fatal,1
+2023,El Paso County,Concrete Highway Barrier,Injury,34
+2023,El Paso County,Concrete Highway Barrier,No injury reported,67
+2023,El Paso County,Crash Cushion/Traffic Barrel,Fatal,1
+2023,El Paso County,Crash Cushion/Traffic Barrel,Injury,6
+2023,El Paso County,Crash Cushion/Traffic Barrel,No injury reported,11
+2023,El Paso County,Culvert or Headwall,Injury,4
+2023,El Paso County,Culvert or Headwall,No injury reported,5
+2023,El Paso County,Curb,Fatal,7
+2023,El Paso County,Curb,Injury,48
+2023,El Paso County,Curb,No injury reported,214
+2023,El Paso County,Delineator/Milepost,Injury,3
+2023,El Paso County,Delineator/Milepost,No injury reported,7
+2023,El Paso County,Ditch,Fatal,2
+2023,El Paso County,Ditch,Injury,14
+2023,El Paso County,Ditch,No injury reported,21
+2023,El Paso County,Domestic Animal,Fatal,1
+2023,El Paso County,Domestic Animal,Injury,1
+2023,El Paso County,Domestic Animal,No injury reported,11
+2023,El Paso County,Electrical/Utility Box,Injury,8
+2023,El Paso County,Electrical/Utility Box,No injury reported,55
+2023,El Paso County,Embankment,Injury,16
+2023,El Paso County,Embankment,No injury reported,36
+2023,El Paso County,Fell from Motor Vehicle,Injury,3
+2023,El Paso County,Fell from Motor Vehicle,No injury reported,1
+2023,El Paso County,Fence,Injury,36
+2023,El Paso County,Fence,No injury reported,116
+2023,El Paso County,Ground,Fatal,1
+2023,El Paso County,Ground,Injury,9
+2023,El Paso County,Ground,No injury reported,8
+2023,El Paso County,Guardrail End,Injury,13
+2023,El Paso County,Guardrail End,No injury reported,32
+2023,El Paso County,Guardrail Face,Fatal,5
+2023,El Paso County,Guardrail Face,Injury,50
+2023,El Paso County,Guardrail Face,No injury reported,131
+2023,El Paso County,Head-On,Fatal,3
+2023,El Paso County,Head-On,Injury,36
+2023,El Paso County,Head-On,No injury reported,33
+2023,El Paso County,Large Rocks or Boulder,Injury,15
+2023,El Paso County,Large Rocks or Boulder,No injury reported,43
+2023,El Paso County,Light Pole/Utility Pole,Injury,38
+2023,El Paso County,Light Pole/Utility Pole,No injury reported,142
+2023,El Paso County,Mailbox,Injury,4
+2023,El Paso County,Mailbox,No injury reported,22
+2023,El Paso County,Other Fixed Object (Describe in Narrative),Injury,14
+2023,El Paso County,Other Fixed Object (Describe in Narrative),No injury reported,45
+2023,El Paso County,Other Non-Collision,Injury,5
+2023,El Paso County,Other Non-Collision,No injury reported,9
+2023,El Paso County,Other Non-Fixed Object Describe in Narrative),Injury,12
+2023,El Paso County,Other Non-Fixed Object Describe in Narrative),No injury reported,40
+2023,El Paso County,Overhead Structure (Bridge),No injury reported,3
+2023,El Paso County,Overhead Structure (Not Bridge),Injury,1
+2023,El Paso County,Overhead Structure (Not Bridge),No injury reported,11
+2023,El Paso County,Overtaking Turn,Injury,42
+2023,El Paso County,Overtaking Turn,No injury reported,107
+2023,El Paso County,Overturning/Rollover,Fatal,7
+2023,El Paso County,Overturning/Rollover,Injury,139
+2023,El Paso County,Overturning/Rollover,No injury reported,107
+2023,El Paso County,Parked Motor Vehicle,Injury,76
+2023,El Paso County,Parked Motor Vehicle,No injury reported,461
+2023,El Paso County,Pedestrian,Fatal,15
+2023,El Paso County,Pedestrian,Injury,119
+2023,El Paso County,Pedestrian,No injury reported,13
+2023,El Paso County,Railroad Crossing Equipment,Injury,2
+2023,El Paso County,Railroad Crossing Equipment,No injury reported,4
+2023,El Paso County,Rear-End,Fatal,5
+2023,El Paso County,Rear-End,Injury,960
+2023,El Paso County,Rear-End,No injury reported,1940
+2023,El Paso County,School Age To/From School,Injury,8
+2023,El Paso County,School Age To/From School,No injury reported,1
+2023,El Paso County,Sideswipe Opposite Direction,Injury,34
+2023,El Paso County,Sideswipe Opposite Direction,No injury reported,70
+2023,El Paso County,Sideswipe Same Direction,Fatal,1
+2023,El Paso County,Sideswipe Same Direction,Injury,243
+2023,El Paso County,Sideswipe Same Direction,No injury reported,1201
+2023,El Paso County,Sign,Fatal,2
+2023,El Paso County,Sign,Injury,20
+2023,El Paso County,Sign,No injury reported,131
+2023,El Paso County,Traffic Signal Pole,Injury,8
+2023,El Paso County,Traffic Signal Pole,No injury reported,19
+2023,El Paso County,Tree,Fatal,2
+2023,El Paso County,Tree,Injury,48
+2023,El Paso County,Tree,No injury reported,60
+2023,El Paso County,Vehicle Debris or Cargo,Injury,4
+2023,El Paso County,Vehicle Debris or Cargo,No injury reported,50
+2023,El Paso County,Wall or Building,Injury,10
+2023,El Paso County,Wall or Building,No injury reported,31
+2023,El Paso County,Wild Animal,Injury,30
+2023,El Paso County,Wild Animal,No injury reported,115
+2024,Colorado,Approach Turn,Fatal,76
+2024,Colorado,Approach Turn,Injury,3096
+2024,Colorado,Approach Turn,No injury reported,4215
+2024,Colorado,Barricade,Fatal,2
+2024,Colorado,Barricade,Injury,36
+2024,Colorado,Barricade,No injury reported,128
+2024,Colorado,Bicycle/Motorized Bicycle,Fatal,14
+2024,Colorado,Bicycle/Motorized Bicycle,Injury,1008
+2024,Colorado,Bicycle/Motorized Bicycle,No injury reported,270
+2024,Colorado,Bridge Structure (Not Overhead),Injury,15
+2024,Colorado,Bridge Structure (Not Overhead),No injury reported,68
+2024,Colorado,Broadside,Fatal,72
+2024,Colorado,Broadside,Injury,5039
+2024,Colorado,Broadside,No injury reported,9972
+2024,Colorado,Cable Rail,Injury,58
+2024,Colorado,Cable Rail,No injury reported,367
+2024,Colorado,Concrete Highway Barrier,Fatal,8
+2024,Colorado,Concrete Highway Barrier,Injury,414
+2024,Colorado,Concrete Highway Barrier,No injury reported,889
+2024,Colorado,Crash Cushion/Traffic Barrel,Fatal,6
+2024,Colorado,Crash Cushion/Traffic Barrel,Injury,44
+2024,Colorado,Crash Cushion/Traffic Barrel,No injury reported,91
+2024,Colorado,Culvert or Headwall,Fatal,3
+2024,Colorado,Culvert or Headwall,Injury,59
+2024,Colorado,Culvert or Headwall,No injury reported,73
+2024,Colorado,Curb,Fatal,23
+2024,Colorado,Curb,Injury,286
+2024,Colorado,Curb,No injury reported,1061
+2024,Colorado,Delineator/Milepost,Fatal,8
+2024,Colorado,Delineator/Milepost,Injury,40
+2024,Colorado,Delineator/Milepost,No injury reported,183
+2024,Colorado,Ditch,Fatal,7
+2024,Colorado,Ditch,Injury,233
+2024,Colorado,Ditch,No injury reported,614
+2024,Colorado,Domestic Animal,Injury,55
+2024,Colorado,Domestic Animal,No injury reported,319
+2024,Colorado,Electrical/Utility Box,Fatal,1
+2024,Colorado,Electrical/Utility Box,Injury,38
+2024,Colorado,Electrical/Utility Box,No injury reported,165
+2024,Colorado,Embankment,Fatal,16
+2024,Colorado,Embankment,Injury,304
+2024,Colorado,Embankment,No injury reported,737
+2024,Colorado,Fell from Motor Vehicle,Fatal,3
+2024,Colorado,Fell from Motor Vehicle,Injury,22
+2024,Colorado,Fence,Fatal,8
+2024,Colorado,Fence,Injury,299
+2024,Colorado,Fence,No injury reported,1204
+2024,Colorado,Ground,Fatal,1
+2024,Colorado,Ground,Injury,70
+2024,Colorado,Ground,No injury reported,96
+2024,Colorado,Guardrail End,Fatal,4
+2024,Colorado,Guardrail End,Injury,83
+2024,Colorado,Guardrail End,No injury reported,226
+2024,Colorado,Guardrail Face,Fatal,20
+2024,Colorado,Guardrail Face,Injury,263
+2024,Colorado,Guardrail Face,No injury reported,790
+2024,Colorado,Head-On,Fatal,49
+2024,Colorado,Head-On,Injury,449
+2024,Colorado,Head-On,No injury reported,464
+2024,Colorado,"Immersion, Full or Partial",Injury,3
+2024,Colorado,"Immersion, Full or Partial",No injury reported,5
+2024,Colorado,Large Rocks or Boulder,Fatal,5
+2024,Colorado,Large Rocks or Boulder,Injury,170
+2024,Colorado,Large Rocks or Boulder,No injury reported,394
+2024,Colorado,Light Pole/Utility Pole,Fatal,2
+2024,Colorado,Light Pole/Utility Pole,Injury,288
+2024,Colorado,Light Pole/Utility Pole,No injury reported,951
+2024,Colorado,Mailbox,Fatal,2
+2024,Colorado,Mailbox,Injury,20
+2024,Colorado,Mailbox,No injury reported,191
+2024,Colorado,Other Fixed Object (Describe in Narrative),Fatal,4
+2024,Colorado,Other Fixed Object (Describe in Narrative),Injury,109
+2024,Colorado,Other Fixed Object (Describe in Narrative),No injury reported,436
+2024,Colorado,Other Non-Collision,Fatal,4
+2024,Colorado,Other Non-Collision,Injury,151
+2024,Colorado,Other Non-Collision,No injury reported,344
+2024,Colorado,Other Non-Fixed Object Describe in Narrative),Fatal,2
+2024,Colorado,Other Non-Fixed Object Describe in Narrative),Injury,85
+2024,Colorado,Other Non-Fixed Object Describe in Narrative),No injury reported,469
+2024,Colorado,Overhead Structure (Bridge),Injury,3
+2024,Colorado,Overhead Structure (Bridge),No injury reported,26
+2024,Colorado,Overhead Structure (Not Bridge),Injury,3
+2024,Colorado,Overhead Structure (Not Bridge),No injury reported,66
+2024,Colorado,Overtaking Turn,Fatal,11
+2024,Colorado,Overtaking Turn,Injury,459
+2024,Colorado,Overtaking Turn,No injury reported,1960
+2024,Colorado,Overturning/Rollover,Fatal,70
+2024,Colorado,Overturning/Rollover,Injury,1267
+2024,Colorado,Overturning/Rollover,No injury reported,1231
+2024,Colorado,Parked Motor Vehicle,Fatal,7
+2024,Colorado,Parked Motor Vehicle,Injury,766
+2024,Colorado,Parked Motor Vehicle,No injury reported,6576
+2024,Colorado,Pedestrian,Fatal,112
+2024,Colorado,Pedestrian,Injury,1324
+2024,Colorado,Pedestrian,No injury reported,291
+2024,Colorado,Railroad Crossing Equipment,Injury,6
+2024,Colorado,Railroad Crossing Equipment,No injury reported,33
+2024,Colorado,Rear-End,Fatal,43
+2024,Colorado,Rear-End,Injury,6792
+2024,Colorado,Rear-End,No injury reported,21208
+2024,Colorado,School Age To/From School,Injury,11
+2024,Colorado,School Age To/From School,No injury reported,3
+2024,Colorado,Sideswipe Opposite Direction,Fatal,19
+2024,Colorado,Sideswipe Opposite Direction,Injury,315
+2024,Colorado,Sideswipe Opposite Direction,No injury reported,818
+2024,Colorado,Sideswipe Same Direction,Fatal,15
+2024,Colorado,Sideswipe Same Direction,Injury,1413
+2024,Colorado,Sideswipe Same Direction,No injury reported,10744
+2024,Colorado,Sign,Fatal,9
+2024,Colorado,Sign,Injury,228
+2024,Colorado,Sign,No injury reported,1170
+2024,Colorado,Traffic Signal Pole,Fatal,5
+2024,Colorado,Traffic Signal Pole,Injury,61
+2024,Colorado,Traffic Signal Pole,No injury reported,154
+2024,Colorado,Tree,Fatal,8
+2024,Colorado,Tree,Injury,317
+2024,Colorado,Tree,No injury reported,642
+2024,Colorado,Vehicle Debris or Cargo,Injury,47
+2024,Colorado,Vehicle Debris or Cargo,No injury reported,499
+2024,Colorado,Wall or Building,Injury,67
+2024,Colorado,Wall or Building,No injury reported,182
+2024,Colorado,Wild Animal,Fatal,3
+2024,Colorado,Wild Animal,Injury,356
+2024,Colorado,Wild Animal,No injury reported,3541
+2024,Colorado Springs,Approach Turn,Fatal,9
+2024,Colorado Springs,Approach Turn,Injury,396
+2024,Colorado Springs,Approach Turn,No injury reported,374
+2024,Colorado Springs,Barricade,Injury,6
+2024,Colorado Springs,Barricade,No injury reported,3
+2024,Colorado Springs,Bicycle/Motorized Bicycle,Fatal,1
+2024,Colorado Springs,Bicycle/Motorized Bicycle,Injury,56
+2024,Colorado Springs,Bicycle/Motorized Bicycle,No injury reported,18
+2024,Colorado Springs,Bridge Structure (Not Overhead),No injury reported,2
+2024,Colorado Springs,Broadside,Fatal,3
+2024,Colorado Springs,Broadside,Injury,498
+2024,Colorado Springs,Broadside,No injury reported,611
+2024,Colorado Springs,Cable Rail,Injury,1
+2024,Colorado Springs,Cable Rail,No injury reported,2
+2024,Colorado Springs,Concrete Highway Barrier,Injury,18
+2024,Colorado Springs,Concrete Highway Barrier,No injury reported,28
+2024,Colorado Springs,Crash Cushion/Traffic Barrel,Fatal,2
+2024,Colorado Springs,Crash Cushion/Traffic Barrel,Injury,3
+2024,Colorado Springs,Crash Cushion/Traffic Barrel,No injury reported,3
+2024,Colorado Springs,Culvert or Headwall,Injury,1
+2024,Colorado Springs,Culvert or Headwall,No injury reported,1
+2024,Colorado Springs,Curb,Fatal,1
+2024,Colorado Springs,Curb,Injury,72
+2024,Colorado Springs,Curb,No injury reported,216
+2024,Colorado Springs,Delineator/Milepost,No injury reported,1
+2024,Colorado Springs,Ditch,Injury,4
+2024,Colorado Springs,Ditch,No injury reported,10
+2024,Colorado Springs,Domestic Animal,Injury,1
+2024,Colorado Springs,Domestic Animal,No injury reported,3
+2024,Colorado Springs,Electrical/Utility Box,Injury,3
+2024,Colorado Springs,Electrical/Utility Box,No injury reported,15
+2024,Colorado Springs,Embankment,Fatal,1
+2024,Colorado Springs,Embankment,Injury,3
+2024,Colorado Springs,Embankment,No injury reported,5
+2024,Colorado Springs,Fell from Motor Vehicle,Injury,4
+2024,Colorado Springs,Fence,Injury,7
+2024,Colorado Springs,Fence,No injury reported,15
+2024,Colorado Springs,Ground,Injury,5
+2024,Colorado Springs,Ground,No injury reported,1
+2024,Colorado Springs,Guardrail End,Injury,2
+2024,Colorado Springs,Guardrail End,No injury reported,8
+2024,Colorado Springs,Guardrail Face,Fatal,2
+2024,Colorado Springs,Guardrail Face,Injury,14
+2024,Colorado Springs,Guardrail Face,No injury reported,34
+2024,Colorado Springs,Head-On,Fatal,4
+2024,Colorado Springs,Head-On,Injury,28
+2024,Colorado Springs,Head-On,No injury reported,25
+2024,Colorado Springs,Large Rocks or Boulder,Injury,10
+2024,Colorado Springs,Large Rocks or Boulder,No injury reported,13
+2024,Colorado Springs,Light Pole/Utility Pole,Injury,23
+2024,Colorado Springs,Light Pole/Utility Pole,No injury reported,90
+2024,Colorado Springs,Mailbox,No injury reported,6
+2024,Colorado Springs,Other Fixed Object (Describe in Narrative),Injury,6
+2024,Colorado Springs,Other Fixed Object (Describe in Narrative),No injury reported,27
+2024,Colorado Springs,Other Non-Collision,Injury,46
+2024,Colorado Springs,Other Non-Collision,No injury reported,57
+2024,Colorado Springs,Other Non-Fixed Object Describe in Narrative),Injury,11
+2024,Colorado Springs,Other Non-Fixed Object Describe in Narrative),No injury reported,18
+2024,Colorado Springs,Overhead Structure (Not Bridge),No injury reported,5
+2024,Colorado Springs,Overtaking Turn,Fatal,1
+2024,Colorado Springs,Overtaking Turn,Injury,44
+2024,Colorado Springs,Overtaking Turn,No injury reported,113
+2024,Colorado Springs,Overturning/Rollover,Fatal,1
+2024,Colorado Springs,Overturning/Rollover,Injury,48
+2024,Colorado Springs,Overturning/Rollover,No injury reported,25
+2024,Colorado Springs,Parked Motor Vehicle,Injury,40
+2024,Colorado Springs,Parked Motor Vehicle,No injury reported,332
+2024,Colorado Springs,Pedestrian,Fatal,13
+2024,Colorado Springs,Pedestrian,Injury,106
+2024,Colorado Springs,Pedestrian,No injury reported,29
+2024,Colorado Springs,Railroad Crossing Equipment,No injury reported,1
+2024,Colorado Springs,Rear-End,Fatal,2
+2024,Colorado Springs,Rear-End,Injury,616
+2024,Colorado Springs,Rear-End,No injury reported,1219
+2024,Colorado Springs,School Age To/From School,Injury,1
+2024,Colorado Springs,School Age To/From School,No injury reported,1
+2024,Colorado Springs,Sideswipe Opposite Direction,Injury,14
+2024,Colorado Springs,Sideswipe Opposite Direction,No injury reported,26
+2024,Colorado Springs,Sideswipe Same Direction,Fatal,1
+2024,Colorado Springs,Sideswipe Same Direction,Injury,121
+2024,Colorado Springs,Sideswipe Same Direction,No injury reported,701
+2024,Colorado Springs,Sign,Fatal,1
+2024,Colorado Springs,Sign,Injury,7
+2024,Colorado Springs,Sign,No injury reported,55
+2024,Colorado Springs,Traffic Signal Pole,Injury,7
+2024,Colorado Springs,Traffic Signal Pole,No injury reported,15
+2024,Colorado Springs,Tree,Fatal,2
+2024,Colorado Springs,Tree,Injury,18
+2024,Colorado Springs,Tree,No injury reported,20
+2024,Colorado Springs,Vehicle Debris or Cargo,Injury,1
+2024,Colorado Springs,Vehicle Debris or Cargo,No injury reported,8
+2024,Colorado Springs,Wall or Building,Injury,4
+2024,Colorado Springs,Wall or Building,No injury reported,12
+2024,Colorado Springs,Wild Animal,Injury,7
+2024,Colorado Springs,Wild Animal,No injury reported,7
+2024,El Paso County,Approach Turn,Fatal,11
+2024,El Paso County,Approach Turn,Injury,522
+2024,El Paso County,Approach Turn,No injury reported,464
+2024,El Paso County,Barricade,Injury,6
+2024,El Paso County,Barricade,No injury reported,13
+2024,El Paso County,Bicycle/Motorized Bicycle,Fatal,1
+2024,El Paso County,Bicycle/Motorized Bicycle,Injury,68
+2024,El Paso County,Bicycle/Motorized Bicycle,No injury reported,20
+2024,El Paso County,Bridge Structure (Not Overhead),Injury,1
+2024,El Paso County,Bridge Structure (Not Overhead),No injury reported,4
+2024,El Paso County,Broadside,Fatal,6
+2024,El Paso County,Broadside,Injury,637
+2024,El Paso County,Broadside,No injury reported,813
+2024,El Paso County,Cable Rail,Injury,5
+2024,El Paso County,Cable Rail,No injury reported,25
+2024,El Paso County,Concrete Highway Barrier,Fatal,1
+2024,El Paso County,Concrete Highway Barrier,Injury,40
+2024,El Paso County,Concrete Highway Barrier,No injury reported,74
+2024,El Paso County,Crash Cushion/Traffic Barrel,Fatal,4
+2024,El Paso County,Crash Cushion/Traffic Barrel,Injury,6
+2024,El Paso County,Crash Cushion/Traffic Barrel,No injury reported,14
+2024,El Paso County,Culvert or Headwall,Injury,6
+2024,El Paso County,Culvert or Headwall,No injury reported,6
+2024,El Paso County,Curb,Fatal,1
+2024,El Paso County,Curb,Injury,88
+2024,El Paso County,Curb,No injury reported,253
+2024,El Paso County,Delineator/Milepost,No injury reported,8
+2024,El Paso County,Ditch,Injury,13
+2024,El Paso County,Ditch,No injury reported,30
+2024,El Paso County,Domestic Animal,Injury,3
+2024,El Paso County,Domestic Animal,No injury reported,18
+2024,El Paso County,Electrical/Utility Box,Injury,6
+2024,El Paso County,Electrical/Utility Box,No injury reported,27
+2024,El Paso County,Embankment,Fatal,2
+2024,El Paso County,Embankment,Injury,16
+2024,El Paso County,Embankment,No injury reported,28
+2024,El Paso County,Fell from Motor Vehicle,Injury,4
+2024,El Paso County,Fence,Fatal,1
+2024,El Paso County,Fence,Injury,18
+2024,El Paso County,Fence,No injury reported,78
+2024,El Paso County,Ground,Injury,10
+2024,El Paso County,Ground,No injury reported,6
+2024,El Paso County,Guardrail End,Fatal,1
+2024,El Paso County,Guardrail End,Injury,7
+2024,El Paso County,Guardrail End,No injury reported,25
+2024,El Paso County,Guardrail Face,Fatal,6
+2024,El Paso County,Guardrail Face,Injury,36
+2024,El Paso County,Guardrail Face,No injury reported,105
+2024,El Paso County,Head-On,Fatal,6
+2024,El Paso County,Head-On,Injury,45
+2024,El Paso County,Head-On,No injury reported,34
+2024,El Paso County,Large Rocks or Boulder,Fatal,1
+2024,El Paso County,Large Rocks or Boulder,Injury,12
+2024,El Paso County,Large Rocks or Boulder,No injury reported,21
+2024,El Paso County,Light Pole/Utility Pole,Injury,29
+2024,El Paso County,Light Pole/Utility Pole,No injury reported,122
+2024,El Paso County,Mailbox,No injury reported,15
+2024,El Paso County,Other Fixed Object (Describe in Narrative),Injury,9
+2024,El Paso County,Other Fixed Object (Describe in Narrative),No injury reported,31
+2024,El Paso County,Other Non-Collision,Fatal,2
+2024,El Paso County,Other Non-Collision,Injury,73
+2024,El Paso County,Other Non-Collision,No injury reported,90
+2024,El Paso County,Other Non-Fixed Object Describe in Narrative),Injury,15
+2024,El Paso County,Other Non-Fixed Object Describe in Narrative),No injury reported,41
+2024,El Paso County,Overhead Structure (Bridge),No injury reported,1
+2024,El Paso County,Overhead Structure (Not Bridge),No injury reported,7
+2024,El Paso County,Overtaking Turn,Fatal,1
+2024,El Paso County,Overtaking Turn,Injury,61
+2024,El Paso County,Overtaking Turn,No injury reported,163
+2024,El Paso County,Overturning/Rollover,Fatal,3
+2024,El Paso County,Overturning/Rollover,Injury,97
+2024,El Paso County,Overturning/Rollover,No injury reported,65
+2024,El Paso County,Parked Motor Vehicle,Injury,61
+2024,El Paso County,Parked Motor Vehicle,No injury reported,466
+2024,El Paso County,Pedestrian,Fatal,15
+2024,El Paso County,Pedestrian,Injury,129
+2024,El Paso County,Pedestrian,No injury reported,32
+2024,El Paso County,Railroad Crossing Equipment,Injury,1
+2024,El Paso County,Railroad Crossing Equipment,No injury reported,5
+2024,El Paso County,Rear-End,Fatal,5
+2024,El Paso County,Rear-End,Injury,909
+2024,El Paso County,Rear-End,No injury reported,1846
+2024,El Paso County,School Age To/From School,Injury,1
+2024,El Paso County,School Age To/From School,No injury reported,1
+2024,El Paso County,Sideswipe Opposite Direction,Fatal,1
+2024,El Paso County,Sideswipe Opposite Direction,Injury,25
+2024,El Paso County,Sideswipe Opposite Direction,No injury reported,48
+2024,El Paso County,Sideswipe Same Direction,Fatal,2
+2024,El Paso County,Sideswipe Same Direction,Injury,180
+2024,El Paso County,Sideswipe Same Direction,No injury reported,1032
+2024,El Paso County,Sign,Fatal,1
+2024,El Paso County,Sign,Injury,13
+2024,El Paso County,Sign,No injury reported,89
+2024,El Paso County,Traffic Signal Pole,Injury,13
+2024,El Paso County,Traffic Signal Pole,No injury reported,18
+2024,El Paso County,Tree,Fatal,2
+2024,El Paso County,Tree,Injury,33
+2024,El Paso County,Tree,No injury reported,41
+2024,El Paso County,Vehicle Debris or Cargo,Injury,2
+2024,El Paso County,Vehicle Debris or Cargo,No injury reported,40
+2024,El Paso County,Wall or Building,Injury,4
+2024,El Paso County,Wall or Building,No injury reported,14
+2024,El Paso County,Wild Animal,Injury,20
+2024,El Paso County,Wild Animal,No injury reported,174
+2025,Colorado,Approach Turn,Fatal,71
+2025,Colorado,Approach Turn,Injury,2938
+2025,Colorado,Approach Turn,No injury reported,3995
+2025,Colorado,Barricade,Fatal,2
+2025,Colorado,Barricade,Injury,44
+2025,Colorado,Barricade,No injury reported,133
+2025,Colorado,Bicycle/Motorized Bicycle,Fatal,19
+2025,Colorado,Bicycle/Motorized Bicycle,Injury,1006
+2025,Colorado,Bicycle/Motorized Bicycle,No injury reported,257
+2025,Colorado,Bridge Structure (Not Overhead),Injury,19
+2025,Colorado,Bridge Structure (Not Overhead),No injury reported,48
+2025,Colorado,Broadside,Fatal,67
+2025,Colorado,Broadside,Injury,4639
+2025,Colorado,Broadside,No injury reported,9391
+2025,Colorado,Cable Rail,Fatal,1
+2025,Colorado,Cable Rail,Injury,75
+2025,Colorado,Cable Rail,No injury reported,282
+2025,Colorado,Concrete Highway Barrier,Fatal,9
+2025,Colorado,Concrete Highway Barrier,Injury,377
+2025,Colorado,Concrete Highway Barrier,No injury reported,753
+2025,Colorado,Crash Cushion/Traffic Barrel,Fatal,2
+2025,Colorado,Crash Cushion/Traffic Barrel,Injury,52
+2025,Colorado,Crash Cushion/Traffic Barrel,No injury reported,103
+2025,Colorado,Culvert or Headwall,Fatal,3
+2025,Colorado,Culvert or Headwall,Injury,50
+2025,Colorado,Culvert or Headwall,No injury reported,84
+2025,Colorado,Curb,Fatal,20
+2025,Colorado,Curb,Injury,348
+2025,Colorado,Curb,No injury reported,1175
+2025,Colorado,Delineator/Milepost,Fatal,5
+2025,Colorado,Delineator/Milepost,Injury,30
+2025,Colorado,Delineator/Milepost,No injury reported,132
+2025,Colorado,Ditch,Fatal,7
+2025,Colorado,Ditch,Injury,220
+2025,Colorado,Ditch,No injury reported,502
+2025,Colorado,Domestic Animal,Fatal,1
+2025,Colorado,Domestic Animal,Injury,33
+2025,Colorado,Domestic Animal,No injury reported,267
+2025,Colorado,Electrical/Utility Box,Fatal,1
+2025,Colorado,Electrical/Utility Box,Injury,34
+2025,Colorado,Electrical/Utility Box,No injury reported,170
+2025,Colorado,Embankment,Fatal,21
+2025,Colorado,Embankment,Injury,311
+2025,Colorado,Embankment,No injury reported,548
+2025,Colorado,Fell from Motor Vehicle,Fatal,2
+2025,Colorado,Fell from Motor Vehicle,Injury,27
+2025,Colorado,Fell from Motor Vehicle,No injury reported,6
+2025,Colorado,Fence,Fatal,11
+2025,Colorado,Fence,Injury,257
+2025,Colorado,Fence,No injury reported,1159
+2025,Colorado,Ground,Fatal,3
+2025,Colorado,Ground,Injury,71
+2025,Colorado,Ground,No injury reported,130
+2025,Colorado,Guardrail End,Fatal,2
+2025,Colorado,Guardrail End,Injury,114
+2025,Colorado,Guardrail End,No injury reported,222
+2025,Colorado,Guardrail Face,Fatal,11
+2025,Colorado,Guardrail Face,Injury,292
+2025,Colorado,Guardrail Face,No injury reported,682
+2025,Colorado,Head-On,Fatal,59
+2025,Colorado,Head-On,Injury,387
+2025,Colorado,Head-On,No injury reported,289
+2025,Colorado,"Immersion, Full or Partial",Injury,1
+2025,Colorado,"Immersion, Full or Partial",No injury reported,10
+2025,Colorado,Large Rocks or Boulder,Fatal,3
+2025,Colorado,Large Rocks or Boulder,Injury,151
+2025,Colorado,Large Rocks or Boulder,No injury reported,321
+2025,Colorado,Light Pole/Utility Pole,Fatal,9
+2025,Colorado,Light Pole/Utility Pole,Injury,266
+2025,Colorado,Light Pole/Utility Pole,No injury reported,834
+2025,Colorado,Mailbox,Fatal,1
+2025,Colorado,Mailbox,Injury,29
+2025,Colorado,Mailbox,No injury reported,173
+2025,Colorado,Other Fixed Object (Describe in Narrative),Fatal,5
+2025,Colorado,Other Fixed Object (Describe in Narrative),Injury,80
+2025,Colorado,Other Fixed Object (Describe in Narrative),No injury reported,460
+2025,Colorado,Other Non-Collision,Fatal,5
+2025,Colorado,Other Non-Collision,Injury,195
+2025,Colorado,Other Non-Collision,No injury reported,431
+2025,Colorado,Other Non-Fixed Object Describe in Narrative),Fatal,3
+2025,Colorado,Other Non-Fixed Object Describe in Narrative),Injury,60
+2025,Colorado,Other Non-Fixed Object Describe in Narrative),No injury reported,448
+2025,Colorado,Overhead Structure (Bridge),Injury,2
+2025,Colorado,Overhead Structure (Bridge),No injury reported,15
+2025,Colorado,Overhead Structure (Not Bridge),Injury,1
+2025,Colorado,Overhead Structure (Not Bridge),No injury reported,76
+2025,Colorado,Overtaking Turn,Fatal,5
+2025,Colorado,Overtaking Turn,Injury,466
+2025,Colorado,Overtaking Turn,No injury reported,1841
+2025,Colorado,Overturning/Rollover,Fatal,71
+2025,Colorado,Overturning/Rollover,Injury,1141
+2025,Colorado,Overturning/Rollover,No injury reported,1076
+2025,Colorado,Parked Motor Vehicle,Fatal,10
+2025,Colorado,Parked Motor Vehicle,Injury,590
+2025,Colorado,Parked Motor Vehicle,No injury reported,6440
+2025,Colorado,Pedestrian,Fatal,119
+2025,Colorado,Pedestrian,Injury,1276
+2025,Colorado,Pedestrian,No injury reported,248
+2025,Colorado,Railroad Crossing Equipment,Fatal,1
+2025,Colorado,Railroad Crossing Equipment,Injury,4
+2025,Colorado,Railroad Crossing Equipment,No injury reported,33
+2025,Colorado,Rear-End,Fatal,48
+2025,Colorado,Rear-End,Injury,6514
+2025,Colorado,Rear-End,No injury reported,20174
+2025,Colorado,School Age To/From School,Injury,5
+2025,Colorado,School Age To/From School,No injury reported,4
+2025,Colorado,Sideswipe Opposite Direction,Fatal,21
+2025,Colorado,Sideswipe Opposite Direction,Injury,320
+2025,Colorado,Sideswipe Opposite Direction,No injury reported,788
+2025,Colorado,Sideswipe Same Direction,Fatal,15
+2025,Colorado,Sideswipe Same Direction,Injury,1343
+2025,Colorado,Sideswipe Same Direction,No injury reported,10431
+2025,Colorado,Sign,Fatal,5
+2025,Colorado,Sign,Injury,231
+2025,Colorado,Sign,No injury reported,1231
+2025,Colorado,Traffic Signal Pole,Fatal,1
+2025,Colorado,Traffic Signal Pole,Injury,48
+2025,Colorado,Traffic Signal Pole,No injury reported,143
+2025,Colorado,Tree,Fatal,10
+2025,Colorado,Tree,Injury,323
+2025,Colorado,Tree,No injury reported,625
+2025,Colorado,Vehicle Debris or Cargo,Fatal,1
+2025,Colorado,Vehicle Debris or Cargo,Injury,48
+2025,Colorado,Vehicle Debris or Cargo,No injury reported,450
+2025,Colorado,Wall or Building,Fatal,3
+2025,Colorado,Wall or Building,Injury,69
+2025,Colorado,Wall or Building,No injury reported,163
+2025,Colorado,Wild Animal,Fatal,5
+2025,Colorado,Wild Animal,Injury,310
+2025,Colorado,Wild Animal,No injury reported,3498
+2025,Colorado Springs,Approach Turn,Fatal,9
+2025,Colorado Springs,Approach Turn,Injury,391
+2025,Colorado Springs,Approach Turn,No injury reported,350
+2025,Colorado Springs,Barricade,Injury,4
+2025,Colorado Springs,Barricade,No injury reported,8
+2025,Colorado Springs,Bicycle/Motorized Bicycle,Fatal,1
+2025,Colorado Springs,Bicycle/Motorized Bicycle,Injury,63
+2025,Colorado Springs,Bicycle/Motorized Bicycle,No injury reported,20
+2025,Colorado Springs,Bridge Structure (Not Overhead),Injury,1
+2025,Colorado Springs,Bridge Structure (Not Overhead),No injury reported,1
+2025,Colorado Springs,Broadside,Fatal,13
+2025,Colorado Springs,Broadside,Injury,475
+2025,Colorado Springs,Broadside,No injury reported,691
+2025,Colorado Springs,Cable Rail,Injury,2
+2025,Colorado Springs,Cable Rail,No injury reported,1
+2025,Colorado Springs,Concrete Highway Barrier,Injury,13
+2025,Colorado Springs,Concrete Highway Barrier,No injury reported,24
+2025,Colorado Springs,Crash Cushion/Traffic Barrel,Injury,3
+2025,Colorado Springs,Crash Cushion/Traffic Barrel,No injury reported,2
+2025,Colorado Springs,Culvert or Headwall,No injury reported,1
+2025,Colorado Springs,Curb,Fatal,5
+2025,Colorado Springs,Curb,Injury,137
+2025,Colorado Springs,Curb,No injury reported,306
+2025,Colorado Springs,Delineator/Milepost,No injury reported,1
+2025,Colorado Springs,Ditch,Fatal,1
+2025,Colorado Springs,Ditch,Injury,4
+2025,Colorado Springs,Ditch,No injury reported,2
+2025,Colorado Springs,Domestic Animal,No injury reported,3
+2025,Colorado Springs,Electrical/Utility Box,Injury,2
+2025,Colorado Springs,Electrical/Utility Box,No injury reported,14
+2025,Colorado Springs,Embankment,Injury,3
+2025,Colorado Springs,Embankment,No injury reported,4
+2025,Colorado Springs,Fell from Motor Vehicle,Injury,3
+2025,Colorado Springs,Fell from Motor Vehicle,No injury reported,1
+2025,Colorado Springs,Fence,Injury,1
+2025,Colorado Springs,Fence,No injury reported,15
+2025,Colorado Springs,Ground,Injury,5
+2025,Colorado Springs,Ground,No injury reported,1
+2025,Colorado Springs,Guardrail End,Injury,2
+2025,Colorado Springs,Guardrail End,No injury reported,11
+2025,Colorado Springs,Guardrail Face,Injury,16
+2025,Colorado Springs,Guardrail Face,No injury reported,44
+2025,Colorado Springs,Head-On,Fatal,2
+2025,Colorado Springs,Head-On,Injury,21
+2025,Colorado Springs,Head-On,No injury reported,12
+2025,Colorado Springs,Large Rocks or Boulder,Injury,1
+2025,Colorado Springs,Large Rocks or Boulder,No injury reported,4
+2025,Colorado Springs,Light Pole/Utility Pole,Injury,13
+2025,Colorado Springs,Light Pole/Utility Pole,No injury reported,47
+2025,Colorado Springs,Mailbox,Injury,2
+2025,Colorado Springs,Mailbox,No injury reported,6
+2025,Colorado Springs,Other Fixed Object (Describe in Narrative),Injury,4
+2025,Colorado Springs,Other Fixed Object (Describe in Narrative),No injury reported,25
+2025,Colorado Springs,Other Non-Collision,Injury,57
+2025,Colorado Springs,Other Non-Collision,No injury reported,99
+2025,Colorado Springs,Other Non-Fixed Object Describe in Narrative),Injury,3
+2025,Colorado Springs,Other Non-Fixed Object Describe in Narrative),No injury reported,21
+2025,Colorado Springs,Overhead Structure (Bridge),Injury,1
+2025,Colorado Springs,Overhead Structure (Not Bridge),No injury reported,4
+2025,Colorado Springs,Overtaking Turn,Injury,44
+2025,Colorado Springs,Overtaking Turn,No injury reported,127
+2025,Colorado Springs,Overturning/Rollover,Fatal,3
+2025,Colorado Springs,Overturning/Rollover,Injury,31
+2025,Colorado Springs,Overturning/Rollover,No injury reported,20
+2025,Colorado Springs,Parked Motor Vehicle,Injury,53
+2025,Colorado Springs,Parked Motor Vehicle,No injury reported,277
+2025,Colorado Springs,Pedestrian,Fatal,7
+2025,Colorado Springs,Pedestrian,Injury,114
+2025,Colorado Springs,Pedestrian,No injury reported,13
+2025,Colorado Springs,Railroad Crossing Equipment,No injury reported,1
+2025,Colorado Springs,Rear-End,Fatal,2
+2025,Colorado Springs,Rear-End,Injury,709
+2025,Colorado Springs,Rear-End,No injury reported,1400
+2025,Colorado Springs,Sideswipe Opposite Direction,Fatal,1
+2025,Colorado Springs,Sideswipe Opposite Direction,Injury,20
+2025,Colorado Springs,Sideswipe Opposite Direction,No injury reported,29
+2025,Colorado Springs,Sideswipe Same Direction,Fatal,1
+2025,Colorado Springs,Sideswipe Same Direction,Injury,130
+2025,Colorado Springs,Sideswipe Same Direction,No injury reported,844
+2025,Colorado Springs,Sign,Injury,8
+2025,Colorado Springs,Sign,No injury reported,59
+2025,Colorado Springs,Traffic Signal Pole,Injury,2
+2025,Colorado Springs,Traffic Signal Pole,No injury reported,11
+2025,Colorado Springs,Tree,Fatal,2
+2025,Colorado Springs,Tree,Injury,7
+2025,Colorado Springs,Tree,No injury reported,13
+2025,Colorado Springs,Vehicle Debris or Cargo,Injury,4
+2025,Colorado Springs,Vehicle Debris or Cargo,No injury reported,19
+2025,Colorado Springs,Wall or Building,Fatal,1
+2025,Colorado Springs,Wall or Building,Injury,2
+2025,Colorado Springs,Wall or Building,No injury reported,4
+2025,Colorado Springs,Wild Animal,Injury,5
+2025,Colorado Springs,Wild Animal,No injury reported,23
+2025,El Paso County,Approach Turn,Fatal,11
+2025,El Paso County,Approach Turn,Injury,510
+2025,El Paso County,Approach Turn,No injury reported,440
+2025,El Paso County,Barricade,Injury,5
+2025,El Paso County,Barricade,No injury reported,13
+2025,El Paso County,Bicycle/Motorized Bicycle,Fatal,1
+2025,El Paso County,Bicycle/Motorized Bicycle,Injury,76
+2025,El Paso County,Bicycle/Motorized Bicycle,No injury reported,22
+2025,El Paso County,Bridge Structure (Not Overhead),Injury,1
+2025,El Paso County,Bridge Structure (Not Overhead),No injury reported,1
+2025,El Paso County,Broadside,Fatal,15
+2025,El Paso County,Broadside,Injury,612
+2025,El Paso County,Broadside,No injury reported,884
+2025,El Paso County,Cable Rail,Injury,7
+2025,El Paso County,Cable Rail,No injury reported,20
+2025,El Paso County,Concrete Highway Barrier,Injury,18
+2025,El Paso County,Concrete Highway Barrier,No injury reported,44
+2025,El Paso County,Crash Cushion/Traffic Barrel,Injury,4
+2025,El Paso County,Crash Cushion/Traffic Barrel,No injury reported,6
+2025,El Paso County,Culvert or Headwall,No injury reported,3
+2025,El Paso County,Curb,Fatal,6
+2025,El Paso County,Curb,Injury,151
+2025,El Paso County,Curb,No injury reported,364
+2025,El Paso County,Delineator/Milepost,Fatal,1
+2025,El Paso County,Delineator/Milepost,Injury,6
+2025,El Paso County,Delineator/Milepost,No injury reported,10
+2025,El Paso County,Ditch,Fatal,1
+2025,El Paso County,Ditch,Injury,13
+2025,El Paso County,Ditch,No injury reported,24
+2025,El Paso County,Domestic Animal,Injury,1
+2025,El Paso County,Domestic Animal,No injury reported,11
+2025,El Paso County,Electrical/Utility Box,Injury,4
+2025,El Paso County,Electrical/Utility Box,No injury reported,18
+2025,El Paso County,Embankment,Injury,20
+2025,El Paso County,Embankment,No injury reported,30
+2025,El Paso County,Fell from Motor Vehicle,Injury,4
+2025,El Paso County,Fell from Motor Vehicle,No injury reported,1
+2025,El Paso County,Fence,Fatal,2
+2025,El Paso County,Fence,Injury,11
+2025,El Paso County,Fence,No injury reported,77
+2025,El Paso County,Ground,Injury,9
+2025,El Paso County,Ground,No injury reported,4
+2025,El Paso County,Guardrail End,Injury,10
+2025,El Paso County,Guardrail End,No injury reported,34
+2025,El Paso County,Guardrail Face,Injury,55
+2025,El Paso County,Guardrail Face,No injury reported,116
+2025,El Paso County,Head-On,Fatal,2
+2025,El Paso County,Head-On,Injury,35
+2025,El Paso County,Head-On,No injury reported,20
+2025,El Paso County,"Immersion, Full or Partial",No injury reported,1
+2025,El Paso County,Large Rocks or Boulder,Injury,5
+2025,El Paso County,Large Rocks or Boulder,No injury reported,13
+2025,El Paso County,Light Pole/Utility Pole,Injury,25
+2025,El Paso County,Light Pole/Utility Pole,No injury reported,69
+2025,El Paso County,Mailbox,Fatal,1
+2025,El Paso County,Mailbox,Injury,5
+2025,El Paso County,Mailbox,No injury reported,17
+2025,El Paso County,Other Fixed Object (Describe in Narrative),Injury,5
+2025,El Paso County,Other Fixed Object (Describe in Narrative),No injury reported,31
+2025,El Paso County,Other Non-Collision,Fatal,1
+2025,El Paso County,Other Non-Collision,Injury,78
+2025,El Paso County,Other Non-Collision,No injury reported,138
+2025,El Paso County,Other Non-Fixed Object Describe in Narrative),Injury,4
+2025,El Paso County,Other Non-Fixed Object Describe in Narrative),No injury reported,39
+2025,El Paso County,Overhead Structure (Bridge),Injury,1
+2025,El Paso County,Overhead Structure (Not Bridge),No injury reported,9
+2025,El Paso County,Overtaking Turn,Injury,58
+2025,El Paso County,Overtaking Turn,No injury reported,178
+2025,El Paso County,Overturning/Rollover,Fatal,7
+2025,El Paso County,Overturning/Rollover,Injury,72
+2025,El Paso County,Overturning/Rollover,No injury reported,67
+2025,El Paso County,Parked Motor Vehicle,Fatal,1
+2025,El Paso County,Parked Motor Vehicle,Injury,66
+2025,El Paso County,Parked Motor Vehicle,No injury reported,404
+2025,El Paso County,Pedestrian,Fatal,12
+2025,El Paso County,Pedestrian,Injury,127
+2025,El Paso County,Pedestrian,No injury reported,14
+2025,El Paso County,Railroad Crossing Equipment,Fatal,1
+2025,El Paso County,Railroad Crossing Equipment,No injury reported,3
+2025,El Paso County,Rear-End,Fatal,4
+2025,El Paso County,Rear-End,Injury,952
+2025,El Paso County,Rear-End,No injury reported,1898
+2025,El Paso County,Sideswipe Opposite Direction,Fatal,1
+2025,El Paso County,Sideswipe Opposite Direction,Injury,29
+2025,El Paso County,Sideswipe Opposite Direction,No injury reported,48
+2025,El Paso County,Sideswipe Same Direction,Fatal,1
+2025,El Paso County,Sideswipe Same Direction,Injury,184
+2025,El Paso County,Sideswipe Same Direction,No injury reported,1154
+2025,El Paso County,Sign,Injury,21
+2025,El Paso County,Sign,No injury reported,93
+2025,El Paso County,Traffic Signal Pole,Injury,5
+2025,El Paso County,Traffic Signal Pole,No injury reported,12
+2025,El Paso County,Tree,Fatal,2
+2025,El Paso County,Tree,Injury,18
+2025,El Paso County,Tree,No injury reported,31
+2025,El Paso County,Vehicle Debris or Cargo,Injury,4
+2025,El Paso County,Vehicle Debris or Cargo,No injury reported,40
+2025,El Paso County,Wall or Building,Fatal,1
+2025,El Paso County,Wall or Building,Injury,3
+2025,El Paso County,Wall or Building,No injury reported,9
+2025,El Paso County,Wild Animal,Injury,25
+2025,El Paso County,Wild Animal,No injury reported,220
+2026,Colorado,Approach Turn,Fatal,30
+2026,Colorado,Approach Turn,Injury,1926
+2026,Colorado,Approach Turn,No injury reported,2551
+2026,Colorado,Barricade,Fatal,1
+2026,Colorado,Barricade,Injury,42
+2026,Colorado,Barricade,No injury reported,93
+2026,Colorado,Bicycle/Motorized Bicycle,Fatal,5
+2026,Colorado,Bicycle/Motorized Bicycle,Injury,738
+2026,Colorado,Bicycle/Motorized Bicycle,No injury reported,183
+2026,Colorado,Bridge Structure (Not Overhead),Fatal,1
+2026,Colorado,Bridge Structure (Not Overhead),Injury,14
+2026,Colorado,Bridge Structure (Not Overhead),No injury reported,23
+2026,Colorado,Broadside,Fatal,26
+2026,Colorado,Broadside,Injury,3195
+2026,Colorado,Broadside,No injury reported,5923
+2026,Colorado,Cable Rail,Fatal,2
+2026,Colorado,Cable Rail,Injury,41
+2026,Colorado,Cable Rail,No injury reported,246
+2026,Colorado,Concrete Highway Barrier,Fatal,4
+2026,Colorado,Concrete Highway Barrier,Injury,245
+2026,Colorado,Concrete Highway Barrier,No injury reported,519
+2026,Colorado,Crash Cushion/Traffic Barrel,Injury,39
+2026,Colorado,Crash Cushion/Traffic Barrel,No injury reported,65
+2026,Colorado,Culvert or Headwall,Fatal,2
+2026,Colorado,Culvert or Headwall,Injury,41
+2026,Colorado,Culvert or Headwall,No injury reported,62
+2026,Colorado,Curb,Fatal,10
+2026,Colorado,Curb,Injury,219
+2026,Colorado,Curb,No injury reported,648
+2026,Colorado,Delineator/Milepost,Fatal,3
+2026,Colorado,Delineator/Milepost,Injury,14
+2026,Colorado,Delineator/Milepost,No injury reported,98
+2026,Colorado,Ditch,Fatal,3
+2026,Colorado,Ditch,Injury,160
+2026,Colorado,Ditch,No injury reported,348
+2026,Colorado,Domestic Animal,Injury,29
+2026,Colorado,Domestic Animal,No injury reported,187
+2026,Colorado,Electrical/Utility Box,Injury,22
+2026,Colorado,Electrical/Utility Box,No injury reported,99
+2026,Colorado,Embankment,Fatal,12
+2026,Colorado,Embankment,Injury,193
+2026,Colorado,Embankment,No injury reported,447
+2026,Colorado,Fell from Motor Vehicle,Injury,12
+2026,Colorado,Fell from Motor Vehicle,No injury reported,4
+2026,Colorado,Fence,Fatal,6
+2026,Colorado,Fence,Injury,209
+2026,Colorado,Fence,No injury reported,800
+2026,Colorado,Ground,Fatal,1
+2026,Colorado,Ground,Injury,60
+2026,Colorado,Ground,No injury reported,81
+2026,Colorado,Guardrail End,Fatal,2
+2026,Colorado,Guardrail End,Injury,56
+2026,Colorado,Guardrail End,No injury reported,140
+2026,Colorado,Guardrail Face,Fatal,6
+2026,Colorado,Guardrail Face,Injury,209
+2026,Colorado,Guardrail Face,No injury reported,487
+2026,Colorado,Head-On,Fatal,35
+2026,Colorado,Head-On,Injury,283
+2026,Colorado,Head-On,No injury reported,243
+2026,Colorado,"Immersion, Full or Partial",Injury,2
+2026,Colorado,"Immersion, Full or Partial",No injury reported,3
+2026,Colorado,Large Rocks or Boulder,Injury,100
+2026,Colorado,Large Rocks or Boulder,No injury reported,242
+2026,Colorado,Light Pole/Utility Pole,Fatal,5
+2026,Colorado,Light Pole/Utility Pole,Injury,192
+2026,Colorado,Light Pole/Utility Pole,No injury reported,591
+2026,Colorado,Mailbox,Injury,18
+2026,Colorado,Mailbox,No injury reported,142
+2026,Colorado,Other Fixed Object (Describe in Narrative),Fatal,1
+2026,Colorado,Other Fixed Object (Describe in Narrative),Injury,62
+2026,Colorado,Other Fixed Object (Describe in Narrative),No injury reported,256
+2026,Colorado,Other Non-Collision,Fatal,1
+2026,Colorado,Other Non-Collision,Injury,93
+2026,Colorado,Other Non-Collision,No injury reported,253
+2026,Colorado,Other Non-Fixed Object Describe in Narrative),Injury,38
+2026,Colorado,Other Non-Fixed Object Describe in Narrative),No injury reported,302
+2026,Colorado,Overhead Structure (Bridge),Injury,2
+2026,Colorado,Overhead Structure (Bridge),No injury reported,8
+2026,Colorado,Overhead Structure (Not Bridge),Injury,2
+2026,Colorado,Overhead Structure (Not Bridge),No injury reported,68
+2026,Colorado,Overtaking Turn,Fatal,7
+2026,Colorado,Overtaking Turn,Injury,337
+2026,Colorado,Overtaking Turn,No injury reported,1326
+2026,Colorado,Overturning/Rollover,Fatal,23
+2026,Colorado,Overturning/Rollover,Injury,760
+2026,Colorado,Overturning/Rollover,No injury reported,699
+2026,Colorado,Parked Motor Vehicle,Fatal,2
+2026,Colorado,Parked Motor Vehicle,Injury,456
+2026,Colorado,Parked Motor Vehicle,No injury reported,4252
+2026,Colorado,Pedestrian,Fatal,36
+2026,Colorado,Pedestrian,Injury,804
+2026,Colorado,Pedestrian,No injury reported,170
+2026,Colorado,Railroad Crossing Equipment,Injury,1
+2026,Colorado,Railroad Crossing Equipment,No injury reported,22
+2026,Colorado,Rear-End,Fatal,23
+2026,Colorado,Rear-End,Injury,4682
+2026,Colorado,Rear-End,No injury reported,14419
+2026,Colorado,School Age To/From School,Injury,4
+2026,Colorado,School Age To/From School,No injury reported,2
+2026,Colorado,Sideswipe Opposite Direction,Fatal,5
+2026,Colorado,Sideswipe Opposite Direction,Injury,192
+2026,Colorado,Sideswipe Opposite Direction,No injury reported,463
+2026,Colorado,Sideswipe Same Direction,Fatal,7
+2026,Colorado,Sideswipe Same Direction,Injury,992
+2026,Colorado,Sideswipe Same Direction,No injury reported,7745
+2026,Colorado,Sign,Fatal,6
+2026,Colorado,Sign,Injury,173
+2026,Colorado,Sign,No injury reported,799
+2026,Colorado,Traffic Signal Pole,Injury,23
+2026,Colorado,Traffic Signal Pole,No injury reported,95
+2026,Colorado,Tree,Fatal,8
+2026,Colorado,Tree,Injury,234
+2026,Colorado,Tree,No injury reported,426
+2026,Colorado,Unknown,Fatal,49
+2026,Colorado,Unknown,Injury,1018
+2026,Colorado,Unknown,No injury reported,2128
+2026,Colorado,Vehicle Debris or Cargo,Injury,28
+2026,Colorado,Vehicle Debris or Cargo,No injury reported,313
+2026,Colorado,Wall or Building,Injury,43
+2026,Colorado,Wall or Building,No injury reported,100
+2026,Colorado,Wild Animal,Injury,250
+2026,Colorado,Wild Animal,No injury reported,2885
+2026,Colorado Springs,Approach Turn,Fatal,6
+2026,Colorado Springs,Approach Turn,Injury,231
+2026,Colorado Springs,Approach Turn,No injury reported,227
+2026,Colorado Springs,Barricade,Injury,3
+2026,Colorado Springs,Barricade,No injury reported,7
+2026,Colorado Springs,Bicycle/Motorized Bicycle,Injury,43
+2026,Colorado Springs,Bicycle/Motorized Bicycle,No injury reported,14
+2026,Colorado Springs,Bridge Structure (Not Overhead),No injury reported,2
+2026,Colorado Springs,Broadside,Fatal,3
+2026,Colorado Springs,Broadside,Injury,352
+2026,Colorado Springs,Broadside,No injury reported,474
+2026,Colorado Springs,Concrete Highway Barrier,Injury,9
+2026,Colorado Springs,Concrete Highway Barrier,No injury reported,16
+2026,Colorado Springs,Crash Cushion/Traffic Barrel,Injury,1
+2026,Colorado Springs,Crash Cushion/Traffic Barrel,No injury reported,1
+2026,Colorado Springs,Curb,Fatal,2
+2026,Colorado Springs,Curb,Injury,65
+2026,Colorado Springs,Curb,No injury reported,155
+2026,Colorado Springs,Ditch,Injury,5
+2026,Colorado Springs,Ditch,No injury reported,2
+2026,Colorado Springs,Domestic Animal,Injury,1
+2026,Colorado Springs,Domestic Animal,No injury reported,2
+2026,Colorado Springs,Electrical/Utility Box,Injury,1
+2026,Colorado Springs,Electrical/Utility Box,No injury reported,11
+2026,Colorado Springs,Embankment,No injury reported,6
+2026,Colorado Springs,Fence,Injury,3
+2026,Colorado Springs,Fence,No injury reported,14
+2026,Colorado Springs,Ground,Injury,5
+2026,Colorado Springs,Ground,No injury reported,1
+2026,Colorado Springs,Guardrail End,Injury,1
+2026,Colorado Springs,Guardrail End,No injury reported,3
+2026,Colorado Springs,Guardrail Face,Injury,10
+2026,Colorado Springs,Guardrail Face,No injury reported,20
+2026,Colorado Springs,Head-On,Fatal,4
+2026,Colorado Springs,Head-On,Injury,21
+2026,Colorado Springs,Head-On,No injury reported,20
+2026,Colorado Springs,"Immersion, Full or Partial",Injury,1
+2026,Colorado Springs,Large Rocks or Boulder,Injury,4
+2026,Colorado Springs,Large Rocks or Boulder,No injury reported,13
+2026,Colorado Springs,Light Pole/Utility Pole,Fatal,1
+2026,Colorado Springs,Light Pole/Utility Pole,Injury,10
+2026,Colorado Springs,Light Pole/Utility Pole,No injury reported,58
+2026,Colorado Springs,Mailbox,Injury,1
+2026,Colorado Springs,Mailbox,No injury reported,7
+2026,Colorado Springs,Other Fixed Object (Describe in Narrative),Fatal,1
+2026,Colorado Springs,Other Fixed Object (Describe in Narrative),Injury,4
+2026,Colorado Springs,Other Fixed Object (Describe in Narrative),No injury reported,19
+2026,Colorado Springs,Other Non-Collision,Injury,23
+2026,Colorado Springs,Other Non-Collision,No injury reported,35
+2026,Colorado Springs,Other Non-Fixed Object Describe in Narrative),Injury,4
+2026,Colorado Springs,Other Non-Fixed Object Describe in Narrative),No injury reported,10
+2026,Colorado Springs,Overhead Structure (Not Bridge),No injury reported,3
+2026,Colorado Springs,Overtaking Turn,Injury,37
+2026,Colorado Springs,Overtaking Turn,No injury reported,88
+2026,Colorado Springs,Overturning/Rollover,Injury,24
+2026,Colorado Springs,Overturning/Rollover,No injury reported,10
+2026,Colorado Springs,Parked Motor Vehicle,Injury,40
+2026,Colorado Springs,Parked Motor Vehicle,No injury reported,215
+2026,Colorado Springs,Pedestrian,Fatal,5
+2026,Colorado Springs,Pedestrian,Injury,74
+2026,Colorado Springs,Pedestrian,No injury reported,6
+2026,Colorado Springs,Rear-End,Fatal,2
+2026,Colorado Springs,Rear-End,Injury,507
+2026,Colorado Springs,Rear-End,No injury reported,1020
+2026,Colorado Springs,Sideswipe Opposite Direction,Injury,15
+2026,Colorado Springs,Sideswipe Opposite Direction,No injury reported,25
+2026,Colorado Springs,Sideswipe Same Direction,Fatal,1
+2026,Colorado Springs,Sideswipe Same Direction,Injury,91
+2026,Colorado Springs,Sideswipe Same Direction,No injury reported,631
+2026,Colorado Springs,Sign,Injury,8
+2026,Colorado Springs,Sign,No injury reported,35
+2026,Colorado Springs,Traffic Signal Pole,Injury,2
+2026,Colorado Springs,Traffic Signal Pole,No injury reported,4
+2026,Colorado Springs,Tree,Injury,9
+2026,Colorado Springs,Tree,No injury reported,9
+2026,Colorado Springs,Unknown,Fatal,3
+2026,Colorado Springs,Unknown,Injury,144
+2026,Colorado Springs,Unknown,No injury reported,224
+2026,Colorado Springs,Vehicle Debris or Cargo,No injury reported,9
+2026,Colorado Springs,Wall or Building,Injury,2
+2026,Colorado Springs,Wall or Building,No injury reported,3
+2026,Colorado Springs,Wild Animal,Injury,3
+2026,Colorado Springs,Wild Animal,No injury reported,11
+2026,El Paso County,Approach Turn,Fatal,8
+2026,El Paso County,Approach Turn,Injury,308
+2026,El Paso County,Approach Turn,No injury reported,300
+2026,El Paso County,Barricade,Fatal,1
+2026,El Paso County,Barricade,Injury,5
+2026,El Paso County,Barricade,No injury reported,10
+2026,El Paso County,Bicycle/Motorized Bicycle,Fatal,1
+2026,El Paso County,Bicycle/Motorized Bicycle,Injury,53
+2026,El Paso County,Bicycle/Motorized Bicycle,No injury reported,16
+2026,El Paso County,Bridge Structure (Not Overhead),No injury reported,2
+2026,El Paso County,Broadside,Fatal,3
+2026,El Paso County,Broadside,Injury,444
+2026,El Paso County,Broadside,No injury reported,604
+2026,El Paso County,Cable Rail,Injury,2
+2026,El Paso County,Cable Rail,No injury reported,17
+2026,El Paso County,Concrete Highway Barrier,Injury,21
+2026,El Paso County,Concrete Highway Barrier,No injury reported,37
+2026,El Paso County,Crash Cushion/Traffic Barrel,Injury,2
+2026,El Paso County,Crash Cushion/Traffic Barrel,No injury reported,2
+2026,El Paso County,Culvert or Headwall,Injury,2
+2026,El Paso County,Culvert or Headwall,No injury reported,5
+2026,El Paso County,Curb,Fatal,2
+2026,El Paso County,Curb,Injury,71
+2026,El Paso County,Curb,No injury reported,187
+2026,El Paso County,Delineator/Milepost,Injury,2
+2026,El Paso County,Delineator/Milepost,No injury reported,10
+2026,El Paso County,Ditch,Injury,9
+2026,El Paso County,Ditch,No injury reported,18
+2026,El Paso County,Domestic Animal,Injury,2
+2026,El Paso County,Domestic Animal,No injury reported,10
+2026,El Paso County,Electrical/Utility Box,Injury,1
+2026,El Paso County,Electrical/Utility Box,No injury reported,16
+2026,El Paso County,Embankment,Injury,9
+2026,El Paso County,Embankment,No injury reported,21
+2026,El Paso County,Fell from Motor Vehicle,Injury,1
+2026,El Paso County,Fence,Injury,14
+2026,El Paso County,Fence,No injury reported,58
+2026,El Paso County,Ground,Injury,12
+2026,El Paso County,Ground,No injury reported,7
+2026,El Paso County,Guardrail End,Injury,6
+2026,El Paso County,Guardrail End,No injury reported,17
+2026,El Paso County,Guardrail Face,Injury,38
+2026,El Paso County,Guardrail Face,No injury reported,71
+2026,El Paso County,Head-On,Fatal,5
+2026,El Paso County,Head-On,Injury,30
+2026,El Paso County,Head-On,No injury reported,25
+2026,El Paso County,"Immersion, Full or Partial",Injury,1
+2026,El Paso County,Large Rocks or Boulder,Injury,6
+2026,El Paso County,Large Rocks or Boulder,No injury reported,20
+2026,El Paso County,Light Pole/Utility Pole,Fatal,1
+2026,El Paso County,Light Pole/Utility Pole,Injury,12
+2026,El Paso County,Light Pole/Utility Pole,No injury reported,83
+2026,El Paso County,Mailbox,Injury,1
+2026,El Paso County,Mailbox,No injury reported,13
+2026,El Paso County,Other Fixed Object (Describe in Narrative),Fatal,1
+2026,El Paso County,Other Fixed Object (Describe in Narrative),Injury,5
+2026,El Paso County,Other Fixed Object (Describe in Narrative),No injury reported,24
+2026,El Paso County,Other Non-Collision,Injury,36
+2026,El Paso County,Other Non-Collision,No injury reported,52
+2026,El Paso County,Other Non-Fixed Object Describe in Narrative),Injury,5
+2026,El Paso County,Other Non-Fixed Object Describe in Narrative),No injury reported,29
+2026,El Paso County,Overhead Structure (Not Bridge),No injury reported,6
+2026,El Paso County,Overtaking Turn,Fatal,1
+2026,El Paso County,Overtaking Turn,Injury,45
+2026,El Paso County,Overtaking Turn,No injury reported,141
+2026,El Paso County,Overturning/Rollover,Fatal,5
+2026,El Paso County,Overturning/Rollover,Injury,63
+2026,El Paso County,Overturning/Rollover,No injury reported,38
+2026,El Paso County,Parked Motor Vehicle,Injury,53
+2026,El Paso County,Parked Motor Vehicle,No injury reported,313
+2026,El Paso County,Pedestrian,Fatal,5
+2026,El Paso County,Pedestrian,Injury,82
+2026,El Paso County,Pedestrian,No injury reported,6
+2026,El Paso County,Railroad Crossing Equipment,No injury reported,1
+2026,El Paso County,Rear-End,Fatal,2
+2026,El Paso County,Rear-End,Injury,654
+2026,El Paso County,Rear-End,No injury reported,1386
+2026,El Paso County,Sideswipe Opposite Direction,Injury,27
+2026,El Paso County,Sideswipe Opposite Direction,No injury reported,39
+2026,El Paso County,Sideswipe Same Direction,Fatal,1
+2026,El Paso County,Sideswipe Same Direction,Injury,121
+2026,El Paso County,Sideswipe Same Direction,No injury reported,846
+2026,El Paso County,Sign,Injury,20
+2026,El Paso County,Sign,No injury reported,59
+2026,El Paso County,Traffic Signal Pole,Injury,2
+2026,El Paso County,Traffic Signal Pole,No injury reported,6
+2026,El Paso County,Tree,Injury,14
+2026,El Paso County,Tree,No injury reported,25
+2026,El Paso County,Unknown,Fatal,4
+2026,El Paso County,Unknown,Injury,189
+2026,El Paso County,Unknown,No injury reported,319
+2026,El Paso County,Vehicle Debris or Cargo,Injury,1
+2026,El Paso County,Vehicle Debris or Cargo,No injury reported,35
+2026,El Paso County,Wall or Building,Injury,2
+2026,El Paso County,Wall or Building,No injury reported,4
+2026,El Paso County,Wild Animal,Injury,16
+2026,El Paso County,Wild Animal,No injury reported,167

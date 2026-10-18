@@ -1,0 +1,1105 @@
+year,county,severity,crashes
+2021,ADAMS,Fatal,60
+2021,ADAMS,Injury,2580
+2021,ADAMS,No injury reported,7234
+2021,ALAMOSA,Fatal,5
+2021,ALAMOSA,Injury,64
+2021,ALAMOSA,No injury reported,313
+2021,ARAPAHOE,Fatal,45
+2021,ARAPAHOE,Injury,2517
+2021,ARAPAHOE,No injury reported,6070
+2021,ARCHULETA,Fatal,2
+2021,ARCHULETA,Injury,71
+2021,ARCHULETA,No injury reported,266
+2021,BACA,Injury,15
+2021,BACA,No injury reported,40
+2021,BENT,Injury,16
+2021,BENT,No injury reported,49
+2021,BOULDER,Fatal,31
+2021,BOULDER,Injury,1299
+2021,BOULDER,No injury reported,3229
+2021,BROOMFIELD,Fatal,6
+2021,BROOMFIELD,Injury,186
+2021,BROOMFIELD,No injury reported,959
+2021,CHAFFEE,Fatal,5
+2021,CHAFFEE,Injury,90
+2021,CHAFFEE,No injury reported,280
+2021,CHEYENNE,Fatal,2
+2021,CHEYENNE,Injury,7
+2021,CHEYENNE,No injury reported,20
+2021,CLEAR CREEK,Fatal,3
+2021,CLEAR CREEK,Injury,135
+2021,CLEAR CREEK,No injury reported,391
+2021,CONEJOS,Fatal,2
+2021,CONEJOS,Injury,24
+2021,CONEJOS,No injury reported,70
+2021,COSTILLA,Fatal,3
+2021,COSTILLA,Injury,24
+2021,COSTILLA,No injury reported,97
+2021,CROWLEY,Injury,22
+2021,CROWLEY,No injury reported,27
+2021,CUSTER,Injury,34
+2021,CUSTER,No injury reported,88
+2021,DELTA,Fatal,5
+2021,DELTA,Injury,84
+2021,DELTA,No injury reported,372
+2021,DENVER,Fatal,66
+2021,DENVER,Injury,3726
+2021,DENVER,No injury reported,12440
+2021,DOLORES,Fatal,1
+2021,DOLORES,Injury,12
+2021,DOLORES,No injury reported,58
+2021,DOUGLAS,Fatal,27
+2021,DOUGLAS,Injury,1281
+2021,DOUGLAS,No injury reported,3690
+2021,EAGLE,Fatal,5
+2021,EAGLE,Injury,236
+2021,EAGLE,No injury reported,841
+2021,EL PASO,Fatal,73
+2021,EL PASO,Injury,3662
+2021,EL PASO,No injury reported,7265
+2021,ELBERT,Fatal,4
+2021,ELBERT,Injury,59
+2021,ELBERT,No injury reported,199
+2021,FREMONT,Fatal,9
+2021,FREMONT,Injury,134
+2021,FREMONT,No injury reported,506
+2021,GARFIELD,Fatal,8
+2021,GARFIELD,Injury,275
+2021,GARFIELD,No injury reported,883
+2021,GILPIN,Injury,49
+2021,GILPIN,No injury reported,105
+2021,GRAND,Fatal,4
+2021,GRAND,Injury,93
+2021,GRAND,No injury reported,331
+2021,GUNNISON,Fatal,3
+2021,GUNNISON,Injury,55
+2021,GUNNISON,No injury reported,228
+2021,HINSDALE,Fatal,1
+2021,HINSDALE,Injury,7
+2021,HINSDALE,No injury reported,5
+2021,HUERFANO,Fatal,4
+2021,HUERFANO,Injury,42
+2021,HUERFANO,No injury reported,126
+2021,JACKSON,Fatal,1
+2021,JACKSON,Injury,24
+2021,JACKSON,No injury reported,54
+2021,JEFFERSON,Fatal,50
+2021,JEFFERSON,Injury,2104
+2021,JEFFERSON,No injury reported,6214
+2021,KIOWA,Injury,10
+2021,KIOWA,No injury reported,37
+2021,KIT CARSON,Fatal,3
+2021,KIT CARSON,Injury,29
+2021,KIT CARSON,No injury reported,116
+2021,LA PLATA,Fatal,11
+2021,LA PLATA,Injury,266
+2021,LA PLATA,No injury reported,804
+2021,LAKE,Fatal,1
+2021,LAKE,Injury,24
+2021,LAKE,No injury reported,87
+2021,LARIMER,Fatal,28
+2021,LARIMER,Injury,1691
+2021,LARIMER,No injury reported,4688
+2021,LAS ANIMAS,Fatal,1
+2021,LAS ANIMAS,Injury,85
+2021,LAS ANIMAS,No injury reported,149
+2021,LINCOLN,Fatal,7
+2021,LINCOLN,Injury,27
+2021,LINCOLN,No injury reported,69
+2021,LOGAN,Fatal,4
+2021,LOGAN,Injury,82
+2021,LOGAN,No injury reported,280
+2021,MESA,Fatal,15
+2021,MESA,Injury,786
+2021,MESA,No injury reported,1686
+2021,MINERAL,Fatal,4
+2021,MINERAL,Injury,27
+2021,MINERAL,No injury reported,49
+2021,MOFFAT,Fatal,1
+2021,MOFFAT,Injury,23
+2021,MOFFAT,No injury reported,148
+2021,MONTEZUMA,Fatal,10
+2021,MONTEZUMA,Injury,84
+2021,MONTEZUMA,No injury reported,317
+2021,MONTROSE,Fatal,4
+2021,MONTROSE,Injury,132
+2021,MONTROSE,No injury reported,450
+2021,MORGAN,Fatal,9
+2021,MORGAN,Injury,124
+2021,MORGAN,No injury reported,337
+2021,OTERO,Fatal,3
+2021,OTERO,Injury,74
+2021,OTERO,No injury reported,255
+2021,OURAY,Fatal,3
+2021,OURAY,Injury,28
+2021,OURAY,No injury reported,114
+2021,PARK,Fatal,7
+2021,PARK,Injury,143
+2021,PARK,No injury reported,320
+2021,PHILLIPS,Fatal,1
+2021,PHILLIPS,Injury,11
+2021,PHILLIPS,No injury reported,21
+2021,PITKIN,Fatal,1
+2021,PITKIN,Injury,74
+2021,PITKIN,No injury reported,278
+2021,PROWERS,Fatal,2
+2021,PROWERS,Injury,28
+2021,PROWERS,No injury reported,122
+2021,PUEBLO,Fatal,32
+2021,PUEBLO,Injury,1107
+2021,PUEBLO,No injury reported,2381
+2021,RIO BLANCO,Fatal,1
+2021,RIO BLANCO,Injury,29
+2021,RIO BLANCO,No injury reported,78
+2021,RIO GRANDE,Fatal,2
+2021,RIO GRANDE,Injury,55
+2021,RIO GRANDE,No injury reported,175
+2021,ROUTT,Fatal,3
+2021,ROUTT,Injury,93
+2021,ROUTT,No injury reported,594
+2021,SAGUACHE,Fatal,1
+2021,SAGUACHE,Injury,32
+2021,SAGUACHE,No injury reported,99
+2021,SAN JUAN,Fatal,1
+2021,SAN JUAN,Injury,14
+2021,SAN JUAN,No injury reported,17
+2021,SAN MIGUEL,Fatal,2
+2021,SAN MIGUEL,Injury,28
+2021,SAN MIGUEL,No injury reported,114
+2021,SEDGWICK,Fatal,1
+2021,SEDGWICK,Injury,12
+2021,SEDGWICK,No injury reported,36
+2021,SUMMIT,Fatal,6
+2021,SUMMIT,Injury,203
+2021,SUMMIT,No injury reported,807
+2021,TELLER,Fatal,2
+2021,TELLER,Injury,96
+2021,TELLER,No injury reported,225
+2021,WASHINGTON,Fatal,3
+2021,WASHINGTON,Injury,14
+2021,WASHINGTON,No injury reported,65
+2021,WELD,Fatal,40
+2021,WELD,Injury,1297
+2021,WELD,No injury reported,4043
+2021,YUMA,Fatal,4
+2021,YUMA,Injury,16
+2021,YUMA,No injury reported,68
+2022,ADAMS,Fatal,76
+2022,ADAMS,Injury,2605
+2022,ADAMS,No injury reported,7467
+2022,ALAMOSA,Fatal,2
+2022,ALAMOSA,Injury,66
+2022,ALAMOSA,No injury reported,273
+2022,ARAPAHOE,Fatal,56
+2022,ARAPAHOE,Injury,2552
+2022,ARAPAHOE,No injury reported,6057
+2022,ARCHULETA,Fatal,3
+2022,ARCHULETA,Injury,76
+2022,ARCHULETA,No injury reported,294
+2022,BACA,Fatal,5
+2022,BACA,Injury,24
+2022,BACA,No injury reported,49
+2022,BENT,Fatal,1
+2022,BENT,Injury,9
+2022,BENT,No injury reported,55
+2022,BOULDER,Fatal,31
+2022,BOULDER,Injury,1150
+2022,BOULDER,No injury reported,3173
+2022,BROOMFIELD,Fatal,2
+2022,BROOMFIELD,Injury,160
+2022,BROOMFIELD,No injury reported,965
+2022,CHAFFEE,Fatal,2
+2022,CHAFFEE,Injury,71
+2022,CHAFFEE,No injury reported,271
+2022,CHEYENNE,Fatal,2
+2022,CHEYENNE,Injury,7
+2022,CHEYENNE,No injury reported,13
+2022,CLEAR CREEK,Fatal,5
+2022,CLEAR CREEK,Injury,159
+2022,CLEAR CREEK,No injury reported,382
+2022,CONEJOS,Fatal,4
+2022,CONEJOS,Injury,20
+2022,CONEJOS,No injury reported,55
+2022,COSTILLA,Fatal,2
+2022,COSTILLA,Injury,23
+2022,COSTILLA,No injury reported,95
+2022,CROWLEY,Injury,7
+2022,CROWLEY,No injury reported,26
+2022,CUSTER,Fatal,5
+2022,CUSTER,Injury,19
+2022,CUSTER,No injury reported,58
+2022,DELTA,Fatal,7
+2022,DELTA,Injury,116
+2022,DELTA,No injury reported,284
+2022,DENVER,Fatal,72
+2022,DENVER,Injury,3707
+2022,DENVER,No injury reported,11058
+2022,DOLORES,Fatal,1
+2022,DOLORES,Injury,13
+2022,DOLORES,No injury reported,41
+2022,DOUGLAS,Fatal,24
+2022,DOUGLAS,Injury,1053
+2022,DOUGLAS,No injury reported,3559
+2022,EAGLE,Fatal,5
+2022,EAGLE,Injury,231
+2022,EAGLE,No injury reported,907
+2022,EL PASO,Fatal,79
+2022,EL PASO,Injury,3370
+2022,EL PASO,No injury reported,6773
+2022,ELBERT,Fatal,2
+2022,ELBERT,Injury,61
+2022,ELBERT,No injury reported,194
+2022,FREMONT,Fatal,3
+2022,FREMONT,Injury,142
+2022,FREMONT,No injury reported,521
+2022,GARFIELD,Fatal,13
+2022,GARFIELD,Injury,242
+2022,GARFIELD,No injury reported,1082
+2022,GILPIN,Fatal,1
+2022,GILPIN,Injury,49
+2022,GILPIN,No injury reported,91
+2022,GRAND,Fatal,2
+2022,GRAND,Injury,86
+2022,GRAND,No injury reported,361
+2022,GUNNISON,Fatal,3
+2022,GUNNISON,Injury,50
+2022,GUNNISON,No injury reported,173
+2022,HINSDALE,Fatal,1
+2022,HINSDALE,Injury,4
+2022,HINSDALE,No injury reported,6
+2022,HUERFANO,Fatal,4
+2022,HUERFANO,Injury,53
+2022,HUERFANO,No injury reported,175
+2022,JACKSON,Fatal,1
+2022,JACKSON,Injury,26
+2022,JACKSON,No injury reported,56
+2022,JEFFERSON,Fatal,47
+2022,JEFFERSON,Injury,2181
+2022,JEFFERSON,No injury reported,6096
+2022,KIOWA,Fatal,1
+2022,KIOWA,Injury,10
+2022,KIOWA,No injury reported,21
+2022,KIT CARSON,Fatal,5
+2022,KIT CARSON,Injury,44
+2022,KIT CARSON,No injury reported,151
+2022,LA PLATA,Fatal,12
+2022,LA PLATA,Injury,194
+2022,LA PLATA,No injury reported,757
+2022,LAKE,Fatal,4
+2022,LAKE,Injury,16
+2022,LAKE,No injury reported,54
+2022,LARIMER,Fatal,30
+2022,LARIMER,Injury,1644
+2022,LARIMER,No injury reported,4560
+2022,LAS ANIMAS,Fatal,3
+2022,LAS ANIMAS,Injury,50
+2022,LAS ANIMAS,No injury reported,199
+2022,LINCOLN,Fatal,5
+2022,LINCOLN,Injury,23
+2022,LINCOLN,No injury reported,88
+2022,LOGAN,Fatal,6
+2022,LOGAN,Injury,63
+2022,LOGAN,No injury reported,248
+2022,MESA,Fatal,28
+2022,MESA,Injury,796
+2022,MESA,No injury reported,1481
+2022,MINERAL,Fatal,4
+2022,MINERAL,Injury,18
+2022,MINERAL,No injury reported,50
+2022,MOFFAT,Fatal,1
+2022,MOFFAT,Injury,47
+2022,MOFFAT,No injury reported,254
+2022,MONTEZUMA,Fatal,6
+2022,MONTEZUMA,Injury,86
+2022,MONTEZUMA,No injury reported,322
+2022,MONTROSE,Fatal,5
+2022,MONTROSE,Injury,130
+2022,MONTROSE,No injury reported,440
+2022,MORGAN,Fatal,9
+2022,MORGAN,Injury,109
+2022,MORGAN,No injury reported,376
+2022,OTERO,Fatal,3
+2022,OTERO,Injury,60
+2022,OTERO,No injury reported,284
+2022,OURAY,Fatal,1
+2022,OURAY,Injury,32
+2022,OURAY,No injury reported,109
+2022,PARK,Fatal,6
+2022,PARK,Injury,114
+2022,PARK,No injury reported,309
+2022,PHILLIPS,Fatal,2
+2022,PHILLIPS,Injury,12
+2022,PHILLIPS,No injury reported,29
+2022,PITKIN,Fatal,2
+2022,PITKIN,Injury,80
+2022,PITKIN,No injury reported,578
+2022,PROWERS,Fatal,2
+2022,PROWERS,Injury,31
+2022,PROWERS,No injury reported,162
+2022,PUEBLO,Fatal,34
+2022,PUEBLO,Injury,891
+2022,PUEBLO,No injury reported,2011
+2022,RIO BLANCO,Fatal,1
+2022,RIO BLANCO,Injury,35
+2022,RIO BLANCO,No injury reported,96
+2022,RIO GRANDE,Fatal,1
+2022,RIO GRANDE,Injury,41
+2022,RIO GRANDE,No injury reported,192
+2022,ROUTT,Fatal,1
+2022,ROUTT,Injury,80
+2022,ROUTT,No injury reported,522
+2022,SAGUACHE,Fatal,3
+2022,SAGUACHE,Injury,30
+2022,SAGUACHE,No injury reported,82
+2022,SAN JUAN,Fatal,1
+2022,SAN JUAN,Injury,9
+2022,SAN JUAN,No injury reported,15
+2022,SAN MIGUEL,Fatal,3
+2022,SAN MIGUEL,Injury,32
+2022,SAN MIGUEL,No injury reported,113
+2022,SEDGWICK,Fatal,3
+2022,SEDGWICK,Injury,11
+2022,SEDGWICK,No injury reported,32
+2022,SUMMIT,Fatal,3
+2022,SUMMIT,Injury,204
+2022,SUMMIT,No injury reported,961
+2022,TELLER,Fatal,3
+2022,TELLER,Injury,85
+2022,TELLER,No injury reported,277
+2022,WASHINGTON,Fatal,6
+2022,WASHINGTON,Injury,26
+2022,WASHINGTON,No injury reported,71
+2022,WELD,Fatal,44
+2022,WELD,Injury,1430
+2022,WELD,No injury reported,4372
+2022,YUMA,Injury,18
+2022,YUMA,No injury reported,72
+2023,ADAMS,Fatal,58
+2023,ADAMS,Injury,2970
+2023,ADAMS,No injury reported,7791
+2023,ALAMOSA,Fatal,1
+2023,ALAMOSA,Injury,67
+2023,ALAMOSA,No injury reported,273
+2023,ARAPAHOE,Fatal,61
+2023,ARAPAHOE,Injury,3019
+2023,ARAPAHOE,No injury reported,7029
+2023,ARCHULETA,Fatal,4
+2023,ARCHULETA,Injury,74
+2023,ARCHULETA,No injury reported,341
+2023,BACA,Fatal,1
+2023,BACA,Injury,20
+2023,BACA,No injury reported,44
+2023,BENT,Fatal,1
+2023,BENT,Injury,10
+2023,BENT,No injury reported,63
+2023,BOULDER,Fatal,25
+2023,BOULDER,Injury,1462
+2023,BOULDER,No injury reported,3896
+2023,BROOMFIELD,Fatal,5
+2023,BROOMFIELD,Injury,207
+2023,BROOMFIELD,No injury reported,1025
+2023,CHAFFEE,Fatal,1
+2023,CHAFFEE,Injury,78
+2023,CHAFFEE,No injury reported,312
+2023,CHEYENNE,Fatal,1
+2023,CHEYENNE,Injury,10
+2023,CHEYENNE,No injury reported,19
+2023,CLEAR CREEK,Fatal,5
+2023,CLEAR CREEK,Injury,125
+2023,CLEAR CREEK,No injury reported,402
+2023,CONEJOS,Fatal,2
+2023,CONEJOS,Injury,21
+2023,CONEJOS,No injury reported,66
+2023,COSTILLA,Fatal,2
+2023,COSTILLA,Injury,20
+2023,COSTILLA,No injury reported,102
+2023,CROWLEY,Fatal,3
+2023,CROWLEY,Injury,10
+2023,CROWLEY,No injury reported,30
+2023,CUSTER,Injury,34
+2023,CUSTER,No injury reported,65
+2023,DELTA,Fatal,6
+2023,DELTA,Injury,112
+2023,DELTA,No injury reported,313
+2023,DENVER,Fatal,73
+2023,DENVER,Injury,4022
+2023,DENVER,No injury reported,11347
+2023,DOLORES,Fatal,2
+2023,DOLORES,Injury,16
+2023,DOLORES,No injury reported,42
+2023,DOUGLAS,Fatal,22
+2023,DOUGLAS,Injury,1150
+2023,DOUGLAS,No injury reported,4210
+2023,EAGLE,Fatal,4
+2023,EAGLE,Injury,213
+2023,EAGLE,No injury reported,982
+2023,EL PASO,Fatal,76
+2023,EL PASO,Injury,3448
+2023,EL PASO,No injury reported,6815
+2023,ELBERT,Fatal,3
+2023,ELBERT,Injury,71
+2023,ELBERT,No injury reported,252
+2023,FREMONT,Fatal,7
+2023,FREMONT,Injury,195
+2023,FREMONT,No injury reported,595
+2023,GARFIELD,Fatal,5
+2023,GARFIELD,Injury,277
+2023,GARFIELD,No injury reported,1314
+2023,GILPIN,Injury,44
+2023,GILPIN,No injury reported,84
+2023,GRAND,Injury,90
+2023,GRAND,No injury reported,371
+2023,GUNNISON,Fatal,3
+2023,GUNNISON,Injury,74
+2023,GUNNISON,No injury reported,229
+2023,HINSDALE,Fatal,1
+2023,HINSDALE,Injury,2
+2023,HINSDALE,No injury reported,9
+2023,HUERFANO,Fatal,4
+2023,HUERFANO,Injury,42
+2023,HUERFANO,No injury reported,138
+2023,JACKSON,Fatal,3
+2023,JACKSON,Injury,19
+2023,JACKSON,No injury reported,71
+2023,JEFFERSON,Fatal,49
+2023,JEFFERSON,Injury,2109
+2023,JEFFERSON,No injury reported,6056
+2023,KIOWA,Injury,6
+2023,KIOWA,No injury reported,29
+2023,KIT CARSON,Fatal,5
+2023,KIT CARSON,Injury,45
+2023,KIT CARSON,No injury reported,181
+2023,LA PLATA,Fatal,10
+2023,LA PLATA,Injury,231
+2023,LA PLATA,No injury reported,931
+2023,LAKE,Fatal,2
+2023,LAKE,Injury,14
+2023,LAKE,No injury reported,63
+2023,LARIMER,Fatal,35
+2023,LARIMER,Injury,1786
+2023,LARIMER,No injury reported,4819
+2023,LAS ANIMAS,Fatal,2
+2023,LAS ANIMAS,Injury,54
+2023,LAS ANIMAS,No injury reported,153
+2023,LINCOLN,Fatal,3
+2023,LINCOLN,Injury,39
+2023,LINCOLN,No injury reported,136
+2023,LOGAN,Fatal,5
+2023,LOGAN,Injury,61
+2023,LOGAN,No injury reported,252
+2023,MESA,Fatal,21
+2023,MESA,Injury,744
+2023,MESA,No injury reported,1595
+2023,MINERAL,Fatal,3
+2023,MINERAL,Injury,18
+2023,MINERAL,No injury reported,53
+2023,MOFFAT,Injury,57
+2023,MOFFAT,No injury reported,233
+2023,MONTEZUMA,Fatal,7
+2023,MONTEZUMA,Injury,105
+2023,MONTEZUMA,No injury reported,382
+2023,MONTROSE,Fatal,4
+2023,MONTROSE,Injury,162
+2023,MONTROSE,No injury reported,499
+2023,MORGAN,Fatal,6
+2023,MORGAN,Injury,133
+2023,MORGAN,No injury reported,410
+2023,OTERO,Injury,69
+2023,OTERO,No injury reported,277
+2023,OURAY,Fatal,3
+2023,OURAY,Injury,32
+2023,OURAY,No injury reported,99
+2023,PARK,Fatal,6
+2023,PARK,Injury,114
+2023,PARK,No injury reported,423
+2023,PHILLIPS,Fatal,2
+2023,PHILLIPS,Injury,15
+2023,PHILLIPS,No injury reported,39
+2023,PITKIN,Fatal,1
+2023,PITKIN,Injury,87
+2023,PITKIN,No injury reported,607
+2023,PROWERS,Fatal,1
+2023,PROWERS,Injury,45
+2023,PROWERS,No injury reported,153
+2023,PUEBLO,Fatal,35
+2023,PUEBLO,Injury,1032
+2023,PUEBLO,No injury reported,2437
+2023,RIO BLANCO,Fatal,4
+2023,RIO BLANCO,Injury,38
+2023,RIO BLANCO,No injury reported,99
+2023,RIO GRANDE,Fatal,3
+2023,RIO GRANDE,Injury,41
+2023,RIO GRANDE,No injury reported,168
+2023,ROUTT,Fatal,8
+2023,ROUTT,Injury,84
+2023,ROUTT,No injury reported,509
+2023,SAGUACHE,Fatal,4
+2023,SAGUACHE,Injury,40
+2023,SAGUACHE,No injury reported,89
+2023,SAN JUAN,Injury,12
+2023,SAN JUAN,No injury reported,16
+2023,SAN MIGUEL,Fatal,3
+2023,SAN MIGUEL,Injury,28
+2023,SAN MIGUEL,No injury reported,164
+2023,SEDGWICK,Fatal,2
+2023,SEDGWICK,Injury,15
+2023,SEDGWICK,No injury reported,56
+2023,SUMMIT,Fatal,5
+2023,SUMMIT,Injury,203
+2023,SUMMIT,No injury reported,1027
+2023,TELLER,Injury,104
+2023,TELLER,No injury reported,306
+2023,WASHINGTON,Fatal,3
+2023,WASHINGTON,Injury,28
+2023,WASHINGTON,No injury reported,85
+2023,WELD,Fatal,55
+2023,WELD,Injury,1358
+2023,WELD,No injury reported,4614
+2023,YUMA,Injury,18
+2023,YUMA,No injury reported,83
+2024,ADAMS,Fatal,79
+2024,ADAMS,Injury,2883
+2024,ADAMS,No injury reported,8026
+2024,ALAMOSA,Fatal,2
+2024,ALAMOSA,Injury,79
+2024,ALAMOSA,No injury reported,261
+2024,ARAPAHOE,Fatal,55
+2024,ARAPAHOE,Injury,2881
+2024,ARAPAHOE,No injury reported,6431
+2024,ARCHULETA,Fatal,3
+2024,ARCHULETA,Injury,80
+2024,ARCHULETA,No injury reported,241
+2024,BACA,Fatal,1
+2024,BACA,Injury,14
+2024,BACA,No injury reported,44
+2024,BENT,Fatal,2
+2024,BENT,Injury,18
+2024,BENT,No injury reported,54
+2024,BOULDER,Fatal,22
+2024,BOULDER,Injury,1372
+2024,BOULDER,No injury reported,3846
+2024,BROOMFIELD,Fatal,4
+2024,BROOMFIELD,Injury,190
+2024,BROOMFIELD,No injury reported,970
+2024,CHAFFEE,Fatal,3
+2024,CHAFFEE,Injury,70
+2024,CHAFFEE,No injury reported,315
+2024,CHEYENNE,Fatal,2
+2024,CHEYENNE,Injury,9
+2024,CHEYENNE,No injury reported,20
+2024,CLEAR CREEK,Fatal,4
+2024,CLEAR CREEK,Injury,172
+2024,CLEAR CREEK,No injury reported,329
+2024,CONEJOS,Fatal,1
+2024,CONEJOS,Injury,33
+2024,CONEJOS,No injury reported,83
+2024,COSTILLA,Fatal,1
+2024,COSTILLA,Injury,32
+2024,COSTILLA,No injury reported,112
+2024,CROWLEY,Injury,18
+2024,CROWLEY,No injury reported,28
+2024,CUSTER,Fatal,1
+2024,CUSTER,Injury,14
+2024,CUSTER,No injury reported,71
+2024,DELTA,Fatal,5
+2024,DELTA,Injury,91
+2024,DELTA,No injury reported,354
+2024,DENVER,Fatal,62
+2024,DENVER,Injury,4098
+2024,DENVER,No injury reported,11341
+2024,DOLORES,Fatal,1
+2024,DOLORES,Injury,8
+2024,DOLORES,No injury reported,45
+2024,DOUGLAS,Fatal,19
+2024,DOUGLAS,Injury,1203
+2024,DOUGLAS,No injury reported,4248
+2024,EAGLE,Fatal,7
+2024,EAGLE,Injury,207
+2024,EAGLE,No injury reported,854
+2024,EL PASO,Fatal,73
+2024,EL PASO,Injury,3224
+2024,EL PASO,No injury reported,6407
+2024,ELBERT,Fatal,4
+2024,ELBERT,Injury,64
+2024,ELBERT,No injury reported,238
+2024,FREMONT,Fatal,11
+2024,FREMONT,Injury,188
+2024,FREMONT,No injury reported,572
+2024,GARFIELD,Fatal,6
+2024,GARFIELD,Injury,285
+2024,GARFIELD,No injury reported,1083
+2024,GILPIN,Injury,55
+2024,GILPIN,No injury reported,80
+2024,GRAND,Fatal,1
+2024,GRAND,Injury,80
+2024,GRAND,No injury reported,357
+2024,GUNNISON,Fatal,1
+2024,GUNNISON,Injury,62
+2024,GUNNISON,No injury reported,238
+2024,HINSDALE,Injury,1
+2024,HINSDALE,No injury reported,3
+2024,HUERFANO,Fatal,1
+2024,HUERFANO,Injury,60
+2024,HUERFANO,No injury reported,121
+2024,JACKSON,Fatal,4
+2024,JACKSON,Injury,18
+2024,JACKSON,No injury reported,54
+2024,JEFFERSON,Fatal,52
+2024,JEFFERSON,Injury,2073
+2024,JEFFERSON,No injury reported,6399
+2024,KIOWA,Fatal,1
+2024,KIOWA,Injury,13
+2024,KIOWA,No injury reported,28
+2024,KIT CARSON,Fatal,4
+2024,KIT CARSON,Injury,36
+2024,KIT CARSON,No injury reported,137
+2024,LA PLATA,Fatal,11
+2024,LA PLATA,Injury,235
+2024,LA PLATA,No injury reported,947
+2024,LAKE,Injury,23
+2024,LAKE,No injury reported,78
+2024,LARIMER,Fatal,29
+2024,LARIMER,Injury,1551
+2024,LARIMER,No injury reported,4480
+2024,LAS ANIMAS,Fatal,2
+2024,LAS ANIMAS,Injury,48
+2024,LAS ANIMAS,No injury reported,136
+2024,LINCOLN,Fatal,6
+2024,LINCOLN,Injury,33
+2024,LINCOLN,No injury reported,119
+2024,LOGAN,Fatal,3
+2024,LOGAN,Injury,70
+2024,LOGAN,No injury reported,261
+2024,MESA,Fatal,15
+2024,MESA,Injury,796
+2024,MESA,No injury reported,1654
+2024,MINERAL,Fatal,1
+2024,MINERAL,Injury,10
+2024,MINERAL,No injury reported,47
+2024,MOFFAT,Fatal,3
+2024,MOFFAT,Injury,47
+2024,MOFFAT,No injury reported,219
+2024,MONTEZUMA,Fatal,4
+2024,MONTEZUMA,Injury,103
+2024,MONTEZUMA,No injury reported,389
+2024,MONTROSE,Fatal,8
+2024,MONTROSE,Injury,162
+2024,MONTROSE,No injury reported,548
+2024,MORGAN,Fatal,6
+2024,MORGAN,Injury,104
+2024,MORGAN,No injury reported,431
+2024,OTERO,Fatal,4
+2024,OTERO,Injury,75
+2024,OTERO,No injury reported,249
+2024,OURAY,Fatal,2
+2024,OURAY,Injury,32
+2024,OURAY,No injury reported,115
+2024,PARK,Fatal,4
+2024,PARK,Injury,121
+2024,PARK,No injury reported,371
+2024,PHILLIPS,Fatal,1
+2024,PHILLIPS,Injury,10
+2024,PHILLIPS,No injury reported,41
+2024,PITKIN,Fatal,1
+2024,PITKIN,Injury,85
+2024,PITKIN,No injury reported,517
+2024,PROWERS,Fatal,2
+2024,PROWERS,Injury,41
+2024,PROWERS,No injury reported,151
+2024,PUEBLO,Fatal,21
+2024,PUEBLO,Injury,903
+2024,PUEBLO,No injury reported,2677
+2024,RIO BLANCO,Fatal,3
+2024,RIO BLANCO,Injury,41
+2024,RIO BLANCO,No injury reported,77
+2024,RIO GRANDE,Fatal,1
+2024,RIO GRANDE,Injury,38
+2024,RIO GRANDE,No injury reported,165
+2024,ROUTT,Fatal,4
+2024,ROUTT,Injury,97
+2024,ROUTT,No injury reported,474
+2024,SAGUACHE,Fatal,4
+2024,SAGUACHE,Injury,33
+2024,SAGUACHE,No injury reported,87
+2024,SAN JUAN,Fatal,2
+2024,SAN JUAN,Injury,13
+2024,SAN JUAN,No injury reported,19
+2024,SAN MIGUEL,Fatal,3
+2024,SAN MIGUEL,Injury,38
+2024,SAN MIGUEL,No injury reported,135
+2024,SEDGWICK,Fatal,1
+2024,SEDGWICK,Injury,11
+2024,SEDGWICK,No injury reported,51
+2024,SUMMIT,Fatal,4
+2024,SUMMIT,Injury,196
+2024,SUMMIT,No injury reported,888
+2024,TELLER,Injury,111
+2024,TELLER,No injury reported,370
+2024,WASHINGTON,Fatal,1
+2024,WASHINGTON,Injury,24
+2024,WASHINGTON,No injury reported,73
+2024,WELD,Fatal,62
+2024,WELD,Injury,1464
+2024,WELD,No injury reported,4623
+2024,YUMA,Fatal,2
+2024,YUMA,Injury,26
+2024,YUMA,No injury reported,84
+2025,ADAMS,Fatal,59
+2025,ADAMS,Injury,2667
+2025,ADAMS,No injury reported,7485
+2025,ALAMOSA,Fatal,5
+2025,ALAMOSA,Injury,74
+2025,ALAMOSA,No injury reported,236
+2025,ARAPAHOE,Fatal,55
+2025,ARAPAHOE,Injury,2738
+2025,ARAPAHOE,No injury reported,6198
+2025,ARCHULETA,Fatal,3
+2025,ARCHULETA,Injury,59
+2025,ARCHULETA,No injury reported,251
+2025,BACA,Fatal,3
+2025,BACA,Injury,14
+2025,BACA,No injury reported,40
+2025,BENT,Fatal,1
+2025,BENT,Injury,13
+2025,BENT,No injury reported,53
+2025,BOULDER,Fatal,17
+2025,BOULDER,Injury,1308
+2025,BOULDER,No injury reported,3569
+2025,BROOMFIELD,Fatal,4
+2025,BROOMFIELD,Injury,182
+2025,BROOMFIELD,No injury reported,979
+2025,CHAFFEE,Fatal,4
+2025,CHAFFEE,Injury,69
+2025,CHAFFEE,No injury reported,314
+2025,CHEYENNE,Fatal,2
+2025,CHEYENNE,Injury,13
+2025,CHEYENNE,No injury reported,32
+2025,CLEAR CREEK,Fatal,6
+2025,CLEAR CREEK,Injury,126
+2025,CLEAR CREEK,No injury reported,323
+2025,CONEJOS,Fatal,2
+2025,CONEJOS,Injury,19
+2025,CONEJOS,No injury reported,64
+2025,COSTILLA,Fatal,2
+2025,COSTILLA,Injury,20
+2025,COSTILLA,No injury reported,89
+2025,CROWLEY,Fatal,1
+2025,CROWLEY,Injury,4
+2025,CROWLEY,No injury reported,36
+2025,CUSTER,Fatal,1
+2025,CUSTER,Injury,27
+2025,CUSTER,No injury reported,41
+2025,DELTA,Fatal,6
+2025,DELTA,Injury,109
+2025,DELTA,No injury reported,363
+2025,DENVER,Fatal,74
+2025,DENVER,Injury,3958
+2025,DENVER,No injury reported,11901
+2025,DOLORES,Fatal,1
+2025,DOLORES,Injury,15
+2025,DOLORES,No injury reported,44
+2025,DOUGLAS,Fatal,23
+2025,DOUGLAS,Injury,1170
+2025,DOUGLAS,No injury reported,3801
+2025,EAGLE,Injury,211
+2025,EAGLE,No injury reported,705
+2025,EL PASO,Fatal,71
+2025,EL PASO,Injury,3239
+2025,EL PASO,No injury reported,6630
+2025,ELBERT,Fatal,7
+2025,ELBERT,Injury,65
+2025,ELBERT,No injury reported,227
+2025,FREMONT,Fatal,8
+2025,FREMONT,Injury,165
+2025,FREMONT,No injury reported,542
+2025,GARFIELD,Fatal,9
+2025,GARFIELD,Injury,240
+2025,GARFIELD,No injury reported,1045
+2025,GILPIN,Injury,48
+2025,GILPIN,No injury reported,82
+2025,GRAND,Fatal,7
+2025,GRAND,Injury,66
+2025,GRAND,No injury reported,237
+2025,GUNNISON,Fatal,3
+2025,GUNNISON,Injury,47
+2025,GUNNISON,No injury reported,229
+2025,HINSDALE,Injury,4
+2025,HINSDALE,No injury reported,2
+2025,HUERFANO,Fatal,2
+2025,HUERFANO,Injury,49
+2025,HUERFANO,No injury reported,138
+2025,JACKSON,Injury,20
+2025,JACKSON,No injury reported,39
+2025,JEFFERSON,Fatal,44
+2025,JEFFERSON,Injury,1855
+2025,JEFFERSON,No injury reported,5722
+2025,KIOWA,Fatal,2
+2025,KIOWA,Injury,31
+2025,KIOWA,No injury reported,22
+2025,KIT CARSON,Fatal,3
+2025,KIT CARSON,Injury,37
+2025,KIT CARSON,No injury reported,145
+2025,LA PLATA,Fatal,2
+2025,LA PLATA,Injury,234
+2025,LA PLATA,No injury reported,862
+2025,LAKE,Injury,31
+2025,LAKE,No injury reported,56
+2025,LARIMER,Fatal,34
+2025,LARIMER,Injury,1575
+2025,LARIMER,No injury reported,4303
+2025,LAS ANIMAS,Fatal,3
+2025,LAS ANIMAS,Injury,36
+2025,LAS ANIMAS,No injury reported,199
+2025,LINCOLN,Fatal,3
+2025,LINCOLN,Injury,23
+2025,LINCOLN,No injury reported,109
+2025,LOGAN,Fatal,2
+2025,LOGAN,Injury,54
+2025,LOGAN,No injury reported,149
+2025,MESA,Fatal,22
+2025,MESA,Injury,727
+2025,MESA,No injury reported,1479
+2025,MINERAL,Fatal,2
+2025,MINERAL,Injury,15
+2025,MINERAL,No injury reported,42
+2025,MOFFAT,Fatal,2
+2025,MOFFAT,Injury,49
+2025,MOFFAT,No injury reported,206
+2025,MONTEZUMA,Fatal,6
+2025,MONTEZUMA,Injury,89
+2025,MONTEZUMA,No injury reported,381
+2025,MONTROSE,Fatal,4
+2025,MONTROSE,Injury,122
+2025,MONTROSE,No injury reported,473
+2025,MORGAN,Fatal,5
+2025,MORGAN,Injury,110
+2025,MORGAN,No injury reported,350
+2025,OTERO,Fatal,5
+2025,OTERO,Injury,62
+2025,OTERO,No injury reported,221
+2025,OURAY,Fatal,4
+2025,OURAY,Injury,25
+2025,OURAY,No injury reported,88
+2025,PARK,Fatal,4
+2025,PARK,Injury,115
+2025,PARK,No injury reported,325
+2025,PHILLIPS,Injury,9
+2025,PHILLIPS,No injury reported,26
+2025,PITKIN,Injury,64
+2025,PITKIN,No injury reported,438
+2025,PROWERS,Fatal,1
+2025,PROWERS,Injury,43
+2025,PROWERS,No injury reported,141
+2025,PUEBLO,Fatal,38
+2025,PUEBLO,Injury,859
+2025,PUEBLO,No injury reported,2090
+2025,RIO BLANCO,Injury,36
+2025,RIO BLANCO,No injury reported,88
+2025,RIO GRANDE,Fatal,6
+2025,RIO GRANDE,Injury,37
+2025,RIO GRANDE,No injury reported,172
+2025,ROUTT,Fatal,1
+2025,ROUTT,Injury,65
+2025,ROUTT,No injury reported,438
+2025,SAGUACHE,Fatal,2
+2025,SAGUACHE,Injury,32
+2025,SAGUACHE,No injury reported,81
+2025,SAN JUAN,Injury,7
+2025,SAN JUAN,No injury reported,17
+2025,SAN MIGUEL,Injury,30
+2025,SAN MIGUEL,No injury reported,87
+2025,SEDGWICK,Fatal,1
+2025,SEDGWICK,Injury,7
+2025,SEDGWICK,No injury reported,49
+2025,SUMMIT,Fatal,4
+2025,SUMMIT,Injury,181
+2025,SUMMIT,No injury reported,689
+2025,TELLER,Fatal,6
+2025,TELLER,Injury,92
+2025,TELLER,No injury reported,301
+2025,WASHINGTON,Fatal,2
+2025,WASHINGTON,Injury,25
+2025,WASHINGTON,No injury reported,89
+2025,WELD,Fatal,69
+2025,WELD,Injury,1356
+2025,WELD,No injury reported,4622
+2025,YUMA,Fatal,5
+2025,YUMA,Injury,25
+2025,YUMA,No injury reported,86
+2026,ADAMS,Fatal,24
+2026,ADAMS,Injury,1981
+2026,ADAMS,No injury reported,4906
+2026,ALAMOSA,Fatal,1
+2026,ALAMOSA,Injury,59
+2026,ALAMOSA,No injury reported,199
+2026,ARAPAHOE,Fatal,36
+2026,ARAPAHOE,Injury,2083
+2026,ARAPAHOE,No injury reported,4939
+2026,ARCHULETA,Injury,50
+2026,ARCHULETA,No injury reported,204
+2026,BACA,Fatal,3
+2026,BACA,Injury,11
+2026,BACA,No injury reported,34
+2026,BENT,Injury,11
+2026,BENT,No injury reported,23
+2026,BOULDER,Fatal,9
+2026,BOULDER,Injury,839
+2026,BOULDER,No injury reported,2231
+2026,BROOMFIELD,Fatal,4
+2026,BROOMFIELD,Injury,132
+2026,BROOMFIELD,No injury reported,651
+2026,CHAFFEE,Fatal,1
+2026,CHAFFEE,Injury,53
+2026,CHAFFEE,No injury reported,229
+2026,CHEYENNE,Injury,7
+2026,CHEYENNE,No injury reported,16
+2026,CLEAR CREEK,Fatal,1
+2026,CLEAR CREEK,Injury,99
+2026,CLEAR CREEK,No injury reported,275
+2026,CONEJOS,Fatal,3
+2026,CONEJOS,Injury,24
+2026,CONEJOS,No injury reported,48
+2026,COSTILLA,Injury,18
+2026,COSTILLA,No injury reported,60
+2026,CROWLEY,Fatal,1
+2026,CROWLEY,Injury,11
+2026,CROWLEY,No injury reported,34
+2026,CUSTER,Injury,8
+2026,CUSTER,No injury reported,9
+2026,DELTA,Fatal,1
+2026,DELTA,Injury,83
+2026,DELTA,No injury reported,240
+2026,DENVER,Fatal,36
+2026,DENVER,Injury,3058
+2026,DENVER,No injury reported,8700
+2026,DOLORES,Fatal,2
+2026,DOLORES,Injury,10
+2026,DOLORES,No injury reported,23
+2026,DOUGLAS,Fatal,10
+2026,DOUGLAS,Injury,827
+2026,DOUGLAS,No injury reported,2950
+2026,EAGLE,Fatal,1
+2026,EAGLE,Injury,140
+2026,EAGLE,No injury reported,533
+2026,EL PASO,Fatal,40
+2026,EL PASO,Injury,2387
+2026,EL PASO,No injury reported,5045
+2026,ELBERT,Fatal,1
+2026,ELBERT,Injury,41
+2026,ELBERT,No injury reported,164
+2026,FREMONT,Fatal,2
+2026,FREMONT,Injury,101
+2026,FREMONT,No injury reported,410
+2026,GARFIELD,Fatal,6
+2026,GARFIELD,Injury,184
+2026,GARFIELD,No injury reported,683
+2026,GILPIN,Injury,29
+2026,GILPIN,No injury reported,57
+2026,GRAND,Fatal,2
+2026,GRAND,Injury,56
+2026,GRAND,No injury reported,235
+2026,GUNNISON,Fatal,1
+2026,GUNNISON,Injury,49
+2026,GUNNISON,No injury reported,221
+2026,HINSDALE,Injury,3
+2026,HINSDALE,No injury reported,4
+2026,HUERFANO,Fatal,2
+2026,HUERFANO,Injury,31
+2026,HUERFANO,No injury reported,111
+2026,JACKSON,Fatal,1
+2026,JACKSON,Injury,12
+2026,JACKSON,No injury reported,38
+2026,JEFFERSON,Fatal,14
+2026,JEFFERSON,Injury,1359
+2026,JEFFERSON,No injury reported,4112
+2026,KIOWA,Fatal,1
+2026,KIOWA,Injury,7
+2026,KIOWA,No injury reported,25
+2026,KIT CARSON,Fatal,2
+2026,KIT CARSON,Injury,23
+2026,KIT CARSON,No injury reported,94
+2026,LA PLATA,Fatal,6
+2026,LA PLATA,Injury,145
+2026,LA PLATA,No injury reported,657
+2026,LAKE,Fatal,1
+2026,LAKE,Injury,26
+2026,LAKE,No injury reported,32
+2026,LARIMER,Fatal,16
+2026,LARIMER,Injury,1167
+2026,LARIMER,No injury reported,3109
+2026,LAS ANIMAS,Injury,31
+2026,LAS ANIMAS,No injury reported,154
+2026,LINCOLN,Fatal,2
+2026,LINCOLN,Injury,33
+2026,LINCOLN,No injury reported,94
+2026,LOGAN,Injury,20
+2026,LOGAN,No injury reported,108
+2026,MESA,Fatal,12
+2026,MESA,Injury,540
+2026,MESA,No injury reported,1203
+2026,MINERAL,Injury,7
+2026,MINERAL,No injury reported,39
+2026,MOFFAT,Fatal,1
+2026,MOFFAT,Injury,35
+2026,MOFFAT,No injury reported,163
+2026,MONTEZUMA,Fatal,7
+2026,MONTEZUMA,Injury,67
+2026,MONTEZUMA,No injury reported,290
+2026,MONTROSE,Fatal,1
+2026,MONTROSE,Injury,75
+2026,MONTROSE,No injury reported,339
+2026,MORGAN,Fatal,5
+2026,MORGAN,Injury,65
+2026,MORGAN,No injury reported,307
+2026,OTERO,Fatal,3
+2026,OTERO,Injury,51
+2026,OTERO,No injury reported,122
+2026,OURAY,Fatal,1
+2026,OURAY,Injury,18
+2026,OURAY,No injury reported,85
+2026,PARK,Fatal,1
+2026,PARK,Injury,80
+2026,PARK,No injury reported,237
+2026,PHILLIPS,Injury,10
+2026,PHILLIPS,No injury reported,19
+2026,PITKIN,Injury,54
+2026,PITKIN,No injury reported,212
+2026,PROWERS,Injury,32
+2026,PROWERS,No injury reported,103
+2026,PUEBLO,Fatal,17
+2026,PUEBLO,Injury,689
+2026,PUEBLO,No injury reported,1457
+2026,RIO BLANCO,Fatal,1
+2026,RIO BLANCO,Injury,21
+2026,RIO BLANCO,No injury reported,111
+2026,RIO GRANDE,Fatal,2
+2026,RIO GRANDE,Injury,30
+2026,RIO GRANDE,No injury reported,92
+2026,ROUTT,Injury,79
+2026,ROUTT,No injury reported,352
+2026,SAGUACHE,Fatal,3
+2026,SAGUACHE,Injury,19
+2026,SAGUACHE,No injury reported,71
+2026,SAN JUAN,Fatal,2
+2026,SAN JUAN,Injury,5
+2026,SAN JUAN,No injury reported,15
+2026,SAN MIGUEL,Fatal,1
+2026,SAN MIGUEL,Injury,21
+2026,SAN MIGUEL,No injury reported,88
+2026,SEDGWICK,Injury,7
+2026,SEDGWICK,No injury reported,27
+2026,SUMMIT,Fatal,4
+2026,SUMMIT,Injury,117
+2026,SUMMIT,No injury reported,475
+2026,TELLER,Injury,74
+2026,TELLER,No injury reported,228
+2026,UNKNOWN,Injury,1
+2026,WASHINGTON,Fatal,1
+2026,WASHINGTON,Injury,13
+2026,WASHINGTON,No injury reported,52
+2026,WELD,Fatal,30
+2026,WELD,Injury,917
+2026,WELD,No injury reported,3168
+2026,YUMA,Injury,18
+2026,YUMA,No injury reported,44

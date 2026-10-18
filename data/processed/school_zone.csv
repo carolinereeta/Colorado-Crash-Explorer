@@ -1,0 +1,93 @@
+year,area,school_zone,severity,crashes
+2021,Colorado,Flagged school zone,Injury,40
+2021,Colorado,Flagged school zone,No injury reported,116
+2021,Colorado,Not flagged school zone,Fatal,550
+2021,Colorado,Not flagged school zone,Injury,25629
+2021,Colorado,Not flagged school zone,No injury reported,71360
+2021,Colorado,Unknown school-zone flag,Fatal,88
+2021,Colorado,Unknown school-zone flag,Injury,2
+2021,Colorado,Unknown school-zone flag,No injury reported,3
+2021,Colorado Springs,Not flagged school zone,Fatal,46
+2021,Colorado Springs,Not flagged school zone,Injury,2725
+2021,Colorado Springs,Not flagged school zone,No injury reported,5516
+2021,Colorado Springs,Unknown school-zone flag,Fatal,3
+2021,El Paso County,Flagged school zone,No injury reported,2
+2021,El Paso County,Not flagged school zone,Fatal,66
+2021,El Paso County,Not flagged school zone,Injury,3662
+2021,El Paso County,Not flagged school zone,No injury reported,7263
+2021,El Paso County,Unknown school-zone flag,Fatal,7
+2022,Colorado,Flagged school zone,Injury,31
+2022,Colorado,Flagged school zone,No injury reported,153
+2022,Colorado,Not flagged school zone,Fatal,663
+2022,Colorado,Not flagged school zone,Injury,24752
+2022,Colorado,Not flagged school zone,No injury reported,69745
+2022,Colorado,Unknown school-zone flag,Fatal,36
+2022,Colorado Springs,Not flagged school zone,Fatal,44
+2022,Colorado Springs,Not flagged school zone,Injury,2534
+2022,Colorado Springs,Not flagged school zone,No injury reported,5042
+2022,Colorado Springs,Unknown school-zone flag,Fatal,8
+2022,El Paso County,Flagged school zone,No injury reported,3
+2022,El Paso County,Not flagged school zone,Fatal,71
+2022,El Paso County,Not flagged school zone,Injury,3370
+2022,El Paso County,Not flagged school zone,No injury reported,6770
+2022,El Paso County,Unknown school-zone flag,Fatal,8
+2023,Colorado,Flagged school zone,Fatal,2
+2023,Colorado,Flagged school zone,Injury,64
+2023,Colorado,Flagged school zone,No injury reported,191
+2023,Colorado,Not flagged school zone,Fatal,663
+2023,Colorado,Not flagged school zone,Injury,26765
+2023,Colorado,Not flagged school zone,No injury reported,75082
+2023,Colorado,Unknown school-zone flag,Fatal,1
+2023,Colorado Springs,Flagged school zone,Injury,1
+2023,Colorado Springs,Not flagged school zone,Fatal,48
+2023,Colorado Springs,Not flagged school zone,Injury,2460
+2023,Colorado Springs,Not flagged school zone,No injury reported,4688
+2023,El Paso County,Flagged school zone,Injury,1
+2023,El Paso County,Flagged school zone,No injury reported,2
+2023,El Paso County,Not flagged school zone,Fatal,76
+2023,El Paso County,Not flagged school zone,Injury,3447
+2023,El Paso County,Not flagged school zone,No injury reported,6813
+2024,Colorado,Flagged school zone,Fatal,1
+2024,Colorado,Flagged school zone,Injury,59
+2024,Colorado,Flagged school zone,No injury reported,186
+2024,Colorado,Not flagged school zone,Fatal,641
+2024,Colorado,Not flagged school zone,Injury,26113
+2024,Colorado,Not flagged school zone,No injury reported,73679
+2024,Colorado,Unknown school-zone flag,No injury reported,1
+2024,Colorado Springs,Not flagged school zone,Fatal,44
+2024,Colorado Springs,Not flagged school zone,Injury,2252
+2024,Colorado Springs,Not flagged school zone,No injury reported,4155
+2024,El Paso County,Flagged school zone,No injury reported,5
+2024,El Paso County,Not flagged school zone,Fatal,73
+2024,El Paso County,Not flagged school zone,Injury,3224
+2024,El Paso County,Not flagged school zone,No injury reported,6402
+2025,Colorado,Flagged school zone,Injury,53
+2025,Colorado,Flagged school zone,No injury reported,167
+2025,Colorado,Not flagged school zone,Fatal,657
+2025,Colorado,Not flagged school zone,Injury,24741
+2025,Colorado,Not flagged school zone,No injury reported,70073
+2025,Colorado,Unknown school-zone flag,Fatal,1
+2025,Colorado,Unknown school-zone flag,Injury,3
+2025,Colorado,Unknown school-zone flag,No injury reported,1
+2025,Colorado Springs,Not flagged school zone,Fatal,48
+2025,Colorado Springs,Not flagged school zone,Injury,2356
+2025,Colorado Springs,Not flagged school zone,No injury reported,4558
+2025,El Paso County,Flagged school zone,Injury,1
+2025,El Paso County,Flagged school zone,No injury reported,4
+2025,El Paso County,Not flagged school zone,Fatal,71
+2025,El Paso County,Not flagged school zone,Injury,3238
+2025,El Paso County,Not flagged school zone,No injury reported,6626
+2026,Colorado,Flagged school zone,Fatal,1
+2026,Colorado,Flagged school zone,Injury,52
+2026,Colorado,Flagged school zone,No injury reported,116
+2026,Colorado,Not flagged school zone,Fatal,321
+2026,Colorado,Not flagged school zone,Injury,18201
+2026,Colorado,Not flagged school zone,No injury reported,50840
+2026,Colorado Springs,Not flagged school zone,Fatal,28
+2026,Colorado Springs,Not flagged school zone,Injury,1754
+2026,Colorado Springs,Not flagged school zone,No injury reported,3410
+2026,El Paso County,Flagged school zone,Injury,2
+2026,El Paso County,Flagged school zone,No injury reported,4
+2026,El Paso County,Not flagged school zone,Fatal,40
+2026,El Paso County,Not flagged school zone,Injury,2385
+2026,El Paso County,Not flagged school zone,No injury reported,5041

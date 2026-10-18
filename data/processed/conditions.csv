@@ -1,0 +1,1280 @@
+year,area,condition_group,value,severity,crashes
+2021,Colorado,Lighting,Dark – Lighted,Fatal,142
+2021,Colorado,Lighting,Dark – Lighted,Injury,4550
+2021,Colorado,Lighting,Dark – Lighted,No injury reported,11966
+2021,Colorado,Lighting,Dark – Unlighted,Fatal,131
+2021,Colorado,Lighting,Dark – Unlighted,Injury,2447
+2021,Colorado,Lighting,Dark – Unlighted,No injury reported,7234
+2021,Colorado,Lighting,Dawn or Dusk,Fatal,36
+2021,Colorado,Lighting,Dawn or Dusk,Injury,1242
+2021,Colorado,Lighting,Dawn or Dusk,No injury reported,3362
+2021,Colorado,Lighting,Daylight,Fatal,302
+2021,Colorado,Lighting,Daylight,Injury,17347
+2021,Colorado,Lighting,Daylight,No injury reported,48520
+2021,Colorado,Lighting,Unknown,Fatal,27
+2021,Colorado,Lighting,Unknown,Injury,85
+2021,Colorado,Lighting,Unknown,No injury reported,397
+2021,Colorado,Road surface,Dry,Fatal,565
+2021,Colorado,Road surface,Dry,Injury,22780
+2021,Colorado,Road surface,Dry,No injury reported,61530
+2021,Colorado,Road surface,Dry W/Visible Icy Road Treatment,Injury,43
+2021,Colorado,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,106
+2021,Colorado,Road surface,Foreign Material,Injury,11
+2021,Colorado,Road surface,Foreign Material,No injury reported,12
+2021,Colorado,Road surface,Icy,Fatal,10
+2021,Colorado,Road surface,Icy,Injury,641
+2021,Colorado,Road surface,Icy,No injury reported,2461
+2021,Colorado,Road surface,Icy W/Visible Icy Road Treatment,Injury,49
+2021,Colorado,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,139
+2021,Colorado,Road surface,Muddy,Fatal,1
+2021,Colorado,Road surface,Muddy,Injury,27
+2021,Colorado,Road surface,Muddy,No injury reported,66
+2021,Colorado,Road surface,Roto-Milled,Injury,6
+2021,Colorado,Road surface,Roto-Milled,No injury reported,9
+2021,Colorado,Road surface,Sand/Gravel,Fatal,1
+2021,Colorado,Road surface,Sand/Gravel,Injury,25
+2021,Colorado,Road surface,Sand/Gravel,No injury reported,57
+2021,Colorado,Road surface,Slushy,Fatal,1
+2021,Colorado,Road surface,Slushy,Injury,140
+2021,Colorado,Road surface,Slushy,No injury reported,465
+2021,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,Injury,22
+2021,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,63
+2021,Colorado,Road surface,Snowy,Fatal,8
+2021,Colorado,Road surface,Snowy,Injury,498
+2021,Colorado,Road surface,Snowy,No injury reported,2256
+2021,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,Injury,64
+2021,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,236
+2021,Colorado,Road surface,Unknown,Fatal,27
+2021,Colorado,Road surface,Unknown,Injury,65
+2021,Colorado,Road surface,Unknown,No injury reported,330
+2021,Colorado,Road surface,Wet,Fatal,25
+2021,Colorado,Road surface,Wet,Injury,1276
+2021,Colorado,Road surface,Wet,No injury reported,3686
+2021,Colorado,Road surface,Wet W/Visible Icy Road Treatment,Injury,24
+2021,Colorado,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,63
+2021,Colorado,Weather,Blowing Snow,Injury,25
+2021,Colorado,Weather,Blowing Snow,No injury reported,127
+2021,Colorado,Weather,Clear,Fatal,539
+2021,Colorado,Weather,Clear,Injury,22141
+2021,Colorado,Weather,Clear,No injury reported,60760
+2021,Colorado,Weather,Cloudy,Fatal,26
+2021,Colorado,Weather,Cloudy,Injury,1208
+2021,Colorado,Weather,Cloudy,No injury reported,2921
+2021,Colorado,Weather,Dust,Fatal,1
+2021,Colorado,Weather,Dust,Injury,15
+2021,Colorado,Weather,Dust,No injury reported,14
+2021,Colorado,Weather,Fog,Fatal,1
+2021,Colorado,Weather,Fog,Injury,48
+2021,Colorado,Weather,Fog,No injury reported,120
+2021,Colorado,Weather,Freezing Rain or Freezing Drizzle,Injury,18
+2021,Colorado,Weather,Freezing Rain or Freezing Drizzle,No injury reported,66
+2021,Colorado,Weather,Rain,Fatal,15
+2021,Colorado,Weather,Rain,Injury,775
+2021,Colorado,Weather,Rain,No injury reported,2410
+2021,Colorado,Weather,Sleet or Hail,Fatal,17
+2021,Colorado,Weather,Sleet or Hail,Injury,762
+2021,Colorado,Weather,Sleet or Hail,No injury reported,2652
+2021,Colorado,Weather,Snow,Fatal,3
+2021,Colorado,Weather,Snow,Injury,306
+2021,Colorado,Weather,Snow,No injury reported,1269
+2021,Colorado,Weather,Unknown,Fatal,28
+2021,Colorado,Weather,Unknown,Injury,150
+2021,Colorado,Weather,Unknown,No injury reported,630
+2021,Colorado,Weather,Wind,Fatal,8
+2021,Colorado,Weather,Wind,Injury,223
+2021,Colorado,Weather,Wind,No injury reported,510
+2021,Colorado Springs,Lighting,Dark – Lighted,Fatal,21
+2021,Colorado Springs,Lighting,Dark – Lighted,Injury,590
+2021,Colorado Springs,Lighting,Dark – Lighted,No injury reported,1256
+2021,Colorado Springs,Lighting,Dark – Unlighted,Fatal,1
+2021,Colorado Springs,Lighting,Dark – Unlighted,Injury,74
+2021,Colorado Springs,Lighting,Dark – Unlighted,No injury reported,239
+2021,Colorado Springs,Lighting,Dawn or Dusk,Fatal,1
+2021,Colorado Springs,Lighting,Dawn or Dusk,Injury,98
+2021,Colorado Springs,Lighting,Dawn or Dusk,No injury reported,219
+2021,Colorado Springs,Lighting,Daylight,Fatal,25
+2021,Colorado Springs,Lighting,Daylight,Injury,1961
+2021,Colorado Springs,Lighting,Daylight,No injury reported,3800
+2021,Colorado Springs,Lighting,Unknown,Fatal,1
+2021,Colorado Springs,Lighting,Unknown,Injury,2
+2021,Colorado Springs,Lighting,Unknown,No injury reported,2
+2021,Colorado Springs,Road surface,Dry,Fatal,45
+2021,Colorado Springs,Road surface,Dry,Injury,2477
+2021,Colorado Springs,Road surface,Dry,No injury reported,4867
+2021,Colorado Springs,Road surface,Dry W/Visible Icy Road Treatment,Injury,2
+2021,Colorado Springs,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,8
+2021,Colorado Springs,Road surface,Foreign Material,Injury,1
+2021,Colorado Springs,Road surface,Foreign Material,No injury reported,1
+2021,Colorado Springs,Road surface,Icy,Injury,22
+2021,Colorado Springs,Road surface,Icy,No injury reported,159
+2021,Colorado Springs,Road surface,Icy W/Visible Icy Road Treatment,Injury,3
+2021,Colorado Springs,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,2
+2021,Colorado Springs,Road surface,Muddy,No injury reported,2
+2021,Colorado Springs,Road surface,Sand/Gravel,Injury,2
+2021,Colorado Springs,Road surface,Sand/Gravel,No injury reported,5
+2021,Colorado Springs,Road surface,Slushy,Injury,17
+2021,Colorado Springs,Road surface,Slushy,No injury reported,23
+2021,Colorado Springs,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,1
+2021,Colorado Springs,Road surface,Snowy,Injury,39
+2021,Colorado Springs,Road surface,Snowy,No injury reported,126
+2021,Colorado Springs,Road surface,Snowy W/Visible Icy Road Treatment,Injury,9
+2021,Colorado Springs,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,12
+2021,Colorado Springs,Road surface,Unknown,Fatal,2
+2021,Colorado Springs,Road surface,Unknown,Injury,2
+2021,Colorado Springs,Road surface,Unknown,No injury reported,2
+2021,Colorado Springs,Road surface,Wet,Fatal,2
+2021,Colorado Springs,Road surface,Wet,Injury,150
+2021,Colorado Springs,Road surface,Wet,No injury reported,306
+2021,Colorado Springs,Road surface,Wet W/Visible Icy Road Treatment,Injury,1
+2021,Colorado Springs,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,2
+2021,Colorado Springs,Weather,Blowing Snow,Injury,1
+2021,Colorado Springs,Weather,Blowing Snow,No injury reported,1
+2021,Colorado Springs,Weather,Clear,Fatal,45
+2021,Colorado Springs,Weather,Clear,Injury,2360
+2021,Colorado Springs,Weather,Clear,No injury reported,4755
+2021,Colorado Springs,Weather,Cloudy,Fatal,1
+2021,Colorado Springs,Weather,Cloudy,Injury,174
+2021,Colorado Springs,Weather,Cloudy,No injury reported,291
+2021,Colorado Springs,Weather,Fog,Injury,4
+2021,Colorado Springs,Weather,Fog,No injury reported,18
+2021,Colorado Springs,Weather,Freezing Rain or Freezing Drizzle,No injury reported,2
+2021,Colorado Springs,Weather,Rain,Fatal,2
+2021,Colorado Springs,Weather,Rain,Injury,97
+2021,Colorado Springs,Weather,Rain,No injury reported,180
+2021,Colorado Springs,Weather,Sleet or Hail,Injury,79
+2021,Colorado Springs,Weather,Sleet or Hail,No injury reported,238
+2021,Colorado Springs,Weather,Snow,Injury,3
+2021,Colorado Springs,Weather,Snow,No injury reported,13
+2021,Colorado Springs,Weather,Unknown,Fatal,1
+2021,Colorado Springs,Weather,Unknown,Injury,2
+2021,Colorado Springs,Weather,Unknown,No injury reported,2
+2021,Colorado Springs,Weather,Wind,Injury,5
+2021,Colorado Springs,Weather,Wind,No injury reported,16
+2021,El Paso County,Lighting,Dark – Lighted,Fatal,24
+2021,El Paso County,Lighting,Dark – Lighted,Injury,693
+2021,El Paso County,Lighting,Dark – Lighted,No injury reported,1460
+2021,El Paso County,Lighting,Dark – Unlighted,Fatal,7
+2021,El Paso County,Lighting,Dark – Unlighted,Injury,219
+2021,El Paso County,Lighting,Dark – Unlighted,No injury reported,562
+2021,El Paso County,Lighting,Dawn or Dusk,Fatal,4
+2021,El Paso County,Lighting,Dawn or Dusk,Injury,138
+2021,El Paso County,Lighting,Dawn or Dusk,No injury reported,302
+2021,El Paso County,Lighting,Daylight,Fatal,36
+2021,El Paso County,Lighting,Daylight,Injury,2610
+2021,El Paso County,Lighting,Daylight,No injury reported,4937
+2021,El Paso County,Lighting,Unknown,Fatal,2
+2021,El Paso County,Lighting,Unknown,Injury,2
+2021,El Paso County,Lighting,Unknown,No injury reported,4
+2021,El Paso County,Road surface,Dry,Fatal,67
+2021,El Paso County,Road surface,Dry,Injury,3307
+2021,El Paso County,Road surface,Dry,No injury reported,6438
+2021,El Paso County,Road surface,Dry W/Visible Icy Road Treatment,Injury,5
+2021,El Paso County,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,9
+2021,El Paso County,Road surface,Foreign Material,Injury,3
+2021,El Paso County,Road surface,Foreign Material,No injury reported,2
+2021,El Paso County,Road surface,Icy,Fatal,1
+2021,El Paso County,Road surface,Icy,Injury,50
+2021,El Paso County,Road surface,Icy,No injury reported,218
+2021,El Paso County,Road surface,Icy W/Visible Icy Road Treatment,Injury,4
+2021,El Paso County,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,6
+2021,El Paso County,Road surface,Muddy,Injury,2
+2021,El Paso County,Road surface,Muddy,No injury reported,4
+2021,El Paso County,Road surface,Sand/Gravel,Injury,4
+2021,El Paso County,Road surface,Sand/Gravel,No injury reported,7
+2021,El Paso County,Road surface,Slushy,Injury,20
+2021,El Paso County,Road surface,Slushy,No injury reported,27
+2021,El Paso County,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,2
+2021,El Paso County,Road surface,Snowy,Injury,57
+2021,El Paso County,Road surface,Snowy,No injury reported,154
+2021,El Paso County,Road surface,Snowy W/Visible Icy Road Treatment,Injury,9
+2021,El Paso County,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,12
+2021,El Paso County,Road surface,Unknown,Fatal,3
+2021,El Paso County,Road surface,Unknown,Injury,2
+2021,El Paso County,Road surface,Unknown,No injury reported,2
+2021,El Paso County,Road surface,Wet,Fatal,2
+2021,El Paso County,Road surface,Wet,Injury,198
+2021,El Paso County,Road surface,Wet,No injury reported,381
+2021,El Paso County,Road surface,Wet W/Visible Icy Road Treatment,Injury,1
+2021,El Paso County,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,3
+2021,El Paso County,Weather,Blowing Snow,Injury,1
+2021,El Paso County,Weather,Blowing Snow,No injury reported,2
+2021,El Paso County,Weather,Clear,Fatal,66
+2021,El Paso County,Weather,Clear,Injury,3154
+2021,El Paso County,Weather,Clear,No injury reported,6300
+2021,El Paso County,Weather,Cloudy,Fatal,2
+2021,El Paso County,Weather,Cloudy,Injury,235
+2021,El Paso County,Weather,Cloudy,No injury reported,341
+2021,El Paso County,Weather,Dust,No injury reported,1
+2021,El Paso County,Weather,Fog,Injury,7
+2021,El Paso County,Weather,Fog,No injury reported,24
+2021,El Paso County,Weather,Freezing Rain or Freezing Drizzle,No injury reported,2
+2021,El Paso County,Weather,Rain,Fatal,2
+2021,El Paso County,Weather,Rain,Injury,122
+2021,El Paso County,Weather,Rain,No injury reported,236
+2021,El Paso County,Weather,Sleet or Hail,Fatal,1
+2021,El Paso County,Weather,Sleet or Hail,Injury,117
+2021,El Paso County,Weather,Sleet or Hail,No injury reported,302
+2021,El Paso County,Weather,Snow,Injury,4
+2021,El Paso County,Weather,Snow,No injury reported,18
+2021,El Paso County,Weather,Unknown,Fatal,2
+2021,El Paso County,Weather,Unknown,Injury,3
+2021,El Paso County,Weather,Unknown,No injury reported,7
+2021,El Paso County,Weather,Wind,Injury,19
+2021,El Paso County,Weather,Wind,No injury reported,32
+2022,Colorado,Lighting,Dark – Lighted,Fatal,182
+2022,Colorado,Lighting,Dark – Lighted,Injury,4634
+2022,Colorado,Lighting,Dark – Lighted,No injury reported,11883
+2022,Colorado,Lighting,Dark – Unlighted,Fatal,151
+2022,Colorado,Lighting,Dark – Unlighted,Injury,2402
+2022,Colorado,Lighting,Dark – Unlighted,No injury reported,7038
+2022,Colorado,Lighting,Dawn or Dusk,Fatal,27
+2022,Colorado,Lighting,Dawn or Dusk,Injury,1133
+2022,Colorado,Lighting,Dawn or Dusk,No injury reported,3397
+2022,Colorado,Lighting,Daylight,Fatal,330
+2022,Colorado,Lighting,Daylight,Injury,16538
+2022,Colorado,Lighting,Daylight,No injury reported,47108
+2022,Colorado,Lighting,Unknown,Fatal,9
+2022,Colorado,Lighting,Unknown,Injury,76
+2022,Colorado,Lighting,Unknown,No injury reported,472
+2022,Colorado,Road surface,Dry,Fatal,616
+2022,Colorado,Road surface,Dry,Injury,21080
+2022,Colorado,Road surface,Dry,No injury reported,56168
+2022,Colorado,Road surface,Dry W/Visible Icy Road Treatment,Fatal,4
+2022,Colorado,Road surface,Dry W/Visible Icy Road Treatment,Injury,76
+2022,Colorado,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,231
+2022,Colorado,Road surface,Foreign Material,Injury,7
+2022,Colorado,Road surface,Foreign Material,No injury reported,10
+2022,Colorado,Road surface,Icy,Fatal,11
+2022,Colorado,Road surface,Icy,Injury,959
+2022,Colorado,Road surface,Icy,No injury reported,4138
+2022,Colorado,Road surface,Icy W/Visible Icy Road Treatment,Fatal,1
+2022,Colorado,Road surface,Icy W/Visible Icy Road Treatment,Injury,83
+2022,Colorado,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,342
+2022,Colorado,Road surface,Muddy,Fatal,1
+2022,Colorado,Road surface,Muddy,Injury,12
+2022,Colorado,Road surface,Muddy,No injury reported,47
+2022,Colorado,Road surface,Roto-Milled,Injury,4
+2022,Colorado,Road surface,Roto-Milled,No injury reported,8
+2022,Colorado,Road surface,Sand/Gravel,Fatal,2
+2022,Colorado,Road surface,Sand/Gravel,Injury,47
+2022,Colorado,Road surface,Sand/Gravel,No injury reported,70
+2022,Colorado,Road surface,Slushy,Fatal,4
+2022,Colorado,Road surface,Slushy,Injury,155
+2022,Colorado,Road surface,Slushy,No injury reported,577
+2022,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,Injury,32
+2022,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,127
+2022,Colorado,Road surface,Snowy,Fatal,13
+2022,Colorado,Road surface,Snowy,Injury,728
+2022,Colorado,Road surface,Snowy,No injury reported,3507
+2022,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,Injury,96
+2022,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,392
+2022,Colorado,Road surface,Unknown,Fatal,8
+2022,Colorado,Road surface,Unknown,Injury,64
+2022,Colorado,Road surface,Unknown,No injury reported,372
+2022,Colorado,Road surface,Wet,Fatal,38
+2022,Colorado,Road surface,Wet,Injury,1384
+2022,Colorado,Road surface,Wet,No injury reported,3780
+2022,Colorado,Road surface,Wet W/Visible Icy Road Treatment,Fatal,1
+2022,Colorado,Road surface,Wet W/Visible Icy Road Treatment,Injury,56
+2022,Colorado,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,129
+2022,Colorado,Weather,Blowing Snow,Injury,131
+2022,Colorado,Weather,Blowing Snow,No injury reported,434
+2022,Colorado,Weather,Clear,Fatal,603
+2022,Colorado,Weather,Clear,Injury,20348
+2022,Colorado,Weather,Clear,No injury reported,55790
+2022,Colorado,Weather,Cloudy,Fatal,35
+2022,Colorado,Weather,Cloudy,Injury,1809
+2022,Colorado,Weather,Cloudy,No injury reported,4989
+2022,Colorado,Weather,Dust,Injury,9
+2022,Colorado,Weather,Dust,No injury reported,22
+2022,Colorado,Weather,Fog,Fatal,2
+2022,Colorado,Weather,Fog,Injury,46
+2022,Colorado,Weather,Fog,No injury reported,113
+2022,Colorado,Weather,Freezing Rain or Freezing Drizzle,Fatal,1
+2022,Colorado,Weather,Freezing Rain or Freezing Drizzle,Injury,71
+2022,Colorado,Weather,Freezing Rain or Freezing Drizzle,No injury reported,263
+2022,Colorado,Weather,Rain,Fatal,24
+2022,Colorado,Weather,Rain,Injury,812
+2022,Colorado,Weather,Rain,No injury reported,2305
+2022,Colorado,Weather,Sleet or Hail,Fatal,1
+2022,Colorado,Weather,Sleet or Hail,Injury,42
+2022,Colorado,Weather,Sleet or Hail,No injury reported,196
+2022,Colorado,Weather,Snow,Fatal,18
+2022,Colorado,Weather,Snow,Injury,1095
+2022,Colorado,Weather,Snow,No injury reported,4443
+2022,Colorado,Weather,Unknown,Fatal,9
+2022,Colorado,Weather,Unknown,Injury,151
+2022,Colorado,Weather,Unknown,No injury reported,728
+2022,Colorado,Weather,Wind,Fatal,6
+2022,Colorado,Weather,Wind,Injury,269
+2022,Colorado,Weather,Wind,No injury reported,615
+2022,Colorado Springs,Lighting,Dark – Lighted,Fatal,21
+2022,Colorado Springs,Lighting,Dark – Lighted,Injury,608
+2022,Colorado Springs,Lighting,Dark – Lighted,No injury reported,1148
+2022,Colorado Springs,Lighting,Dark – Unlighted,Fatal,3
+2022,Colorado Springs,Lighting,Dark – Unlighted,Injury,84
+2022,Colorado Springs,Lighting,Dark – Unlighted,No injury reported,201
+2022,Colorado Springs,Lighting,Dawn or Dusk,Fatal,2
+2022,Colorado Springs,Lighting,Dawn or Dusk,Injury,91
+2022,Colorado Springs,Lighting,Dawn or Dusk,No injury reported,203
+2022,Colorado Springs,Lighting,Daylight,Fatal,24
+2022,Colorado Springs,Lighting,Daylight,Injury,1751
+2022,Colorado Springs,Lighting,Daylight,No injury reported,3490
+2022,Colorado Springs,Lighting,Unknown,Fatal,2
+2022,Colorado Springs,Road surface,Dry,Fatal,46
+2022,Colorado Springs,Road surface,Dry,Injury,2253
+2022,Colorado Springs,Road surface,Dry,No injury reported,4372
+2022,Colorado Springs,Road surface,Dry W/Visible Icy Road Treatment,Injury,2
+2022,Colorado Springs,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,2
+2022,Colorado Springs,Road surface,Icy,Fatal,1
+2022,Colorado Springs,Road surface,Icy,Injury,51
+2022,Colorado Springs,Road surface,Icy,No injury reported,171
+2022,Colorado Springs,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,3
+2022,Colorado Springs,Road surface,Sand/Gravel,Injury,6
+2022,Colorado Springs,Road surface,Sand/Gravel,No injury reported,6
+2022,Colorado Springs,Road surface,Slushy,Injury,10
+2022,Colorado Springs,Road surface,Slushy,No injury reported,23
+2022,Colorado Springs,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,3
+2022,Colorado Springs,Road surface,Snowy,Fatal,1
+2022,Colorado Springs,Road surface,Snowy,Injury,45
+2022,Colorado Springs,Road surface,Snowy,No injury reported,161
+2022,Colorado Springs,Road surface,Snowy W/Visible Icy Road Treatment,Injury,3
+2022,Colorado Springs,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,9
+2022,Colorado Springs,Road surface,Unknown,Fatal,2
+2022,Colorado Springs,Road surface,Wet,Fatal,2
+2022,Colorado Springs,Road surface,Wet,Injury,160
+2022,Colorado Springs,Road surface,Wet,No injury reported,292
+2022,Colorado Springs,Road surface,Wet W/Visible Icy Road Treatment,Injury,4
+2022,Colorado Springs,Weather,Blowing Snow,Injury,5
+2022,Colorado Springs,Weather,Blowing Snow,No injury reported,16
+2022,Colorado Springs,Weather,Clear,Fatal,47
+2022,Colorado Springs,Weather,Clear,Injury,2105
+2022,Colorado Springs,Weather,Clear,No injury reported,4123
+2022,Colorado Springs,Weather,Cloudy,Fatal,2
+2022,Colorado Springs,Weather,Cloudy,Injury,225
+2022,Colorado Springs,Weather,Cloudy,No injury reported,463
+2022,Colorado Springs,Weather,Dust,No injury reported,1
+2022,Colorado Springs,Weather,Fog,Injury,5
+2022,Colorado Springs,Weather,Fog,No injury reported,14
+2022,Colorado Springs,Weather,Freezing Rain or Freezing Drizzle,Injury,4
+2022,Colorado Springs,Weather,Freezing Rain or Freezing Drizzle,No injury reported,11
+2022,Colorado Springs,Weather,Rain,Injury,98
+2022,Colorado Springs,Weather,Rain,No injury reported,178
+2022,Colorado Springs,Weather,Sleet or Hail,Injury,2
+2022,Colorado Springs,Weather,Sleet or Hail,No injury reported,8
+2022,Colorado Springs,Weather,Snow,Fatal,1
+2022,Colorado Springs,Weather,Snow,Injury,74
+2022,Colorado Springs,Weather,Snow,No injury reported,192
+2022,Colorado Springs,Weather,Unknown,Fatal,2
+2022,Colorado Springs,Weather,Wind,Injury,16
+2022,Colorado Springs,Weather,Wind,No injury reported,36
+2022,El Paso County,Lighting,Dark – Lighted,Fatal,27
+2022,El Paso County,Lighting,Dark – Lighted,Injury,710
+2022,El Paso County,Lighting,Dark – Lighted,No injury reported,1381
+2022,El Paso County,Lighting,Dark – Unlighted,Fatal,11
+2022,El Paso County,Lighting,Dark – Unlighted,Injury,211
+2022,El Paso County,Lighting,Dark – Unlighted,No injury reported,491
+2022,El Paso County,Lighting,Dawn or Dusk,Fatal,4
+2022,El Paso County,Lighting,Dawn or Dusk,Injury,118
+2022,El Paso County,Lighting,Dawn or Dusk,No injury reported,281
+2022,El Paso County,Lighting,Daylight,Fatal,35
+2022,El Paso County,Lighting,Daylight,Injury,2329
+2022,El Paso County,Lighting,Daylight,No injury reported,4612
+2022,El Paso County,Lighting,Unknown,Fatal,2
+2022,El Paso County,Lighting,Unknown,Injury,2
+2022,El Paso County,Lighting,Unknown,No injury reported,8
+2022,El Paso County,Road surface,Dry,Fatal,73
+2022,El Paso County,Road surface,Dry,Injury,2967
+2022,El Paso County,Road surface,Dry,No injury reported,5836
+2022,El Paso County,Road surface,Dry W/Visible Icy Road Treatment,Injury,2
+2022,El Paso County,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,12
+2022,El Paso County,Road surface,Icy,Fatal,1
+2022,El Paso County,Road surface,Icy,Injury,87
+2022,El Paso County,Road surface,Icy,No injury reported,241
+2022,El Paso County,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,5
+2022,El Paso County,Road surface,Sand/Gravel,Injury,9
+2022,El Paso County,Road surface,Sand/Gravel,No injury reported,9
+2022,El Paso County,Road surface,Slushy,Injury,12
+2022,El Paso County,Road surface,Slushy,No injury reported,29
+2022,El Paso County,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,4
+2022,El Paso County,Road surface,Snowy,Fatal,1
+2022,El Paso County,Road surface,Snowy,Injury,81
+2022,El Paso County,Road surface,Snowy,No injury reported,222
+2022,El Paso County,Road surface,Snowy W/Visible Icy Road Treatment,Injury,3
+2022,El Paso County,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,14
+2022,El Paso County,Road surface,Unknown,Fatal,2
+2022,El Paso County,Road surface,Unknown,Injury,2
+2022,El Paso County,Road surface,Unknown,No injury reported,2
+2022,El Paso County,Road surface,Wet,Fatal,2
+2022,El Paso County,Road surface,Wet,Injury,203
+2022,El Paso County,Road surface,Wet,No injury reported,395
+2022,El Paso County,Road surface,Wet W/Visible Icy Road Treatment,Injury,4
+2022,El Paso County,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,4
+2022,El Paso County,Weather,Blowing Snow,Injury,8
+2022,El Paso County,Weather,Blowing Snow,No injury reported,23
+2022,El Paso County,Weather,Clear,Fatal,72
+2022,El Paso County,Weather,Clear,Injury,2794
+2022,El Paso County,Weather,Clear,No injury reported,5550
+2022,El Paso County,Weather,Cloudy,Fatal,4
+2022,El Paso County,Weather,Cloudy,Injury,274
+2022,El Paso County,Weather,Cloudy,No injury reported,573
+2022,El Paso County,Weather,Dust,No injury reported,1
+2022,El Paso County,Weather,Fog,Injury,10
+2022,El Paso County,Weather,Fog,No injury reported,24
+2022,El Paso County,Weather,Freezing Rain or Freezing Drizzle,Injury,9
+2022,El Paso County,Weather,Freezing Rain or Freezing Drizzle,No injury reported,13
+2022,El Paso County,Weather,Rain,Injury,120
+2022,El Paso County,Weather,Rain,No injury reported,240
+2022,El Paso County,Weather,Sleet or Hail,Injury,2
+2022,El Paso County,Weather,Sleet or Hail,No injury reported,11
+2022,El Paso County,Weather,Snow,Fatal,1
+2022,El Paso County,Weather,Snow,Injury,121
+2022,El Paso County,Weather,Snow,No injury reported,271
+2022,El Paso County,Weather,Unknown,Fatal,2
+2022,El Paso County,Weather,Unknown,Injury,3
+2022,El Paso County,Weather,Unknown,No injury reported,6
+2022,El Paso County,Weather,Wind,Injury,29
+2022,El Paso County,Weather,Wind,No injury reported,61
+2023,Colorado,Lighting,Dark – Lighted,Fatal,190
+2023,Colorado,Lighting,Dark – Lighted,Injury,4958
+2023,Colorado,Lighting,Dark – Lighted,No injury reported,12567
+2023,Colorado,Lighting,Dark – Unlighted,Fatal,133
+2023,Colorado,Lighting,Dark – Unlighted,Injury,2347
+2023,Colorado,Lighting,Dark – Unlighted,No injury reported,7549
+2023,Colorado,Lighting,Dawn or Dusk,Fatal,40
+2023,Colorado,Lighting,Dawn or Dusk,Injury,1251
+2023,Colorado,Lighting,Dawn or Dusk,No injury reported,3808
+2023,Colorado,Lighting,Daylight,Fatal,301
+2023,Colorado,Lighting,Daylight,Injury,18188
+2023,Colorado,Lighting,Daylight,No injury reported,50780
+2023,Colorado,Lighting,Unknown,Fatal,2
+2023,Colorado,Lighting,Unknown,Injury,85
+2023,Colorado,Lighting,Unknown,No injury reported,569
+2023,Colorado,Road surface,Dry,Fatal,595
+2023,Colorado,Road surface,Dry,Injury,23003
+2023,Colorado,Road surface,Dry,No injury reported,61297
+2023,Colorado,Road surface,Dry W/Visible Icy Road Treatment,Fatal,3
+2023,Colorado,Road surface,Dry W/Visible Icy Road Treatment,Injury,76
+2023,Colorado,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,196
+2023,Colorado,Road surface,Foreign Material,Injury,9
+2023,Colorado,Road surface,Foreign Material,No injury reported,12
+2023,Colorado,Road surface,Icy,Fatal,13
+2023,Colorado,Road surface,Icy,Injury,915
+2023,Colorado,Road surface,Icy,No injury reported,3863
+2023,Colorado,Road surface,Icy W/Visible Icy Road Treatment,Fatal,2
+2023,Colorado,Road surface,Icy W/Visible Icy Road Treatment,Injury,78
+2023,Colorado,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,262
+2023,Colorado,Road surface,Muddy,Fatal,3
+2023,Colorado,Road surface,Muddy,Injury,22
+2023,Colorado,Road surface,Muddy,No injury reported,64
+2023,Colorado,Road surface,Roto-Milled,Fatal,1
+2023,Colorado,Road surface,Roto-Milled,Injury,4
+2023,Colorado,Road surface,Roto-Milled,No injury reported,10
+2023,Colorado,Road surface,Sand/Gravel,Fatal,1
+2023,Colorado,Road surface,Sand/Gravel,Injury,47
+2023,Colorado,Road surface,Sand/Gravel,No injury reported,90
+2023,Colorado,Road surface,Slushy,Fatal,2
+2023,Colorado,Road surface,Slushy,Injury,121
+2023,Colorado,Road surface,Slushy,No injury reported,468
+2023,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,Fatal,1
+2023,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,Injury,36
+2023,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,95
+2023,Colorado,Road surface,Snowy,Fatal,6
+2023,Colorado,Road surface,Snowy,Injury,541
+2023,Colorado,Road surface,Snowy,No injury reported,2937
+2023,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,Injury,61
+2023,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,277
+2023,Colorado,Road surface,Unknown,Fatal,3
+2023,Colorado,Road surface,Unknown,Injury,81
+2023,Colorado,Road surface,Unknown,No injury reported,525
+2023,Colorado,Road surface,Wet,Fatal,36
+2023,Colorado,Road surface,Wet,Injury,1803
+2023,Colorado,Road surface,Wet,No injury reported,5078
+2023,Colorado,Road surface,Wet W/Visible Icy Road Treatment,Injury,32
+2023,Colorado,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,99
+2023,Colorado,Weather,Blowing Snow,Fatal,2
+2023,Colorado,Weather,Blowing Snow,Injury,124
+2023,Colorado,Weather,Blowing Snow,No injury reported,468
+2023,Colorado,Weather,Clear,Fatal,543
+2023,Colorado,Weather,Clear,Injury,21808
+2023,Colorado,Weather,Clear,No injury reported,59335
+2023,Colorado,Weather,Cloudy,Fatal,65
+2023,Colorado,Weather,Cloudy,Injury,2249
+2023,Colorado,Weather,Cloudy,No injury reported,6093
+2023,Colorado,Weather,Dust,Injury,4
+2023,Colorado,Weather,Dust,No injury reported,18
+2023,Colorado,Weather,Fog,Fatal,2
+2023,Colorado,Weather,Fog,Injury,82
+2023,Colorado,Weather,Fog,No injury reported,232
+2023,Colorado,Weather,Freezing Rain or Freezing Drizzle,Fatal,1
+2023,Colorado,Weather,Freezing Rain or Freezing Drizzle,Injury,45
+2023,Colorado,Weather,Freezing Rain or Freezing Drizzle,No injury reported,135
+2023,Colorado,Weather,Rain,Fatal,25
+2023,Colorado,Weather,Rain,Injury,1077
+2023,Colorado,Weather,Rain,No injury reported,2944
+2023,Colorado,Weather,Sleet or Hail,Fatal,2
+2023,Colorado,Weather,Sleet or Hail,Injury,35
+2023,Colorado,Weather,Sleet or Hail,No injury reported,158
+2023,Colorado,Weather,Snow,Fatal,14
+2023,Colorado,Weather,Snow,Injury,1075
+2023,Colorado,Weather,Snow,No injury reported,4636
+2023,Colorado,Weather,Unknown,Fatal,3
+2023,Colorado,Weather,Unknown,Injury,176
+2023,Colorado,Weather,Unknown,No injury reported,865
+2023,Colorado,Weather,Wind,Fatal,9
+2023,Colorado,Weather,Wind,Injury,154
+2023,Colorado,Weather,Wind,No injury reported,389
+2023,Colorado Springs,Lighting,Dark – Lighted,Fatal,20
+2023,Colorado Springs,Lighting,Dark – Lighted,Injury,527
+2023,Colorado Springs,Lighting,Dark – Lighted,No injury reported,1129
+2023,Colorado Springs,Lighting,Dark – Unlighted,Fatal,3
+2023,Colorado Springs,Lighting,Dark – Unlighted,Injury,73
+2023,Colorado Springs,Lighting,Dark – Unlighted,No injury reported,189
+2023,Colorado Springs,Lighting,Dawn or Dusk,Fatal,3
+2023,Colorado Springs,Lighting,Dawn or Dusk,Injury,90
+2023,Colorado Springs,Lighting,Dawn or Dusk,No injury reported,186
+2023,Colorado Springs,Lighting,Daylight,Fatal,22
+2023,Colorado Springs,Lighting,Daylight,Injury,1771
+2023,Colorado Springs,Lighting,Daylight,No injury reported,3184
+2023,Colorado Springs,Road surface,Dry,Fatal,45
+2023,Colorado Springs,Road surface,Dry,Injury,2167
+2023,Colorado Springs,Road surface,Dry,No injury reported,4040
+2023,Colorado Springs,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,4
+2023,Colorado Springs,Road surface,Foreign Material,No injury reported,1
+2023,Colorado Springs,Road surface,Icy,Injury,38
+2023,Colorado Springs,Road surface,Icy,No injury reported,128
+2023,Colorado Springs,Road surface,Icy W/Visible Icy Road Treatment,Injury,1
+2023,Colorado Springs,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,4
+2023,Colorado Springs,Road surface,Muddy,Injury,1
+2023,Colorado Springs,Road surface,Sand/Gravel,Injury,3
+2023,Colorado Springs,Road surface,Sand/Gravel,No injury reported,4
+2023,Colorado Springs,Road surface,Slushy,Injury,9
+2023,Colorado Springs,Road surface,Slushy,No injury reported,20
+2023,Colorado Springs,Road surface,Slushy W/Visible Icy Road Treatment,Injury,4
+2023,Colorado Springs,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,3
+2023,Colorado Springs,Road surface,Snowy,Fatal,1
+2023,Colorado Springs,Road surface,Snowy,Injury,36
+2023,Colorado Springs,Road surface,Snowy,No injury reported,134
+2023,Colorado Springs,Road surface,Snowy W/Visible Icy Road Treatment,Injury,3
+2023,Colorado Springs,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,7
+2023,Colorado Springs,Road surface,Wet,Fatal,2
+2023,Colorado Springs,Road surface,Wet,Injury,198
+2023,Colorado Springs,Road surface,Wet,No injury reported,343
+2023,Colorado Springs,Road surface,Wet W/Visible Icy Road Treatment,Injury,1
+2023,Colorado Springs,Weather,Blowing Snow,Injury,8
+2023,Colorado Springs,Weather,Blowing Snow,No injury reported,26
+2023,Colorado Springs,Weather,Clear,Fatal,41
+2023,Colorado Springs,Weather,Clear,Injury,2055
+2023,Colorado Springs,Weather,Clear,No injury reported,3845
+2023,Colorado Springs,Weather,Cloudy,Fatal,4
+2023,Colorado Springs,Weather,Cloudy,Injury,202
+2023,Colorado Springs,Weather,Cloudy,No injury reported,389
+2023,Colorado Springs,Weather,Fog,Injury,3
+2023,Colorado Springs,Weather,Fog,No injury reported,17
+2023,Colorado Springs,Weather,Freezing Rain or Freezing Drizzle,Injury,1
+2023,Colorado Springs,Weather,Freezing Rain or Freezing Drizzle,No injury reported,4
+2023,Colorado Springs,Weather,Rain,Fatal,1
+2023,Colorado Springs,Weather,Rain,Injury,122
+2023,Colorado Springs,Weather,Rain,No injury reported,194
+2023,Colorado Springs,Weather,Sleet or Hail,Injury,4
+2023,Colorado Springs,Weather,Sleet or Hail,No injury reported,9
+2023,Colorado Springs,Weather,Snow,Fatal,1
+2023,Colorado Springs,Weather,Snow,Injury,60
+2023,Colorado Springs,Weather,Snow,No injury reported,193
+2023,Colorado Springs,Weather,Wind,Fatal,1
+2023,Colorado Springs,Weather,Wind,Injury,6
+2023,Colorado Springs,Weather,Wind,No injury reported,11
+2023,El Paso County,Lighting,Dark – Lighted,Fatal,24
+2023,El Paso County,Lighting,Dark – Lighted,Injury,639
+2023,El Paso County,Lighting,Dark – Lighted,No injury reported,1382
+2023,El Paso County,Lighting,Dark – Unlighted,Fatal,11
+2023,El Paso County,Lighting,Dark – Unlighted,Injury,211
+2023,El Paso County,Lighting,Dark – Unlighted,No injury reported,541
+2023,El Paso County,Lighting,Dawn or Dusk,Fatal,6
+2023,El Paso County,Lighting,Dawn or Dusk,Injury,148
+2023,El Paso County,Lighting,Dawn or Dusk,No injury reported,284
+2023,El Paso County,Lighting,Daylight,Fatal,35
+2023,El Paso County,Lighting,Daylight,Injury,2450
+2023,El Paso County,Lighting,Daylight,No injury reported,4604
+2023,El Paso County,Lighting,Unknown,No injury reported,4
+2023,El Paso County,Road surface,Dry,Fatal,71
+2023,El Paso County,Road surface,Dry,Injury,3009
+2023,El Paso County,Road surface,Dry,No injury reported,5802
+2023,El Paso County,Road surface,Dry W/Visible Icy Road Treatment,Injury,4
+2023,El Paso County,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,6
+2023,El Paso County,Road surface,Foreign Material,Injury,1
+2023,El Paso County,Road surface,Foreign Material,No injury reported,1
+2023,El Paso County,Road surface,Icy,Fatal,1
+2023,El Paso County,Road surface,Icy,Injury,93
+2023,El Paso County,Road surface,Icy,No injury reported,267
+2023,El Paso County,Road surface,Icy W/Visible Icy Road Treatment,Injury,3
+2023,El Paso County,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,7
+2023,El Paso County,Road surface,Muddy,Injury,3
+2023,El Paso County,Road surface,Muddy,No injury reported,1
+2023,El Paso County,Road surface,Sand/Gravel,Injury,6
+2023,El Paso County,Road surface,Sand/Gravel,No injury reported,10
+2023,El Paso County,Road surface,Slushy,Injury,12
+2023,El Paso County,Road surface,Slushy,No injury reported,34
+2023,El Paso County,Road surface,Slushy W/Visible Icy Road Treatment,Injury,4
+2023,El Paso County,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,4
+2023,El Paso County,Road surface,Snowy,Fatal,1
+2023,El Paso County,Road surface,Snowy,Injury,54
+2023,El Paso County,Road surface,Snowy,No injury reported,207
+2023,El Paso County,Road surface,Snowy W/Visible Icy Road Treatment,Injury,5
+2023,El Paso County,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,9
+2023,El Paso County,Road surface,Wet,Fatal,3
+2023,El Paso County,Road surface,Wet,Injury,252
+2023,El Paso County,Road surface,Wet,No injury reported,466
+2023,El Paso County,Road surface,Wet W/Visible Icy Road Treatment,Injury,2
+2023,El Paso County,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,1
+2023,El Paso County,Weather,Blowing Snow,Injury,13
+2023,El Paso County,Weather,Blowing Snow,No injury reported,40
+2023,El Paso County,Weather,Clear,Fatal,66
+2023,El Paso County,Weather,Clear,Injury,2892
+2023,El Paso County,Weather,Clear,No injury reported,5590
+2023,El Paso County,Weather,Cloudy,Fatal,4
+2023,El Paso County,Weather,Cloudy,Injury,255
+2023,El Paso County,Weather,Cloudy,No injury reported,496
+2023,El Paso County,Weather,Dust,No injury reported,1
+2023,El Paso County,Weather,Fog,Injury,11
+2023,El Paso County,Weather,Fog,No injury reported,28
+2023,El Paso County,Weather,Freezing Rain or Freezing Drizzle,Injury,5
+2023,El Paso County,Weather,Freezing Rain or Freezing Drizzle,No injury reported,7
+2023,El Paso County,Weather,Rain,Fatal,2
+2023,El Paso County,Weather,Rain,Injury,152
+2023,El Paso County,Weather,Rain,No injury reported,275
+2023,El Paso County,Weather,Sleet or Hail,Injury,7
+2023,El Paso County,Weather,Sleet or Hail,No injury reported,18
+2023,El Paso County,Weather,Snow,Fatal,2
+2023,El Paso County,Weather,Snow,Injury,99
+2023,El Paso County,Weather,Snow,No injury reported,329
+2023,El Paso County,Weather,Unknown,No injury reported,2
+2023,El Paso County,Weather,Wind,Fatal,2
+2023,El Paso County,Weather,Wind,Injury,14
+2023,El Paso County,Weather,Wind,No injury reported,29
+2024,Colorado,Lighting,Dark – Lighted,Fatal,171
+2024,Colorado,Lighting,Dark – Lighted,Injury,4987
+2024,Colorado,Lighting,Dark – Lighted,No injury reported,12568
+2024,Colorado,Lighting,Dark – Unlighted,Fatal,131
+2024,Colorado,Lighting,Dark – Unlighted,Injury,2348
+2024,Colorado,Lighting,Dark – Unlighted,No injury reported,7443
+2024,Colorado,Lighting,Dawn or Dusk,Fatal,32
+2024,Colorado,Lighting,Dawn or Dusk,Injury,1321
+2024,Colorado,Lighting,Dawn or Dusk,No injury reported,3741
+2024,Colorado,Lighting,Daylight,Fatal,308
+2024,Colorado,Lighting,Daylight,Injury,17453
+2024,Colorado,Lighting,Daylight,No injury reported,49597
+2024,Colorado,Lighting,Unknown,Injury,63
+2024,Colorado,Lighting,Unknown,No injury reported,517
+2024,Colorado,Road surface,Dry,Fatal,596
+2024,Colorado,Road surface,Dry,Injury,23133
+2024,Colorado,Road surface,Dry,No injury reported,62658
+2024,Colorado,Road surface,Dry W/Visible Icy Road Treatment,Fatal,1
+2024,Colorado,Road surface,Dry W/Visible Icy Road Treatment,Injury,37
+2024,Colorado,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,139
+2024,Colorado,Road surface,Foreign Material,Injury,8
+2024,Colorado,Road surface,Foreign Material,No injury reported,9
+2024,Colorado,Road surface,Icy,Fatal,11
+2024,Colorado,Road surface,Icy,Injury,743
+2024,Colorado,Road surface,Icy,No injury reported,3063
+2024,Colorado,Road surface,Icy W/Visible Icy Road Treatment,Injury,48
+2024,Colorado,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,180
+2024,Colorado,Road surface,Muddy,Fatal,1
+2024,Colorado,Road surface,Muddy,Injury,27
+2024,Colorado,Road surface,Muddy,No injury reported,69
+2024,Colorado,Road surface,Roto-Milled,Injury,5
+2024,Colorado,Road surface,Roto-Milled,No injury reported,5
+2024,Colorado,Road surface,Sand/Gravel,Injury,33
+2024,Colorado,Road surface,Sand/Gravel,No injury reported,80
+2024,Colorado,Road surface,Slushy,Fatal,2
+2024,Colorado,Road surface,Slushy,Injury,161
+2024,Colorado,Road surface,Slushy,No injury reported,581
+2024,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,Fatal,1
+2024,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,Injury,21
+2024,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,78
+2024,Colorado,Road surface,Snowy,Fatal,5
+2024,Colorado,Road surface,Snowy,Injury,518
+2024,Colorado,Road surface,Snowy,No injury reported,2424
+2024,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,Injury,35
+2024,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,213
+2024,Colorado,Road surface,Unknown,Fatal,1
+2024,Colorado,Road surface,Unknown,Injury,73
+2024,Colorado,Road surface,Unknown,No injury reported,474
+2024,Colorado,Road surface,Wet,Fatal,24
+2024,Colorado,Road surface,Wet,Injury,1309
+2024,Colorado,Road surface,Wet,No injury reported,3826
+2024,Colorado,Road surface,Wet W/Visible Icy Road Treatment,Injury,21
+2024,Colorado,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,67
+2024,Colorado,Weather,Blowing Snow,Injury,103
+2024,Colorado,Weather,Blowing Snow,No injury reported,440
+2024,Colorado,Weather,Clear,Fatal,550
+2024,Colorado,Weather,Clear,Injury,21962
+2024,Colorado,Weather,Clear,No injury reported,60618
+2024,Colorado,Weather,Cloudy,Fatal,42
+2024,Colorado,Weather,Cloudy,Injury,1908
+2024,Colorado,Weather,Cloudy,No injury reported,5214
+2024,Colorado,Weather,Dust,Injury,4
+2024,Colorado,Weather,Dust,No injury reported,17
+2024,Colorado,Weather,Fog,Fatal,5
+2024,Colorado,Weather,Fog,Injury,51
+2024,Colorado,Weather,Fog,No injury reported,126
+2024,Colorado,Weather,Freezing Rain or Freezing Drizzle,Fatal,2
+2024,Colorado,Weather,Freezing Rain or Freezing Drizzle,Injury,52
+2024,Colorado,Weather,Freezing Rain or Freezing Drizzle,No injury reported,159
+2024,Colorado,Weather,Rain,Fatal,18
+2024,Colorado,Weather,Rain,Injury,732
+2024,Colorado,Weather,Rain,No injury reported,2043
+2024,Colorado,Weather,Sleet or Hail,Fatal,2
+2024,Colorado,Weather,Sleet or Hail,Injury,35
+2024,Colorado,Weather,Sleet or Hail,No injury reported,153
+2024,Colorado,Weather,Snow,Fatal,12
+2024,Colorado,Weather,Snow,Injury,945
+2024,Colorado,Weather,Snow,No injury reported,3925
+2024,Colorado,Weather,Unknown,Injury,171
+2024,Colorado,Weather,Unknown,No injury reported,714
+2024,Colorado,Weather,Wind,Fatal,11
+2024,Colorado,Weather,Wind,Injury,209
+2024,Colorado,Weather,Wind,No injury reported,457
+2024,Colorado Springs,Lighting,Dark – Lighted,Fatal,18
+2024,Colorado Springs,Lighting,Dark – Lighted,Injury,519
+2024,Colorado Springs,Lighting,Dark – Lighted,No injury reported,959
+2024,Colorado Springs,Lighting,Dark – Unlighted,Fatal,2
+2024,Colorado Springs,Lighting,Dark – Unlighted,Injury,76
+2024,Colorado Springs,Lighting,Dark – Unlighted,No injury reported,160
+2024,Colorado Springs,Lighting,Dawn or Dusk,Fatal,4
+2024,Colorado Springs,Lighting,Dawn or Dusk,Injury,111
+2024,Colorado Springs,Lighting,Dawn or Dusk,No injury reported,173
+2024,Colorado Springs,Lighting,Daylight,Fatal,20
+2024,Colorado Springs,Lighting,Daylight,Injury,1546
+2024,Colorado Springs,Lighting,Daylight,No injury reported,2861
+2024,Colorado Springs,Lighting,Unknown,No injury reported,2
+2024,Colorado Springs,Road surface,Dry,Fatal,41
+2024,Colorado Springs,Road surface,Dry,Injury,2052
+2024,Colorado Springs,Road surface,Dry,No injury reported,3680
+2024,Colorado Springs,Road surface,Dry W/Visible Icy Road Treatment,Injury,2
+2024,Colorado Springs,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,4
+2024,Colorado Springs,Road surface,Foreign Material,Injury,1
+2024,Colorado Springs,Road surface,Icy,Injury,30
+2024,Colorado Springs,Road surface,Icy,No injury reported,118
+2024,Colorado Springs,Road surface,Icy W/Visible Icy Road Treatment,Injury,1
+2024,Colorado Springs,Road surface,Muddy,No injury reported,1
+2024,Colorado Springs,Road surface,Roto-Milled,Injury,1
+2024,Colorado Springs,Road surface,Sand/Gravel,Injury,5
+2024,Colorado Springs,Road surface,Sand/Gravel,No injury reported,2
+2024,Colorado Springs,Road surface,Slushy,Injury,7
+2024,Colorado Springs,Road surface,Slushy,No injury reported,25
+2024,Colorado Springs,Road surface,Slushy W/Visible Icy Road Treatment,Injury,1
+2024,Colorado Springs,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,4
+2024,Colorado Springs,Road surface,Snowy,Injury,25
+2024,Colorado Springs,Road surface,Snowy,No injury reported,101
+2024,Colorado Springs,Road surface,Snowy W/Visible Icy Road Treatment,Injury,4
+2024,Colorado Springs,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,12
+2024,Colorado Springs,Road surface,Unknown,No injury reported,2
+2024,Colorado Springs,Road surface,Wet,Fatal,3
+2024,Colorado Springs,Road surface,Wet,Injury,123
+2024,Colorado Springs,Road surface,Wet,No injury reported,206
+2024,Colorado Springs,Weather,Blowing Snow,Injury,7
+2024,Colorado Springs,Weather,Blowing Snow,No injury reported,17
+2024,Colorado Springs,Weather,Clear,Fatal,39
+2024,Colorado Springs,Weather,Clear,Injury,1930
+2024,Colorado Springs,Weather,Clear,No injury reported,3570
+2024,Colorado Springs,Weather,Cloudy,Fatal,3
+2024,Colorado Springs,Weather,Cloudy,Injury,173
+2024,Colorado Springs,Weather,Cloudy,No injury reported,234
+2024,Colorado Springs,Weather,Fog,Injury,6
+2024,Colorado Springs,Weather,Fog,No injury reported,7
+2024,Colorado Springs,Weather,Freezing Rain or Freezing Drizzle,No injury reported,9
+2024,Colorado Springs,Weather,Rain,Fatal,2
+2024,Colorado Springs,Weather,Rain,Injury,72
+2024,Colorado Springs,Weather,Rain,No injury reported,126
+2024,Colorado Springs,Weather,Sleet or Hail,Injury,4
+2024,Colorado Springs,Weather,Sleet or Hail,No injury reported,9
+2024,Colorado Springs,Weather,Snow,Injury,49
+2024,Colorado Springs,Weather,Snow,No injury reported,162
+2024,Colorado Springs,Weather,Unknown,No injury reported,2
+2024,Colorado Springs,Weather,Wind,Injury,11
+2024,Colorado Springs,Weather,Wind,No injury reported,19
+2024,El Paso County,Lighting,Dark – Lighted,Fatal,23
+2024,El Paso County,Lighting,Dark – Lighted,Injury,650
+2024,El Paso County,Lighting,Dark – Lighted,No injury reported,1206
+2024,El Paso County,Lighting,Dark – Unlighted,Fatal,13
+2024,El Paso County,Lighting,Dark – Unlighted,Injury,210
+2024,El Paso County,Lighting,Dark – Unlighted,No injury reported,527
+2024,El Paso County,Lighting,Dawn or Dusk,Fatal,4
+2024,El Paso County,Lighting,Dawn or Dusk,Injury,165
+2024,El Paso County,Lighting,Dawn or Dusk,No injury reported,294
+2024,El Paso County,Lighting,Daylight,Fatal,33
+2024,El Paso County,Lighting,Daylight,Injury,2199
+2024,El Paso County,Lighting,Daylight,No injury reported,4376
+2024,El Paso County,Lighting,Unknown,No injury reported,4
+2024,El Paso County,Road surface,Dry,Fatal,69
+2024,El Paso County,Road surface,Dry,Injury,2897
+2024,El Paso County,Road surface,Dry,No injury reported,5616
+2024,El Paso County,Road surface,Dry W/Visible Icy Road Treatment,Injury,2
+2024,El Paso County,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,8
+2024,El Paso County,Road surface,Foreign Material,Injury,2
+2024,El Paso County,Road surface,Icy,Injury,74
+2024,El Paso County,Road surface,Icy,No injury reported,235
+2024,El Paso County,Road surface,Icy W/Visible Icy Road Treatment,Injury,4
+2024,El Paso County,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,5
+2024,El Paso County,Road surface,Muddy,No injury reported,2
+2024,El Paso County,Road surface,Roto-Milled,Injury,1
+2024,El Paso County,Road surface,Sand/Gravel,Injury,10
+2024,El Paso County,Road surface,Sand/Gravel,No injury reported,6
+2024,El Paso County,Road surface,Slushy,Injury,12
+2024,El Paso County,Road surface,Slushy,No injury reported,36
+2024,El Paso County,Road surface,Slushy W/Visible Icy Road Treatment,Fatal,1
+2024,El Paso County,Road surface,Slushy W/Visible Icy Road Treatment,Injury,2
+2024,El Paso County,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,5
+2024,El Paso County,Road surface,Snowy,Injury,48
+2024,El Paso County,Road surface,Snowy,No injury reported,162
+2024,El Paso County,Road surface,Snowy W/Visible Icy Road Treatment,Injury,4
+2024,El Paso County,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,16
+2024,El Paso County,Road surface,Unknown,Injury,1
+2024,El Paso County,Road surface,Unknown,No injury reported,7
+2024,El Paso County,Road surface,Wet,Fatal,3
+2024,El Paso County,Road surface,Wet,Injury,166
+2024,El Paso County,Road surface,Wet,No injury reported,307
+2024,El Paso County,Road surface,Wet W/Visible Icy Road Treatment,Injury,1
+2024,El Paso County,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,2
+2024,El Paso County,Weather,Blowing Snow,Injury,10
+2024,El Paso County,Weather,Blowing Snow,No injury reported,34
+2024,El Paso County,Weather,Clear,Fatal,66
+2024,El Paso County,Weather,Clear,Injury,2770
+2024,El Paso County,Weather,Clear,No injury reported,5477
+2024,El Paso County,Weather,Cloudy,Fatal,4
+2024,El Paso County,Weather,Cloudy,Injury,221
+2024,El Paso County,Weather,Cloudy,No injury reported,365
+2024,El Paso County,Weather,Fog,Injury,9
+2024,El Paso County,Weather,Fog,No injury reported,14
+2024,El Paso County,Weather,Freezing Rain or Freezing Drizzle,Injury,2
+2024,El Paso County,Weather,Freezing Rain or Freezing Drizzle,No injury reported,13
+2024,El Paso County,Weather,Rain,Fatal,2
+2024,El Paso County,Weather,Rain,Injury,94
+2024,El Paso County,Weather,Rain,No injury reported,174
+2024,El Paso County,Weather,Sleet or Hail,Injury,6
+2024,El Paso County,Weather,Sleet or Hail,No injury reported,16
+2024,El Paso County,Weather,Snow,Fatal,1
+2024,El Paso County,Weather,Snow,Injury,92
+2024,El Paso County,Weather,Snow,No injury reported,268
+2024,El Paso County,Weather,Unknown,Injury,2
+2024,El Paso County,Weather,Unknown,No injury reported,3
+2024,El Paso County,Weather,Wind,Injury,18
+2024,El Paso County,Weather,Wind,No injury reported,43
+2025,Colorado,Lighting,Dark – Lighted,Fatal,152
+2025,Colorado,Lighting,Dark – Lighted,Injury,4740
+2025,Colorado,Lighting,Dark – Lighted,No injury reported,12327
+2025,Colorado,Lighting,Dark – Unlighted,Fatal,158
+2025,Colorado,Lighting,Dark – Unlighted,Injury,2349
+2025,Colorado,Lighting,Dark – Unlighted,No injury reported,6899
+2025,Colorado,Lighting,Dawn or Dusk,Fatal,38
+2025,Colorado,Lighting,Dawn or Dusk,Injury,1175
+2025,Colorado,Lighting,Dawn or Dusk,No injury reported,3542
+2025,Colorado,Lighting,Daylight,Fatal,309
+2025,Colorado,Lighting,Daylight,Injury,16473
+2025,Colorado,Lighting,Daylight,No injury reported,47066
+2025,Colorado,Lighting,Unknown,Fatal,1
+2025,Colorado,Lighting,Unknown,Injury,60
+2025,Colorado,Lighting,Unknown,No injury reported,407
+2025,Colorado,Road surface,Dry,Fatal,603
+2025,Colorado,Road surface,Dry,Injury,21836
+2025,Colorado,Road surface,Dry,No injury reported,60195
+2025,Colorado,Road surface,Dry W/Visible Icy Road Treatment,Injury,62
+2025,Colorado,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,131
+2025,Colorado,Road surface,Foreign Material,Injury,7
+2025,Colorado,Road surface,Foreign Material,No injury reported,11
+2025,Colorado,Road surface,Icy,Fatal,7
+2025,Colorado,Road surface,Icy,Injury,633
+2025,Colorado,Road surface,Icy,No injury reported,2583
+2025,Colorado,Road surface,Icy W/Visible Icy Road Treatment,Fatal,7
+2025,Colorado,Road surface,Icy W/Visible Icy Road Treatment,Injury,54
+2025,Colorado,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,170
+2025,Colorado,Road surface,Muddy,Injury,16
+2025,Colorado,Road surface,Muddy,No injury reported,62
+2025,Colorado,Road surface,Roto-Milled,Injury,6
+2025,Colorado,Road surface,Roto-Milled,No injury reported,9
+2025,Colorado,Road surface,Sand/Gravel,Fatal,3
+2025,Colorado,Road surface,Sand/Gravel,Injury,23
+2025,Colorado,Road surface,Sand/Gravel,No injury reported,59
+2025,Colorado,Road surface,Slushy,Fatal,3
+2025,Colorado,Road surface,Slushy,Injury,90
+2025,Colorado,Road surface,Slushy,No injury reported,299
+2025,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,Injury,16
+2025,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,66
+2025,Colorado,Road surface,Snowy,Fatal,1
+2025,Colorado,Road surface,Snowy,Injury,431
+2025,Colorado,Road surface,Snowy,No injury reported,1953
+2025,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,Fatal,2
+2025,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,Injury,37
+2025,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,178
+2025,Colorado,Road surface,Unknown,Fatal,1
+2025,Colorado,Road surface,Unknown,Injury,78
+2025,Colorado,Road surface,Unknown,No injury reported,406
+2025,Colorado,Road surface,Wet,Fatal,31
+2025,Colorado,Road surface,Wet,Injury,1486
+2025,Colorado,Road surface,Wet,No injury reported,4048
+2025,Colorado,Road surface,Wet W/Visible Icy Road Treatment,Injury,22
+2025,Colorado,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,71
+2025,Colorado,Weather,Blowing Snow,Fatal,1
+2025,Colorado,Weather,Blowing Snow,Injury,96
+2025,Colorado,Weather,Blowing Snow,No injury reported,306
+2025,Colorado,Weather,Clear,Fatal,568
+2025,Colorado,Weather,Clear,Injury,20508
+2025,Colorado,Weather,Clear,No injury reported,57382
+2025,Colorado,Weather,Cloudy,Fatal,44
+2025,Colorado,Weather,Cloudy,Injury,2087
+2025,Colorado,Weather,Cloudy,No injury reported,5475
+2025,Colorado,Weather,Dust,Injury,5
+2025,Colorado,Weather,Dust,No injury reported,22
+2025,Colorado,Weather,Fog,Fatal,6
+2025,Colorado,Weather,Fog,Injury,77
+2025,Colorado,Weather,Fog,No injury reported,194
+2025,Colorado,Weather,Freezing Rain or Freezing Drizzle,Fatal,1
+2025,Colorado,Weather,Freezing Rain or Freezing Drizzle,Injury,29
+2025,Colorado,Weather,Freezing Rain or Freezing Drizzle,No injury reported,113
+2025,Colorado,Weather,Rain,Fatal,18
+2025,Colorado,Weather,Rain,Injury,902
+2025,Colorado,Weather,Rain,No injury reported,2513
+2025,Colorado,Weather,Sleet or Hail,Injury,37
+2025,Colorado,Weather,Sleet or Hail,No injury reported,111
+2025,Colorado,Weather,Snow,Fatal,8
+2025,Colorado,Weather,Snow,Injury,773
+2025,Colorado,Weather,Snow,No injury reported,3026
+2025,Colorado,Weather,Unknown,Fatal,3
+2025,Colorado,Weather,Unknown,Injury,108
+2025,Colorado,Weather,Unknown,No injury reported,595
+2025,Colorado,Weather,Wind,Fatal,9
+2025,Colorado,Weather,Wind,Injury,175
+2025,Colorado,Weather,Wind,No injury reported,504
+2025,Colorado Springs,Lighting,Dark – Lighted,Fatal,19
+2025,Colorado Springs,Lighting,Dark – Lighted,Injury,518
+2025,Colorado Springs,Lighting,Dark – Lighted,No injury reported,995
+2025,Colorado Springs,Lighting,Dark – Unlighted,Fatal,2
+2025,Colorado Springs,Lighting,Dark – Unlighted,Injury,70
+2025,Colorado Springs,Lighting,Dark – Unlighted,No injury reported,167
+2025,Colorado Springs,Lighting,Dawn or Dusk,Fatal,1
+2025,Colorado Springs,Lighting,Dawn or Dusk,Injury,94
+2025,Colorado Springs,Lighting,Dawn or Dusk,No injury reported,223
+2025,Colorado Springs,Lighting,Daylight,Fatal,26
+2025,Colorado Springs,Lighting,Daylight,Injury,1674
+2025,Colorado Springs,Lighting,Daylight,No injury reported,3173
+2025,Colorado Springs,Road surface,Dry,Fatal,45
+2025,Colorado Springs,Road surface,Dry,Injury,2109
+2025,Colorado Springs,Road surface,Dry,No injury reported,3948
+2025,Colorado Springs,Road surface,Dry W/Visible Icy Road Treatment,Injury,3
+2025,Colorado Springs,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,6
+2025,Colorado Springs,Road surface,Foreign Material,Injury,1
+2025,Colorado Springs,Road surface,Icy,Injury,38
+2025,Colorado Springs,Road surface,Icy,No injury reported,126
+2025,Colorado Springs,Road surface,Icy W/Visible Icy Road Treatment,Injury,5
+2025,Colorado Springs,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,4
+2025,Colorado Springs,Road surface,Muddy,No injury reported,2
+2025,Colorado Springs,Road surface,Roto-Milled,Injury,1
+2025,Colorado Springs,Road surface,Roto-Milled,No injury reported,1
+2025,Colorado Springs,Road surface,Sand/Gravel,Fatal,2
+2025,Colorado Springs,Road surface,Sand/Gravel,Injury,3
+2025,Colorado Springs,Road surface,Sand/Gravel,No injury reported,2
+2025,Colorado Springs,Road surface,Slushy,Injury,3
+2025,Colorado Springs,Road surface,Slushy,No injury reported,14
+2025,Colorado Springs,Road surface,Slushy W/Visible Icy Road Treatment,Injury,1
+2025,Colorado Springs,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,1
+2025,Colorado Springs,Road surface,Snowy,Injury,20
+2025,Colorado Springs,Road surface,Snowy,No injury reported,99
+2025,Colorado Springs,Road surface,Snowy W/Visible Icy Road Treatment,Injury,1
+2025,Colorado Springs,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,2
+2025,Colorado Springs,Road surface,Wet,Fatal,1
+2025,Colorado Springs,Road surface,Wet,Injury,168
+2025,Colorado Springs,Road surface,Wet,No injury reported,352
+2025,Colorado Springs,Road surface,Wet W/Visible Icy Road Treatment,Injury,3
+2025,Colorado Springs,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,1
+2025,Colorado Springs,Weather,Blowing Snow,Injury,11
+2025,Colorado Springs,Weather,Blowing Snow,No injury reported,32
+2025,Colorado Springs,Weather,Clear,Fatal,46
+2025,Colorado Springs,Weather,Clear,Injury,1980
+2025,Colorado Springs,Weather,Clear,No injury reported,3831
+2025,Colorado Springs,Weather,Cloudy,Fatal,2
+2025,Colorado Springs,Weather,Cloudy,Injury,203
+2025,Colorado Springs,Weather,Cloudy,No injury reported,300
+2025,Colorado Springs,Weather,Fog,Injury,1
+2025,Colorado Springs,Weather,Fog,No injury reported,7
+2025,Colorado Springs,Weather,Freezing Rain or Freezing Drizzle,Injury,1
+2025,Colorado Springs,Weather,Freezing Rain or Freezing Drizzle,No injury reported,8
+2025,Colorado Springs,Weather,Rain,Injury,107
+2025,Colorado Springs,Weather,Rain,No injury reported,243
+2025,Colorado Springs,Weather,Sleet or Hail,Injury,4
+2025,Colorado Springs,Weather,Sleet or Hail,No injury reported,5
+2025,Colorado Springs,Weather,Snow,Injury,43
+2025,Colorado Springs,Weather,Snow,No injury reported,119
+2025,Colorado Springs,Weather,Wind,Injury,6
+2025,Colorado Springs,Weather,Wind,No injury reported,13
+2025,El Paso County,Lighting,Dark – Lighted,Fatal,22
+2025,El Paso County,Lighting,Dark – Lighted,Injury,653
+2025,El Paso County,Lighting,Dark – Lighted,No injury reported,1248
+2025,El Paso County,Lighting,Dark – Unlighted,Fatal,6
+2025,El Paso County,Lighting,Dark – Unlighted,Injury,198
+2025,El Paso County,Lighting,Dark – Unlighted,No injury reported,528
+2025,El Paso County,Lighting,Dawn or Dusk,Fatal,3
+2025,El Paso County,Lighting,Dawn or Dusk,Injury,142
+2025,El Paso County,Lighting,Dawn or Dusk,No injury reported,341
+2025,El Paso County,Lighting,Daylight,Fatal,40
+2025,El Paso County,Lighting,Daylight,Injury,2246
+2025,El Paso County,Lighting,Daylight,No injury reported,4511
+2025,El Paso County,Lighting,Unknown,No injury reported,2
+2025,El Paso County,Road surface,Dry,Fatal,64
+2025,El Paso County,Road surface,Dry,Injury,2864
+2025,El Paso County,Road surface,Dry,No injury reported,5671
+2025,El Paso County,Road surface,Dry W/Visible Icy Road Treatment,Injury,5
+2025,El Paso County,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,8
+2025,El Paso County,Road surface,Foreign Material,Injury,1
+2025,El Paso County,Road surface,Foreign Material,No injury reported,1
+2025,El Paso County,Road surface,Icy,Fatal,1
+2025,El Paso County,Road surface,Icy,Injury,76
+2025,El Paso County,Road surface,Icy,No injury reported,252
+2025,El Paso County,Road surface,Icy W/Visible Icy Road Treatment,Fatal,1
+2025,El Paso County,Road surface,Icy W/Visible Icy Road Treatment,Injury,7
+2025,El Paso County,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,6
+2025,El Paso County,Road surface,Muddy,No injury reported,3
+2025,El Paso County,Road surface,Roto-Milled,Injury,3
+2025,El Paso County,Road surface,Roto-Milled,No injury reported,1
+2025,El Paso County,Road surface,Sand/Gravel,Fatal,2
+2025,El Paso County,Road surface,Sand/Gravel,Injury,4
+2025,El Paso County,Road surface,Sand/Gravel,No injury reported,5
+2025,El Paso County,Road surface,Slushy,Injury,5
+2025,El Paso County,Road surface,Slushy,No injury reported,20
+2025,El Paso County,Road surface,Slushy W/Visible Icy Road Treatment,Injury,1
+2025,El Paso County,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,1
+2025,El Paso County,Road surface,Snowy,Injury,36
+2025,El Paso County,Road surface,Snowy,No injury reported,153
+2025,El Paso County,Road surface,Snowy W/Visible Icy Road Treatment,Fatal,2
+2025,El Paso County,Road surface,Snowy W/Visible Icy Road Treatment,Injury,2
+2025,El Paso County,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,5
+2025,El Paso County,Road surface,Unknown,No injury reported,2
+2025,El Paso County,Road surface,Wet,Fatal,1
+2025,El Paso County,Road surface,Wet,Injury,232
+2025,El Paso County,Road surface,Wet,No injury reported,501
+2025,El Paso County,Road surface,Wet W/Visible Icy Road Treatment,Injury,3
+2025,El Paso County,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,1
+2025,El Paso County,Weather,Blowing Snow,Injury,13
+2025,El Paso County,Weather,Blowing Snow,No injury reported,42
+2025,El Paso County,Weather,Clear,Fatal,66
+2025,El Paso County,Weather,Clear,Injury,2693
+2025,El Paso County,Weather,Clear,No injury reported,5509
+2025,El Paso County,Weather,Cloudy,Fatal,4
+2025,El Paso County,Weather,Cloudy,Injury,276
+2025,El Paso County,Weather,Cloudy,No injury reported,434
+2025,El Paso County,Weather,Fog,Fatal,1
+2025,El Paso County,Weather,Fog,Injury,10
+2025,El Paso County,Weather,Fog,No injury reported,20
+2025,El Paso County,Weather,Freezing Rain or Freezing Drizzle,Injury,2
+2025,El Paso County,Weather,Freezing Rain or Freezing Drizzle,No injury reported,8
+2025,El Paso County,Weather,Rain,Injury,150
+2025,El Paso County,Weather,Rain,No injury reported,346
+2025,El Paso County,Weather,Sleet or Hail,Injury,5
+2025,El Paso County,Weather,Sleet or Hail,No injury reported,8
+2025,El Paso County,Weather,Snow,Injury,76
+2025,El Paso County,Weather,Snow,No injury reported,226
+2025,El Paso County,Weather,Unknown,No injury reported,3
+2025,El Paso County,Weather,Wind,Injury,14
+2025,El Paso County,Weather,Wind,No injury reported,34
+2026,Colorado,Lighting,Dark – Lighted,Fatal,91
+2026,Colorado,Lighting,Dark – Lighted,Injury,3154
+2026,Colorado,Lighting,Dark – Lighted,No injury reported,7452
+2026,Colorado,Lighting,Dark – Unlighted,Fatal,67
+2026,Colorado,Lighting,Dark – Unlighted,Injury,1526
+2026,Colorado,Lighting,Dark – Unlighted,No injury reported,4871
+2026,Colorado,Lighting,Dawn or Dusk,Fatal,17
+2026,Colorado,Lighting,Dawn or Dusk,Injury,781
+2026,Colorado,Lighting,Dawn or Dusk,No injury reported,2288
+2026,Colorado,Lighting,Daylight,Fatal,146
+2026,Colorado,Lighting,Daylight,Injury,12744
+2026,Colorado,Lighting,Daylight,No injury reported,36091
+2026,Colorado,Lighting,Unknown,Fatal,1
+2026,Colorado,Lighting,Unknown,Injury,48
+2026,Colorado,Lighting,Unknown,No injury reported,254
+2026,Colorado,Road surface,Dry,Fatal,297
+2026,Colorado,Road surface,Dry,Injury,16603
+2026,Colorado,Road surface,Dry,No injury reported,45526
+2026,Colorado,Road surface,Dry W/Visible Icy Road Treatment,Injury,18
+2026,Colorado,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,42
+2026,Colorado,Road surface,Foreign Material,Injury,8
+2026,Colorado,Road surface,Foreign Material,No injury reported,7
+2026,Colorado,Road surface,Icy,Fatal,9
+2026,Colorado,Road surface,Icy,Injury,313
+2026,Colorado,Road surface,Icy,No injury reported,1079
+2026,Colorado,Road surface,Icy W/Visible Icy Road Treatment,Injury,15
+2026,Colorado,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,63
+2026,Colorado,Road surface,Muddy,Injury,15
+2026,Colorado,Road surface,Muddy,No injury reported,40
+2026,Colorado,Road surface,Roto-Milled,No injury reported,4
+2026,Colorado,Road surface,Sand/Gravel,Fatal,2
+2026,Colorado,Road surface,Sand/Gravel,Injury,25
+2026,Colorado,Road surface,Sand/Gravel,No injury reported,49
+2026,Colorado,Road surface,Slushy,Fatal,1
+2026,Colorado,Road surface,Slushy,Injury,62
+2026,Colorado,Road surface,Slushy,No injury reported,199
+2026,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,Injury,4
+2026,Colorado,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,28
+2026,Colorado,Road surface,Snowy,Fatal,2
+2026,Colorado,Road surface,Snowy,Injury,185
+2026,Colorado,Road surface,Snowy,No injury reported,826
+2026,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,Fatal,1
+2026,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,Injury,48
+2026,Colorado,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,167
+2026,Colorado,Road surface,Unknown,Fatal,1
+2026,Colorado,Road surface,Unknown,Injury,51
+2026,Colorado,Road surface,Unknown,No injury reported,287
+2026,Colorado,Road surface,Wet,Fatal,8
+2026,Colorado,Road surface,Wet,Injury,896
+2026,Colorado,Road surface,Wet,No injury reported,2608
+2026,Colorado,Road surface,Wet W/Visible Icy Road Treatment,Fatal,1
+2026,Colorado,Road surface,Wet W/Visible Icy Road Treatment,Injury,10
+2026,Colorado,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,31
+2026,Colorado,Weather,Blowing Snow,Injury,58
+2026,Colorado,Weather,Blowing Snow,No injury reported,182
+2026,Colorado,Weather,Clear,Fatal,281
+2026,Colorado,Weather,Clear,Injury,15534
+2026,Colorado,Weather,Clear,No injury reported,42704
+2026,Colorado,Weather,Cloudy,Fatal,21
+2026,Colorado,Weather,Cloudy,Injury,1412
+2026,Colorado,Weather,Cloudy,No injury reported,3935
+2026,Colorado,Weather,Dust,Injury,3
+2026,Colorado,Weather,Dust,No injury reported,11
+2026,Colorado,Weather,Fog,Fatal,1
+2026,Colorado,Weather,Fog,Injury,24
+2026,Colorado,Weather,Fog,No injury reported,64
+2026,Colorado,Weather,Freezing Rain or Freezing Drizzle,Injury,18
+2026,Colorado,Weather,Freezing Rain or Freezing Drizzle,No injury reported,44
+2026,Colorado,Weather,Rain,Fatal,7
+2026,Colorado,Weather,Rain,Injury,595
+2026,Colorado,Weather,Rain,No injury reported,1643
+2026,Colorado,Weather,Sleet or Hail,Injury,21
+2026,Colorado,Weather,Sleet or Hail,No injury reported,57
+2026,Colorado,Weather,Snow,Fatal,9
+2026,Colorado,Weather,Snow,Injury,397
+2026,Colorado,Weather,Snow,No injury reported,1613
+2026,Colorado,Weather,Unknown,Fatal,1
+2026,Colorado,Weather,Unknown,Injury,77
+2026,Colorado,Weather,Unknown,No injury reported,389
+2026,Colorado,Weather,Wind,Fatal,2
+2026,Colorado,Weather,Wind,Injury,114
+2026,Colorado,Weather,Wind,No injury reported,314
+2026,Colorado Springs,Lighting,Dark – Lighted,Fatal,10
+2026,Colorado Springs,Lighting,Dark – Lighted,Injury,343
+2026,Colorado Springs,Lighting,Dark – Lighted,No injury reported,665
+2026,Colorado Springs,Lighting,Dark – Unlighted,Injury,41
+2026,Colorado Springs,Lighting,Dark – Unlighted,No injury reported,103
+2026,Colorado Springs,Lighting,Dawn or Dusk,Injury,68
+2026,Colorado Springs,Lighting,Dawn or Dusk,No injury reported,122
+2026,Colorado Springs,Lighting,Daylight,Fatal,18
+2026,Colorado Springs,Lighting,Daylight,Injury,1302
+2026,Colorado Springs,Lighting,Daylight,No injury reported,2520
+2026,Colorado Springs,Road surface,Dry,Fatal,27
+2026,Colorado Springs,Road surface,Dry,Injury,1596
+2026,Colorado Springs,Road surface,Dry,No injury reported,3056
+2026,Colorado Springs,Road surface,Dry W/Visible Icy Road Treatment,Injury,2
+2026,Colorado Springs,Road surface,Foreign Material,Injury,1
+2026,Colorado Springs,Road surface,Icy,Injury,18
+2026,Colorado Springs,Road surface,Icy,No injury reported,58
+2026,Colorado Springs,Road surface,Icy W/Visible Icy Road Treatment,Injury,3
+2026,Colorado Springs,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,4
+2026,Colorado Springs,Road surface,Muddy,Injury,1
+2026,Colorado Springs,Road surface,Roto-Milled,No injury reported,2
+2026,Colorado Springs,Road surface,Sand/Gravel,Injury,4
+2026,Colorado Springs,Road surface,Sand/Gravel,No injury reported,3
+2026,Colorado Springs,Road surface,Slushy,Injury,6
+2026,Colorado Springs,Road surface,Slushy,No injury reported,5
+2026,Colorado Springs,Road surface,Slushy W/Visible Icy Road Treatment,Injury,1
+2026,Colorado Springs,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,1
+2026,Colorado Springs,Road surface,Snowy,Injury,11
+2026,Colorado Springs,Road surface,Snowy,No injury reported,36
+2026,Colorado Springs,Road surface,Snowy W/Visible Icy Road Treatment,Injury,1
+2026,Colorado Springs,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,2
+2026,Colorado Springs,Road surface,Unknown,Injury,1
+2026,Colorado Springs,Road surface,Wet,Fatal,1
+2026,Colorado Springs,Road surface,Wet,Injury,109
+2026,Colorado Springs,Road surface,Wet,No injury reported,242
+2026,Colorado Springs,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,1
+2026,Colorado Springs,Weather,Blowing Snow,Injury,5
+2026,Colorado Springs,Weather,Blowing Snow,No injury reported,10
+2026,Colorado Springs,Weather,Clear,Fatal,27
+2026,Colorado Springs,Weather,Clear,Injury,1528
+2026,Colorado Springs,Weather,Clear,No injury reported,2908
+2026,Colorado Springs,Weather,Cloudy,Injury,103
+2026,Colorado Springs,Weather,Cloudy,No injury reported,251
+2026,Colorado Springs,Weather,Fog,Injury,2
+2026,Colorado Springs,Weather,Freezing Rain or Freezing Drizzle,Injury,4
+2026,Colorado Springs,Weather,Freezing Rain or Freezing Drizzle,No injury reported,1
+2026,Colorado Springs,Weather,Rain,Fatal,1
+2026,Colorado Springs,Weather,Rain,Injury,80
+2026,Colorado Springs,Weather,Rain,No injury reported,161
+2026,Colorado Springs,Weather,Sleet or Hail,Injury,4
+2026,Colorado Springs,Weather,Sleet or Hail,No injury reported,3
+2026,Colorado Springs,Weather,Snow,Injury,24
+2026,Colorado Springs,Weather,Snow,No injury reported,71
+2026,Colorado Springs,Weather,Unknown,Injury,1
+2026,Colorado Springs,Weather,Wind,Injury,3
+2026,Colorado Springs,Weather,Wind,No injury reported,5
+2026,El Paso County,Lighting,Dark – Lighted,Fatal,11
+2026,El Paso County,Lighting,Dark – Lighted,Injury,421
+2026,El Paso County,Lighting,Dark – Lighted,No injury reported,846
+2026,El Paso County,Lighting,Dark – Unlighted,Fatal,4
+2026,El Paso County,Lighting,Dark – Unlighted,Injury,150
+2026,El Paso County,Lighting,Dark – Unlighted,No injury reported,372
+2026,El Paso County,Lighting,Dawn or Dusk,Injury,107
+2026,El Paso County,Lighting,Dawn or Dusk,No injury reported,219
+2026,El Paso County,Lighting,Daylight,Fatal,25
+2026,El Paso County,Lighting,Daylight,Injury,1709
+2026,El Paso County,Lighting,Daylight,No injury reported,3608
+2026,El Paso County,Road surface,Dry,Fatal,36
+2026,El Paso County,Road surface,Dry,Injury,2145
+2026,El Paso County,Road surface,Dry,No injury reported,4458
+2026,El Paso County,Road surface,Dry W/Visible Icy Road Treatment,Injury,2
+2026,El Paso County,Road surface,Dry W/Visible Icy Road Treatment,No injury reported,1
+2026,El Paso County,Road surface,Foreign Material,Injury,2
+2026,El Paso County,Road surface,Icy,Fatal,2
+2026,El Paso County,Road surface,Icy,Injury,51
+2026,El Paso County,Road surface,Icy,No injury reported,134
+2026,El Paso County,Road surface,Icy W/Visible Icy Road Treatment,Injury,5
+2026,El Paso County,Road surface,Icy W/Visible Icy Road Treatment,No injury reported,5
+2026,El Paso County,Road surface,Muddy,Injury,1
+2026,El Paso County,Road surface,Muddy,No injury reported,3
+2026,El Paso County,Road surface,Roto-Milled,No injury reported,2
+2026,El Paso County,Road surface,Sand/Gravel,Fatal,1
+2026,El Paso County,Road surface,Sand/Gravel,Injury,5
+2026,El Paso County,Road surface,Sand/Gravel,No injury reported,5
+2026,El Paso County,Road surface,Slushy,Injury,9
+2026,El Paso County,Road surface,Slushy,No injury reported,13
+2026,El Paso County,Road surface,Slushy W/Visible Icy Road Treatment,Injury,1
+2026,El Paso County,Road surface,Slushy W/Visible Icy Road Treatment,No injury reported,3
+2026,El Paso County,Road surface,Snowy,Injury,22
+2026,El Paso County,Road surface,Snowy,No injury reported,73
+2026,El Paso County,Road surface,Snowy W/Visible Icy Road Treatment,Injury,1
+2026,El Paso County,Road surface,Snowy W/Visible Icy Road Treatment,No injury reported,5
+2026,El Paso County,Road surface,Unknown,Injury,1
+2026,El Paso County,Road surface,Unknown,No injury reported,1
+2026,El Paso County,Road surface,Wet,Fatal,1
+2026,El Paso County,Road surface,Wet,Injury,142
+2026,El Paso County,Road surface,Wet,No injury reported,341
+2026,El Paso County,Road surface,Wet W/Visible Icy Road Treatment,No injury reported,1
+2026,El Paso County,Weather,Blowing Snow,Injury,9
+2026,El Paso County,Weather,Blowing Snow,No injury reported,13
+2026,El Paso County,Weather,Clear,Fatal,37
+2026,El Paso County,Weather,Clear,Injury,2039
+2026,El Paso County,Weather,Clear,No injury reported,4255
+2026,El Paso County,Weather,Cloudy,Fatal,2
+2026,El Paso County,Weather,Cloudy,Injury,158
+2026,El Paso County,Weather,Cloudy,No injury reported,378
+2026,El Paso County,Weather,Fog,Injury,4
+2026,El Paso County,Weather,Fog,No injury reported,3
+2026,El Paso County,Weather,Freezing Rain or Freezing Drizzle,Injury,5
+2026,El Paso County,Weather,Freezing Rain or Freezing Drizzle,No injury reported,2
+2026,El Paso County,Weather,Rain,Fatal,1
+2026,El Paso County,Weather,Rain,Injury,104
+2026,El Paso County,Weather,Rain,No injury reported,226
+2026,El Paso County,Weather,Sleet or Hail,Injury,5
+2026,El Paso County,Weather,Sleet or Hail,No injury reported,4
+2026,El Paso County,Weather,Snow,Injury,54
+2026,El Paso County,Weather,Snow,No injury reported,150
+2026,El Paso County,Weather,Unknown,Injury,1
+2026,El Paso County,Weather,Wind,Injury,8
+2026,El Paso County,Weather,Wind,No injury reported,14

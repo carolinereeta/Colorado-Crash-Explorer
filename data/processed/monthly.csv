@@ -1,0 +1,616 @@
+year,area,month,severity,crashes
+2021,Colorado,1,Fatal,42
+2021,Colorado,1,Injury,1815
+2021,Colorado,1,No injury reported,5636
+2021,Colorado,2,Fatal,33
+2021,Colorado,2,Injury,1773
+2021,Colorado,2,No injury reported,5485
+2021,Colorado,3,Fatal,32
+2021,Colorado,3,Injury,1914
+2021,Colorado,3,No injury reported,5672
+2021,Colorado,4,Fatal,57
+2021,Colorado,4,Injury,2026
+2021,Colorado,4,No injury reported,5435
+2021,Colorado,5,Fatal,49
+2021,Colorado,5,Injury,2029
+2021,Colorado,5,No injury reported,5778
+2021,Colorado,6,Fatal,67
+2021,Colorado,6,Injury,2255
+2021,Colorado,6,No injury reported,5802
+2021,Colorado,7,Fatal,64
+2021,Colorado,7,Injury,2250
+2021,Colorado,7,No injury reported,5886
+2021,Colorado,8,Fatal,60
+2021,Colorado,8,Injury,2289
+2021,Colorado,8,No injury reported,5818
+2021,Colorado,9,Fatal,56
+2021,Colorado,9,Injury,2472
+2021,Colorado,9,No injury reported,6334
+2021,Colorado,10,Fatal,75
+2021,Colorado,10,Injury,2430
+2021,Colorado,10,No injury reported,6731
+2021,Colorado,11,Fatal,63
+2021,Colorado,11,Injury,2104
+2021,Colorado,11,No injury reported,6333
+2021,Colorado,12,Fatal,40
+2021,Colorado,12,Injury,2314
+2021,Colorado,12,No injury reported,6569
+2021,Colorado Springs,1,Fatal,3
+2021,Colorado Springs,1,Injury,208
+2021,Colorado Springs,1,No injury reported,412
+2021,Colorado Springs,2,Fatal,1
+2021,Colorado Springs,2,Injury,184
+2021,Colorado Springs,2,No injury reported,410
+2021,Colorado Springs,3,Fatal,4
+2021,Colorado Springs,3,Injury,228
+2021,Colorado Springs,3,No injury reported,431
+2021,Colorado Springs,4,Fatal,6
+2021,Colorado Springs,4,Injury,225
+2021,Colorado Springs,4,No injury reported,450
+2021,Colorado Springs,5,Fatal,2
+2021,Colorado Springs,5,Injury,222
+2021,Colorado Springs,5,No injury reported,370
+2021,Colorado Springs,6,Fatal,5
+2021,Colorado Springs,6,Injury,241
+2021,Colorado Springs,6,No injury reported,438
+2021,Colorado Springs,7,Fatal,4
+2021,Colorado Springs,7,Injury,240
+2021,Colorado Springs,7,No injury reported,502
+2021,Colorado Springs,8,Fatal,9
+2021,Colorado Springs,8,Injury,250
+2021,Colorado Springs,8,No injury reported,495
+2021,Colorado Springs,9,Fatal,2
+2021,Colorado Springs,9,Injury,270
+2021,Colorado Springs,9,No injury reported,454
+2021,Colorado Springs,10,Fatal,4
+2021,Colorado Springs,10,Injury,221
+2021,Colorado Springs,10,No injury reported,524
+2021,Colorado Springs,11,Fatal,3
+2021,Colorado Springs,11,Injury,200
+2021,Colorado Springs,11,No injury reported,520
+2021,Colorado Springs,12,Fatal,6
+2021,Colorado Springs,12,Injury,236
+2021,Colorado Springs,12,No injury reported,510
+2021,El Paso County,1,Fatal,3
+2021,El Paso County,1,Injury,280
+2021,El Paso County,1,No injury reported,545
+2021,El Paso County,2,Fatal,3
+2021,El Paso County,2,Injury,257
+2021,El Paso County,2,No injury reported,524
+2021,El Paso County,3,Fatal,5
+2021,El Paso County,3,Injury,290
+2021,El Paso County,3,No injury reported,556
+2021,El Paso County,4,Fatal,11
+2021,El Paso County,4,Injury,297
+2021,El Paso County,4,No injury reported,576
+2021,El Paso County,5,Fatal,5
+2021,El Paso County,5,Injury,299
+2021,El Paso County,5,No injury reported,505
+2021,El Paso County,6,Fatal,7
+2021,El Paso County,6,Injury,315
+2021,El Paso County,6,No injury reported,573
+2021,El Paso County,7,Fatal,6
+2021,El Paso County,7,Injury,324
+2021,El Paso County,7,No injury reported,655
+2021,El Paso County,8,Fatal,12
+2021,El Paso County,8,Injury,338
+2021,El Paso County,8,No injury reported,643
+2021,El Paso County,9,Fatal,5
+2021,El Paso County,9,Injury,352
+2021,El Paso County,9,No injury reported,637
+2021,El Paso County,10,Fatal,5
+2021,El Paso County,10,Injury,304
+2021,El Paso County,10,No injury reported,689
+2021,El Paso County,11,Fatal,3
+2021,El Paso County,11,Injury,293
+2021,El Paso County,11,No injury reported,701
+2021,El Paso County,12,Fatal,8
+2021,El Paso County,12,Injury,313
+2021,El Paso County,12,No injury reported,661
+2022,Colorado,1,Fatal,39
+2022,Colorado,1,Injury,1953
+2022,Colorado,1,No injury reported,6475
+2022,Colorado,2,Fatal,42
+2022,Colorado,2,Injury,1719
+2022,Colorado,2,No injury reported,5996
+2022,Colorado,3,Fatal,43
+2022,Colorado,3,Injury,1990
+2022,Colorado,3,No injury reported,5915
+2022,Colorado,4,Fatal,58
+2022,Colorado,4,Injury,1966
+2022,Colorado,4,No injury reported,5378
+2022,Colorado,5,Fatal,59
+2022,Colorado,5,Injury,2155
+2022,Colorado,5,No injury reported,5638
+2022,Colorado,6,Fatal,68
+2022,Colorado,6,Injury,2197
+2022,Colorado,6,No injury reported,5562
+2022,Colorado,7,Fatal,58
+2022,Colorado,7,Injury,2276
+2022,Colorado,7,No injury reported,5545
+2022,Colorado,8,Fatal,75
+2022,Colorado,8,Injury,2466
+2022,Colorado,8,No injury reported,6125
+2022,Colorado,9,Fatal,81
+2022,Colorado,9,Injury,2356
+2022,Colorado,9,No injury reported,5887
+2022,Colorado,10,Fatal,74
+2022,Colorado,10,Injury,1506
+2022,Colorado,10,No injury reported,4092
+2022,Colorado,11,Fatal,55
+2022,Colorado,11,Injury,2016
+2022,Colorado,11,No injury reported,6238
+2022,Colorado,12,Fatal,47
+2022,Colorado,12,Injury,2183
+2022,Colorado,12,No injury reported,7047
+2022,Colorado Springs,1,Fatal,2
+2022,Colorado Springs,1,Injury,217
+2022,Colorado Springs,1,No injury reported,483
+2022,Colorado Springs,2,Fatal,1
+2022,Colorado Springs,2,Injury,153
+2022,Colorado Springs,2,No injury reported,434
+2022,Colorado Springs,3,Fatal,3
+2022,Colorado Springs,3,Injury,211
+2022,Colorado Springs,3,No injury reported,450
+2022,Colorado Springs,4,Fatal,6
+2022,Colorado Springs,4,Injury,219
+2022,Colorado Springs,4,No injury reported,462
+2022,Colorado Springs,5,Fatal,2
+2022,Colorado Springs,5,Injury,244
+2022,Colorado Springs,5,No injury reported,437
+2022,Colorado Springs,6,Fatal,6
+2022,Colorado Springs,6,Injury,213
+2022,Colorado Springs,6,No injury reported,402
+2022,Colorado Springs,7,Fatal,3
+2022,Colorado Springs,7,Injury,243
+2022,Colorado Springs,7,No injury reported,395
+2022,Colorado Springs,8,Fatal,9
+2022,Colorado Springs,8,Injury,229
+2022,Colorado Springs,8,No injury reported,443
+2022,Colorado Springs,9,Fatal,5
+2022,Colorado Springs,9,Injury,237
+2022,Colorado Springs,9,No injury reported,429
+2022,Colorado Springs,10,Fatal,7
+2022,Colorado Springs,10,Injury,151
+2022,Colorado Springs,10,No injury reported,257
+2022,Colorado Springs,11,Fatal,5
+2022,Colorado Springs,11,Injury,208
+2022,Colorado Springs,11,No injury reported,404
+2022,Colorado Springs,12,Fatal,3
+2022,Colorado Springs,12,Injury,209
+2022,Colorado Springs,12,No injury reported,446
+2022,El Paso County,1,Fatal,2
+2022,El Paso County,1,Injury,299
+2022,El Paso County,1,No injury reported,621
+2022,El Paso County,2,Fatal,3
+2022,El Paso County,2,Injury,207
+2022,El Paso County,2,No injury reported,549
+2022,El Paso County,3,Fatal,3
+2022,El Paso County,3,Injury,264
+2022,El Paso County,3,No injury reported,592
+2022,El Paso County,4,Fatal,10
+2022,El Paso County,4,Injury,280
+2022,El Paso County,4,No injury reported,568
+2022,El Paso County,5,Fatal,3
+2022,El Paso County,5,Injury,320
+2022,El Paso County,5,No injury reported,577
+2022,El Paso County,6,Fatal,9
+2022,El Paso County,6,Injury,313
+2022,El Paso County,6,No injury reported,543
+2022,El Paso County,7,Fatal,4
+2022,El Paso County,7,Injury,307
+2022,El Paso County,7,No injury reported,556
+2022,El Paso County,8,Fatal,11
+2022,El Paso County,8,Injury,328
+2022,El Paso County,8,No injury reported,634
+2022,El Paso County,9,Fatal,9
+2022,El Paso County,9,Injury,309
+2022,El Paso County,9,No injury reported,613
+2022,El Paso County,10,Fatal,13
+2022,El Paso County,10,Injury,185
+2022,El Paso County,10,No injury reported,346
+2022,El Paso County,11,Fatal,6
+2022,El Paso County,11,Injury,273
+2022,El Paso County,11,No injury reported,552
+2022,El Paso County,12,Fatal,6
+2022,El Paso County,12,Injury,285
+2022,El Paso County,12,No injury reported,622
+2023,Colorado,1,Fatal,42
+2023,Colorado,1,Injury,1997
+2023,Colorado,1,No injury reported,6937
+2023,Colorado,2,Fatal,48
+2023,Colorado,2,Injury,1851
+2023,Colorado,2,No injury reported,6093
+2023,Colorado,3,Fatal,38
+2023,Colorado,3,Injury,2034
+2023,Colorado,3,No injury reported,6047
+2023,Colorado,4,Fatal,65
+2023,Colorado,4,Injury,1816
+2023,Colorado,4,No injury reported,5272
+2023,Colorado,5,Fatal,51
+2023,Colorado,5,Injury,2400
+2023,Colorado,5,No injury reported,6185
+2023,Colorado,6,Fatal,58
+2023,Colorado,6,Injury,2301
+2023,Colorado,6,No injury reported,6078
+2023,Colorado,7,Fatal,81
+2023,Colorado,7,Injury,2419
+2023,Colorado,7,No injury reported,5945
+2023,Colorado,8,Fatal,61
+2023,Colorado,8,Injury,2536
+2023,Colorado,8,No injury reported,6540
+2023,Colorado,9,Fatal,69
+2023,Colorado,9,Injury,2507
+2023,Colorado,9,No injury reported,5916
+2023,Colorado,10,Fatal,64
+2023,Colorado,10,Injury,2551
+2023,Colorado,10,No injury reported,6877
+2023,Colorado,11,Fatal,41
+2023,Colorado,11,Injury,2230
+2023,Colorado,11,No injury reported,6582
+2023,Colorado,12,Fatal,48
+2023,Colorado,12,Injury,2187
+2023,Colorado,12,No injury reported,6801
+2023,Colorado Springs,1,Fatal,1
+2023,Colorado Springs,1,Injury,189
+2023,Colorado Springs,1,No injury reported,408
+2023,Colorado Springs,2,Fatal,11
+2023,Colorado Springs,2,Injury,179
+2023,Colorado Springs,2,No injury reported,381
+2023,Colorado Springs,3,Fatal,4
+2023,Colorado Springs,3,Injury,179
+2023,Colorado Springs,3,No injury reported,369
+2023,Colorado Springs,4,Fatal,4
+2023,Colorado Springs,4,Injury,166
+2023,Colorado Springs,4,No injury reported,336
+2023,Colorado Springs,5,Injury,221
+2023,Colorado Springs,5,No injury reported,437
+2023,Colorado Springs,6,Fatal,5
+2023,Colorado Springs,6,Injury,226
+2023,Colorado Springs,6,No injury reported,436
+2023,Colorado Springs,7,Fatal,3
+2023,Colorado Springs,7,Injury,226
+2023,Colorado Springs,7,No injury reported,395
+2023,Colorado Springs,8,Fatal,2
+2023,Colorado Springs,8,Injury,240
+2023,Colorado Springs,8,No injury reported,370
+2023,Colorado Springs,9,Fatal,5
+2023,Colorado Springs,9,Injury,231
+2023,Colorado Springs,9,No injury reported,367
+2023,Colorado Springs,10,Fatal,8
+2023,Colorado Springs,10,Injury,255
+2023,Colorado Springs,10,No injury reported,447
+2023,Colorado Springs,11,Fatal,2
+2023,Colorado Springs,11,Injury,192
+2023,Colorado Springs,11,No injury reported,339
+2023,Colorado Springs,12,Fatal,3
+2023,Colorado Springs,12,Injury,157
+2023,Colorado Springs,12,No injury reported,403
+2023,El Paso County,1,Fatal,5
+2023,El Paso County,1,Injury,263
+2023,El Paso County,1,No injury reported,608
+2023,El Paso County,2,Fatal,15
+2023,El Paso County,2,Injury,247
+2023,El Paso County,2,No injury reported,509
+2023,El Paso County,3,Fatal,7
+2023,El Paso County,3,Injury,245
+2023,El Paso County,3,No injury reported,529
+2023,El Paso County,4,Fatal,6
+2023,El Paso County,4,Injury,220
+2023,El Paso County,4,No injury reported,490
+2023,El Paso County,5,Injury,291
+2023,El Paso County,5,No injury reported,622
+2023,El Paso County,6,Fatal,6
+2023,El Paso County,6,Injury,326
+2023,El Paso County,6,No injury reported,599
+2023,El Paso County,7,Fatal,7
+2023,El Paso County,7,Injury,312
+2023,El Paso County,7,No injury reported,567
+2023,El Paso County,8,Fatal,2
+2023,El Paso County,8,Injury,334
+2023,El Paso County,8,No injury reported,553
+2023,El Paso County,9,Fatal,5
+2023,El Paso County,9,Injury,315
+2023,El Paso County,9,No injury reported,531
+2023,El Paso County,10,Fatal,12
+2023,El Paso County,10,Injury,363
+2023,El Paso County,10,No injury reported,671
+2023,El Paso County,11,Fatal,8
+2023,El Paso County,11,Injury,289
+2023,El Paso County,11,No injury reported,539
+2023,El Paso County,12,Fatal,3
+2023,El Paso County,12,Injury,243
+2023,El Paso County,12,No injury reported,597
+2024,Colorado,1,Fatal,32
+2024,Colorado,1,Injury,1967
+2024,Colorado,1,No injury reported,6830
+2024,Colorado,2,Fatal,39
+2024,Colorado,2,Injury,1969
+2024,Colorado,2,No injury reported,6251
+2024,Colorado,3,Fatal,51
+2024,Colorado,3,Injury,2032
+2024,Colorado,3,No injury reported,6000
+2024,Colorado,4,Fatal,41
+2024,Colorado,4,Injury,2033
+2024,Colorado,4,No injury reported,5684
+2024,Colorado,5,Fatal,63
+2024,Colorado,5,Injury,2253
+2024,Colorado,5,No injury reported,5882
+2024,Colorado,6,Fatal,58
+2024,Colorado,6,Injury,2140
+2024,Colorado,6,No injury reported,5638
+2024,Colorado,7,Fatal,75
+2024,Colorado,7,Injury,2234
+2024,Colorado,7,No injury reported,5549
+2024,Colorado,8,Fatal,61
+2024,Colorado,8,Injury,2525
+2024,Colorado,8,No injury reported,6293
+2024,Colorado,9,Fatal,77
+2024,Colorado,9,Injury,2503
+2024,Colorado,9,No injury reported,6231
+2024,Colorado,10,Fatal,70
+2024,Colorado,10,Injury,2456
+2024,Colorado,10,No injury reported,6600
+2024,Colorado,11,Fatal,35
+2024,Colorado,11,Injury,2002
+2024,Colorado,11,No injury reported,6589
+2024,Colorado,12,Fatal,40
+2024,Colorado,12,Injury,2058
+2024,Colorado,12,No injury reported,6319
+2024,Colorado Springs,1,Fatal,6
+2024,Colorado Springs,1,Injury,182
+2024,Colorado Springs,1,No injury reported,398
+2024,Colorado Springs,2,Fatal,4
+2024,Colorado Springs,2,Injury,166
+2024,Colorado Springs,2,No injury reported,362
+2024,Colorado Springs,3,Fatal,4
+2024,Colorado Springs,3,Injury,184
+2024,Colorado Springs,3,No injury reported,334
+2024,Colorado Springs,4,Fatal,3
+2024,Colorado Springs,4,Injury,194
+2024,Colorado Springs,4,No injury reported,356
+2024,Colorado Springs,5,Fatal,5
+2024,Colorado Springs,5,Injury,215
+2024,Colorado Springs,5,No injury reported,359
+2024,Colorado Springs,6,Fatal,4
+2024,Colorado Springs,6,Injury,175
+2024,Colorado Springs,6,No injury reported,311
+2024,Colorado Springs,7,Fatal,1
+2024,Colorado Springs,7,Injury,166
+2024,Colorado Springs,7,No injury reported,273
+2024,Colorado Springs,8,Fatal,5
+2024,Colorado Springs,8,Injury,211
+2024,Colorado Springs,8,No injury reported,315
+2024,Colorado Springs,9,Fatal,3
+2024,Colorado Springs,9,Injury,205
+2024,Colorado Springs,9,No injury reported,347
+2024,Colorado Springs,10,Fatal,4
+2024,Colorado Springs,10,Injury,207
+2024,Colorado Springs,10,No injury reported,363
+2024,Colorado Springs,11,Fatal,3
+2024,Colorado Springs,11,Injury,167
+2024,Colorado Springs,11,No injury reported,376
+2024,Colorado Springs,12,Fatal,2
+2024,Colorado Springs,12,Injury,180
+2024,Colorado Springs,12,No injury reported,361
+2024,El Paso County,1,Fatal,6
+2024,El Paso County,1,Injury,257
+2024,El Paso County,1,No injury reported,590
+2024,El Paso County,2,Fatal,5
+2024,El Paso County,2,Injury,246
+2024,El Paso County,2,No injury reported,552
+2024,El Paso County,3,Fatal,5
+2024,El Paso County,3,Injury,275
+2024,El Paso County,3,No injury reported,513
+2024,El Paso County,4,Fatal,4
+2024,El Paso County,4,Injury,255
+2024,El Paso County,4,No injury reported,511
+2024,El Paso County,5,Fatal,6
+2024,El Paso County,5,Injury,313
+2024,El Paso County,5,No injury reported,526
+2024,El Paso County,6,Fatal,7
+2024,El Paso County,6,Injury,252
+2024,El Paso County,6,No injury reported,491
+2024,El Paso County,7,Fatal,6
+2024,El Paso County,7,Injury,255
+2024,El Paso County,7,No injury reported,480
+2024,El Paso County,8,Fatal,7
+2024,El Paso County,8,Injury,304
+2024,El Paso County,8,No injury reported,524
+2024,El Paso County,9,Fatal,10
+2024,El Paso County,9,Injury,290
+2024,El Paso County,9,No injury reported,522
+2024,El Paso County,10,Fatal,8
+2024,El Paso County,10,Injury,283
+2024,El Paso County,10,No injury reported,568
+2024,El Paso County,11,Fatal,5
+2024,El Paso County,11,Injury,242
+2024,El Paso County,11,No injury reported,592
+2024,El Paso County,12,Fatal,4
+2024,El Paso County,12,Injury,252
+2024,El Paso County,12,No injury reported,538
+2025,Colorado,1,Fatal,24
+2025,Colorado,1,Injury,1845
+2025,Colorado,1,No injury reported,6360
+2025,Colorado,2,Fatal,35
+2025,Colorado,2,Injury,1737
+2025,Colorado,2,No injury reported,5057
+2025,Colorado,3,Fatal,51
+2025,Colorado,3,Injury,1870
+2025,Colorado,3,No injury reported,5455
+2025,Colorado,4,Fatal,51
+2025,Colorado,4,Injury,1995
+2025,Colorado,4,No injury reported,5537
+2025,Colorado,5,Fatal,58
+2025,Colorado,5,Injury,2037
+2025,Colorado,5,No injury reported,5468
+2025,Colorado,6,Fatal,54
+2025,Colorado,6,Injury,1671
+2025,Colorado,6,No injury reported,4678
+2025,Colorado,7,Fatal,62
+2025,Colorado,7,Injury,2251
+2025,Colorado,7,No injury reported,5562
+2025,Colorado,8,Fatal,73
+2025,Colorado,8,Injury,2424
+2025,Colorado,8,No injury reported,6248
+2025,Colorado,9,Fatal,57
+2025,Colorado,9,Injury,2451
+2025,Colorado,9,No injury reported,6369
+2025,Colorado,10,Fatal,56
+2025,Colorado,10,Injury,2419
+2025,Colorado,10,No injury reported,6822
+2025,Colorado,11,Fatal,70
+2025,Colorado,11,Injury,2094
+2025,Colorado,11,No injury reported,6440
+2025,Colorado,12,Fatal,67
+2025,Colorado,12,Injury,2003
+2025,Colorado,12,No injury reported,6245
+2025,Colorado Springs,1,Injury,168
+2025,Colorado Springs,1,No injury reported,398
+2025,Colorado Springs,2,Fatal,2
+2025,Colorado Springs,2,Injury,163
+2025,Colorado Springs,2,No injury reported,294
+2025,Colorado Springs,3,Fatal,3
+2025,Colorado Springs,3,Injury,193
+2025,Colorado Springs,3,No injury reported,376
+2025,Colorado Springs,4,Fatal,4
+2025,Colorado Springs,4,Injury,184
+2025,Colorado Springs,4,No injury reported,363
+2025,Colorado Springs,5,Fatal,7
+2025,Colorado Springs,5,Injury,192
+2025,Colorado Springs,5,No injury reported,423
+2025,Colorado Springs,6,Fatal,6
+2025,Colorado Springs,6,Injury,141
+2025,Colorado Springs,6,No injury reported,281
+2025,Colorado Springs,7,Fatal,7
+2025,Colorado Springs,7,Injury,218
+2025,Colorado Springs,7,No injury reported,398
+2025,Colorado Springs,8,Fatal,5
+2025,Colorado Springs,8,Injury,218
+2025,Colorado Springs,8,No injury reported,412
+2025,Colorado Springs,9,Fatal,5
+2025,Colorado Springs,9,Injury,238
+2025,Colorado Springs,9,No injury reported,389
+2025,Colorado Springs,10,Fatal,4
+2025,Colorado Springs,10,Injury,236
+2025,Colorado Springs,10,No injury reported,419
+2025,Colorado Springs,11,Injury,223
+2025,Colorado Springs,11,No injury reported,444
+2025,Colorado Springs,12,Fatal,5
+2025,Colorado Springs,12,Injury,182
+2025,Colorado Springs,12,No injury reported,361
+2025,El Paso County,1,Fatal,4
+2025,El Paso County,1,Injury,231
+2025,El Paso County,1,No injury reported,627
+2025,El Paso County,2,Fatal,3
+2025,El Paso County,2,Injury,222
+2025,El Paso County,2,No injury reported,430
+2025,El Paso County,3,Fatal,3
+2025,El Paso County,3,Injury,255
+2025,El Paso County,3,No injury reported,532
+2025,El Paso County,4,Fatal,4
+2025,El Paso County,4,Injury,262
+2025,El Paso County,4,No injury reported,517
+2025,El Paso County,5,Fatal,10
+2025,El Paso County,5,Injury,266
+2025,El Paso County,5,No injury reported,580
+2025,El Paso County,6,Fatal,9
+2025,El Paso County,6,Injury,190
+2025,El Paso County,6,No injury reported,404
+2025,El Paso County,7,Fatal,10
+2025,El Paso County,7,Injury,289
+2025,El Paso County,7,No injury reported,572
+2025,El Paso County,8,Fatal,6
+2025,El Paso County,8,Injury,309
+2025,El Paso County,8,No injury reported,593
+2025,El Paso County,9,Fatal,7
+2025,El Paso County,9,Injury,329
+2025,El Paso County,9,No injury reported,574
+2025,El Paso County,10,Fatal,6
+2025,El Paso County,10,Injury,333
+2025,El Paso County,10,No injury reported,606
+2025,El Paso County,11,Fatal,2
+2025,El Paso County,11,Injury,297
+2025,El Paso County,11,No injury reported,646
+2025,El Paso County,12,Fatal,7
+2025,El Paso County,12,Injury,256
+2025,El Paso County,12,No injury reported,549
+2026,Colorado,1,Fatal,42
+2026,Colorado,1,Injury,1881
+2026,Colorado,1,No injury reported,5759
+2026,Colorado,2,Fatal,37
+2026,Colorado,2,Injury,1683
+2026,Colorado,2,No injury reported,5266
+2026,Colorado,3,Fatal,36
+2026,Colorado,3,Injury,2099
+2026,Colorado,3,No injury reported,5861
+2026,Colorado,4,Fatal,34
+2026,Colorado,4,Injury,2031
+2026,Colorado,4,No injury reported,5817
+2026,Colorado,5,Fatal,35
+2026,Colorado,5,Injury,1952
+2026,Colorado,5,No injury reported,5593
+2026,Colorado,6,Fatal,41
+2026,Colorado,6,Injury,2242
+2026,Colorado,6,No injury reported,5982
+2026,Colorado,7,Fatal,41
+2026,Colorado,7,Injury,2269
+2026,Colorado,7,No injury reported,5968
+2026,Colorado,8,Fatal,34
+2026,Colorado,8,Injury,2275
+2026,Colorado,8,No injury reported,5740
+2026,Colorado,9,Fatal,22
+2026,Colorado,9,Injury,1821
+2026,Colorado,9,No injury reported,4970
+2026,Colorado Springs,1,Fatal,1
+2026,Colorado Springs,1,Injury,193
+2026,Colorado Springs,1,No injury reported,389
+2026,Colorado Springs,2,Fatal,2
+2026,Colorado Springs,2,Injury,134
+2026,Colorado Springs,2,No injury reported,344
+2026,Colorado Springs,3,Fatal,4
+2026,Colorado Springs,3,Injury,216
+2026,Colorado Springs,3,No injury reported,384
+2026,Colorado Springs,4,Fatal,5
+2026,Colorado Springs,4,Injury,189
+2026,Colorado Springs,4,No injury reported,380
+2026,Colorado Springs,5,Fatal,4
+2026,Colorado Springs,5,Injury,182
+2026,Colorado Springs,5,No injury reported,370
+2026,Colorado Springs,6,Fatal,5
+2026,Colorado Springs,6,Injury,202
+2026,Colorado Springs,6,No injury reported,370
+2026,Colorado Springs,7,Fatal,4
+2026,Colorado Springs,7,Injury,214
+2026,Colorado Springs,7,No injury reported,412
+2026,Colorado Springs,8,Fatal,3
+2026,Colorado Springs,8,Injury,235
+2026,Colorado Springs,8,No injury reported,382
+2026,Colorado Springs,9,Injury,189
+2026,Colorado Springs,9,No injury reported,379
+2026,El Paso County,1,Fatal,5
+2026,El Paso County,1,Injury,260
+2026,El Paso County,1,No injury reported,568
+2026,El Paso County,2,Fatal,3
+2026,El Paso County,2,Injury,189
+2026,El Paso County,2,No injury reported,480
+2026,El Paso County,3,Fatal,6
+2026,El Paso County,3,Injury,304
+2026,El Paso County,3,No injury reported,589
+2026,El Paso County,4,Fatal,6
+2026,El Paso County,4,Injury,249
+2026,El Paso County,4,No injury reported,580
+2026,El Paso County,5,Fatal,7
+2026,El Paso County,5,Injury,256
+2026,El Paso County,5,No injury reported,535
+2026,El Paso County,6,Fatal,5
+2026,El Paso County,6,Injury,289
+2026,El Paso County,6,No injury reported,582
+2026,El Paso County,7,Fatal,5
+2026,El Paso County,7,Injury,279
+2026,El Paso County,7,No injury reported,640
+2026,El Paso County,8,Fatal,3
+2026,El Paso County,8,Injury,296
+2026,El Paso County,8,No injury reported,546
+2026,El Paso County,9,Injury,265
+2026,El Paso County,9,No injury reported,525

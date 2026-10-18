@@ -1,0 +1,159 @@
+year,area,type,severity,crashes
+2021,Colorado,Cyclist recorded,Fatal,15
+2021,Colorado,Cyclist recorded,Injury,759
+2021,Colorado,Cyclist recorded,No injury reported,199
+2021,Colorado,Other non-motorist recorded,Fatal,2
+2021,Colorado,Other non-motorist recorded,Injury,145
+2021,Colorado,Other non-motorist recorded,No injury reported,52
+2021,Colorado,Pedestrian recorded,Fatal,85
+2021,Colorado,Pedestrian recorded,Injury,877
+2021,Colorado,Pedestrian recorded,No injury reported,185
+2021,Colorado Springs,Cyclist recorded,Fatal,2
+2021,Colorado Springs,Cyclist recorded,Injury,55
+2021,Colorado Springs,Cyclist recorded,No injury reported,15
+2021,Colorado Springs,Other non-motorist recorded,Injury,10
+2021,Colorado Springs,Other non-motorist recorded,No injury reported,5
+2021,Colorado Springs,Pedestrian recorded,Fatal,12
+2021,Colorado Springs,Pedestrian recorded,Injury,82
+2021,Colorado Springs,Pedestrian recorded,No injury reported,22
+2021,El Paso County,Cyclist recorded,Fatal,3
+2021,El Paso County,Cyclist recorded,Injury,64
+2021,El Paso County,Cyclist recorded,No injury reported,16
+2021,El Paso County,Other non-motorist recorded,Injury,10
+2021,El Paso County,Other non-motorist recorded,No injury reported,9
+2021,El Paso County,Pedestrian recorded,Fatal,15
+2021,El Paso County,Pedestrian recorded,Injury,98
+2021,El Paso County,Pedestrian recorded,No injury reported,23
+2022,Colorado,Cyclist recorded,Fatal,15
+2022,Colorado,Cyclist recorded,Injury,703
+2022,Colorado,Cyclist recorded,No injury reported,199
+2022,Colorado,Other non-motorist recorded,Fatal,7
+2022,Colorado,Other non-motorist recorded,Injury,157
+2022,Colorado,Other non-motorist recorded,No injury reported,66
+2022,Colorado,Pedestrian recorded,Fatal,100
+2022,Colorado,Pedestrian recorded,Injury,887
+2022,Colorado,Pedestrian recorded,No injury reported,163
+2022,Colorado Springs,Cyclist recorded,Fatal,2
+2022,Colorado Springs,Cyclist recorded,Injury,47
+2022,Colorado Springs,Cyclist recorded,No injury reported,13
+2022,Colorado Springs,Other non-motorist recorded,Fatal,1
+2022,Colorado Springs,Other non-motorist recorded,Injury,15
+2022,Colorado Springs,Other non-motorist recorded,No injury reported,5
+2022,Colorado Springs,Pedestrian recorded,Fatal,5
+2022,Colorado Springs,Pedestrian recorded,Injury,105
+2022,Colorado Springs,Pedestrian recorded,No injury reported,25
+2022,El Paso County,Cyclist recorded,Fatal,3
+2022,El Paso County,Cyclist recorded,Injury,54
+2022,El Paso County,Cyclist recorded,No injury reported,15
+2022,El Paso County,Other non-motorist recorded,Fatal,2
+2022,El Paso County,Other non-motorist recorded,Injury,16
+2022,El Paso County,Other non-motorist recorded,No injury reported,5
+2022,El Paso County,Pedestrian recorded,Fatal,7
+2022,El Paso County,Pedestrian recorded,Injury,112
+2022,El Paso County,Pedestrian recorded,No injury reported,27
+2023,Colorado,Cyclist recorded,Fatal,20
+2023,Colorado,Cyclist recorded,Injury,891
+2023,Colorado,Cyclist recorded,No injury reported,185
+2023,Colorado,Other non-motorist recorded,Fatal,9
+2023,Colorado,Other non-motorist recorded,Injury,264
+2023,Colorado,Other non-motorist recorded,No injury reported,83
+2023,Colorado,Pedestrian recorded,Fatal,120
+2023,Colorado,Pedestrian recorded,Injury,1035
+2023,Colorado,Pedestrian recorded,No injury reported,146
+2023,Colorado Springs,Cyclist recorded,Fatal,2
+2023,Colorado Springs,Cyclist recorded,Injury,58
+2023,Colorado Springs,Cyclist recorded,No injury reported,8
+2023,Colorado Springs,Other non-motorist recorded,Fatal,1
+2023,Colorado Springs,Other non-motorist recorded,Injury,29
+2023,Colorado Springs,Other non-motorist recorded,No injury reported,4
+2023,Colorado Springs,Pedestrian recorded,Fatal,9
+2023,Colorado Springs,Pedestrian recorded,Injury,87
+2023,Colorado Springs,Pedestrian recorded,No injury reported,10
+2023,El Paso County,Cyclist recorded,Fatal,3
+2023,El Paso County,Cyclist recorded,Injury,73
+2023,El Paso County,Cyclist recorded,No injury reported,10
+2023,El Paso County,Other non-motorist recorded,Fatal,1
+2023,El Paso County,Other non-motorist recorded,Injury,30
+2023,El Paso County,Other non-motorist recorded,No injury reported,4
+2023,El Paso County,Pedestrian recorded,Fatal,14
+2023,El Paso County,Pedestrian recorded,Injury,102
+2023,El Paso County,Pedestrian recorded,No injury reported,12
+2024,Colorado,Cyclist recorded,Fatal,14
+2024,Colorado,Cyclist recorded,Injury,1019
+2024,Colorado,Cyclist recorded,No injury reported,271
+2024,Colorado,Other non-motorist recorded,Fatal,9
+2024,Colorado,Other non-motorist recorded,Injury,364
+2024,Colorado,Other non-motorist recorded,No injury reported,120
+2024,Colorado,Pedestrian recorded,Fatal,103
+2024,Colorado,Pedestrian recorded,Injury,991
+2024,Colorado,Pedestrian recorded,No injury reported,185
+2024,Colorado Springs,Cyclist recorded,Fatal,1
+2024,Colorado Springs,Cyclist recorded,Injury,57
+2024,Colorado Springs,Cyclist recorded,No injury reported,18
+2024,Colorado Springs,Other non-motorist recorded,Fatal,3
+2024,Colorado Springs,Other non-motorist recorded,Injury,20
+2024,Colorado Springs,Other non-motorist recorded,No injury reported,7
+2024,Colorado Springs,Pedestrian recorded,Fatal,10
+2024,Colorado Springs,Pedestrian recorded,Injury,93
+2024,Colorado Springs,Pedestrian recorded,No injury reported,23
+2024,El Paso County,Cyclist recorded,Fatal,1
+2024,El Paso County,Cyclist recorded,Injury,69
+2024,El Paso County,Cyclist recorded,No injury reported,20
+2024,El Paso County,Other non-motorist recorded,Fatal,3
+2024,El Paso County,Other non-motorist recorded,Injury,21
+2024,El Paso County,Other non-motorist recorded,No injury reported,7
+2024,El Paso County,Pedestrian recorded,Fatal,12
+2024,El Paso County,Pedestrian recorded,Injury,116
+2024,El Paso County,Pedestrian recorded,No injury reported,27
+2025,Colorado,Cyclist recorded,Fatal,19
+2025,Colorado,Cyclist recorded,Injury,1013
+2025,Colorado,Cyclist recorded,No injury reported,264
+2025,Colorado,Other non-motorist recorded,Fatal,14
+2025,Colorado,Other non-motorist recorded,Injury,405
+2025,Colorado,Other non-motorist recorded,No injury reported,109
+2025,Colorado,Pedestrian recorded,Fatal,109
+2025,Colorado,Pedestrian recorded,Injury,901
+2025,Colorado,Pedestrian recorded,No injury reported,162
+2025,Colorado Springs,Cyclist recorded,Fatal,1
+2025,Colorado Springs,Cyclist recorded,Injury,64
+2025,Colorado Springs,Cyclist recorded,No injury reported,22
+2025,Colorado Springs,Other non-motorist recorded,Injury,33
+2025,Colorado Springs,Other non-motorist recorded,No injury reported,10
+2025,Colorado Springs,Pedestrian recorded,Fatal,7
+2025,Colorado Springs,Pedestrian recorded,Injury,84
+2025,Colorado Springs,Pedestrian recorded,No injury reported,9
+2025,El Paso County,Cyclist recorded,Fatal,1
+2025,El Paso County,Cyclist recorded,Injury,77
+2025,El Paso County,Cyclist recorded,No injury reported,24
+2025,El Paso County,Other non-motorist recorded,Fatal,1
+2025,El Paso County,Other non-motorist recorded,Injury,35
+2025,El Paso County,Other non-motorist recorded,No injury reported,10
+2025,El Paso County,Pedestrian recorded,Fatal,12
+2025,El Paso County,Pedestrian recorded,Injury,96
+2025,El Paso County,Pedestrian recorded,No injury reported,11
+2026,Colorado,Cyclist recorded,Fatal,11
+2026,Colorado,Cyclist recorded,Injury,914
+2026,Colorado,Cyclist recorded,No injury reported,233
+2026,Colorado,Other non-motorist recorded,Fatal,7
+2026,Colorado,Other non-motorist recorded,Injury,329
+2026,Colorado,Other non-motorist recorded,No injury reported,87
+2026,Colorado,Pedestrian recorded,Fatal,41
+2026,Colorado,Pedestrian recorded,Injury,619
+2026,Colorado,Pedestrian recorded,No injury reported,119
+2026,Colorado Springs,Cyclist recorded,Injury,66
+2026,Colorado Springs,Cyclist recorded,No injury reported,20
+2026,Colorado Springs,Other non-motorist recorded,Fatal,2
+2026,Colorado Springs,Other non-motorist recorded,Injury,30
+2026,Colorado Springs,Other non-motorist recorded,No injury reported,1
+2026,Colorado Springs,Pedestrian recorded,Fatal,4
+2026,Colorado Springs,Pedestrian recorded,Injury,65
+2026,Colorado Springs,Pedestrian recorded,No injury reported,6
+2026,El Paso County,Cyclist recorded,Fatal,1
+2026,El Paso County,Cyclist recorded,Injury,78
+2026,El Paso County,Cyclist recorded,No injury reported,22
+2026,El Paso County,Other non-motorist recorded,Fatal,2
+2026,El Paso County,Other non-motorist recorded,Injury,35
+2026,El Paso County,Other non-motorist recorded,No injury reported,1
+2026,El Paso County,Pedestrian recorded,Fatal,4
+2026,El Paso County,Pedestrian recorded,Injury,71
+2026,El Paso County,Pedestrian recorded,No injury reported,6
